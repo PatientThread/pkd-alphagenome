@@ -340,13 +340,15 @@ This study received no funding from any public, commercial or not-for-profit bod
 ## Data Availability Statement
 
 The curated benchmark, its source quotations, the screening log, all score tables, every figure and
-the analysis plan with its dated amendments are available from the author on request and will be
-deposited in a public repository with a persistent identifier. A reviewer package containing the
-labelled data set, per-variant analysis-set membership flags, all stored scores, the ranking manifest
-and a script that regenerates every number in this manuscript without repeating any model query is
-available on request. AlphaGenome predictions are redistributed under the AlphaGenome Output Terms
-of Use, which permit non-commercial use and scientific publication. Publisher full texts are not
-redistributed.
+the analysis plan with its dated amendments are archived at Zenodo, doi:10.5281/zenodo.23103370,
+and in the project repository at https://github.com/PatientThread/pkd-alphagenome (release
+v1.0-jmg). The archive includes the labelled data set, per-variant analysis-set membership flags,
+all stored scores, the ranking manifest and a script that regenerates every number in this
+manuscript without repeating any model query. AlphaGenome predictions are redistributed under the
+AlphaGenome Output Terms of Use, which permit non-commercial use and scientific publication;
+SpliceAI-derived and CADD-derived files carry their own upstream terms, set out in the archive.
+Publisher full texts are not redistributed: each truth-set entry carries a verbatim quotation and a
+PMID so a reader can verify it against the source.
 
 ## References
 

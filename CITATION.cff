@@ -24,4 +24,7 @@ keywords:
   - variant interpretation
   - AlphaGenome
   - SpliceAI
+doi: "10.5281/zenodo.23103370"
+version: v1.0-jmg
+repository-code: "https://github.com/PatientThread/pkd-alphagenome"
 license-url: "https://github.com/PatientThread/pkd-alphagenome/blob/main/LICENSE"
