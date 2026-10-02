@@ -1,0 +1,113 @@
+authenticating (key not logged)
+I0919 17:59:48.975406 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975463 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975468 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975471 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975474 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975477 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975480 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975483 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975485 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975488 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975490 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975493 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975495 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975497 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975500 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975502 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975504 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975507 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975509 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975511 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975514 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975516 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975518 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975520 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975522 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975525 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975527 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975529 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975532 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975534 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975536 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975539 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975541 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975543 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975545 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+I0919 17:59:48.975547 2100968 ev_poll_posix.cc:587] FD from fork parent still in poll list: fd(7, generation: 1)
+  PKD1: 100/1631 chunks, 97s
+  PKD1: 200/1631 chunks, 195s
+  PKD1: 300/1631 chunks, 360s
+  PKD1: 400/1631 chunks, 487s
+  PKD1: 500/1631 chunks, 581s
+  PKD1: 600/1631 chunks, 677s
+  PKD1: 700/1631 chunks, 783s
+  PKD1: 800/1631 chunks, 878s
+  PKD1: 900/1631 chunks, 974s
+  PKD1: 1000/1631 chunks, 1074s
+  PKD1: 1100/1631 chunks, 1171s
+  PKD1: 1200/1631 chunks, 1268s
+  PKD1: 1300/1631 chunks, 1366s
+  PKD1: 1400/1631 chunks, 1464s
+  PKD1: 1500/1631 chunks, 1561s
+  PKD1: 1600/1631 chunks, 1657s
+PKD1: 156,573 variants (expected ~156,573 SNVs) in 1689s
+  PKD2: 100/2350 chunks, 97s
+  PKD2: 200/2350 chunks, 192s
+  PKD2: 300/2350 chunks, 285s
+  PKD2: 400/2350 chunks, 381s
+  PKD2: 500/2350 chunks, 478s
+  PKD2: 600/2350 chunks, 574s
+  PKD2: 700/2350 chunks, 670s
+  PKD2: 800/2350 chunks, 768s
+  PKD2: 900/2350 chunks, 865s
+  PKD2: 1000/2350 chunks, 963s
+  PKD2: 1100/2350 chunks, 1059s
+  PKD2: 1200/2350 chunks, 1156s
+  PKD2: 1300/2350 chunks, 1254s
+  PKD2: 1400/2350 chunks, 1352s
+  PKD2: 1500/2350 chunks, 1447s
+  PKD2: 1600/2350 chunks, 1542s
+  PKD2: 1700/2350 chunks, 1638s
+  PKD2: 1800/2350 chunks, 1735s
+  PKD2: 1900/2350 chunks, 1834s
+  PKD2: 2000/2350 chunks, 1931s
+  PKD2: 2100/2350 chunks, 2035s
+  PKD2: 2200/2350 chunks, 2145s
+  PKD2: 2300/2350 chunks, 2246s
+PKD2: 225,576 variants (expected ~225,576 SNVs) in 2298s
+Traceback (most recent call last):
+  File "/Users/lawrencemedicallimited/Patient Thread /pkd-alphagenome/analysis/06_score_atlas.py", line 139, in <module>
+    log["finished"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    ^^^^^^
+  File "/Users/lawrencemedicallimited/Patient Thread /pkd-alphagenome/analysis/06_score_atlas.py", line 129, in main
+    for r in snv.itertuples()]
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/frame.py", line 12902, in merge
+    return merge(
+           ^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 399, in merge
+    return op.get_result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 1141, in get_result
+    join_index, left_indexer, right_indexer = self._get_join_info()
+                                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 1423, in _get_join_info
+    (left_indexer, right_indexer) = self._get_join_indexers()
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 1397, in _get_join_indexers
+    return get_join_indexers(
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 2110, in get_join_indexers
+    lidx, ridx = get_join_indexers_non_unique(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 2144, in get_join_indexers_non_unique
+    lkey, rkey, count = _factorize_keys(left, right, sort=sort, how=how)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lawrencemedicallimited/.venvs/alphagenome/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 2933, in _factorize_keys
+    llab = rizer.factorize(lk_data, mask=lk_mask)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/hashtable.pyx", line 123, in pandas._libs.hashtable.ObjectFactorizer.factorize
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7882, in pandas._libs.hashtable.PyObjectHashTable.get_labels
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7783, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'Variant'

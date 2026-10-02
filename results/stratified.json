@@ -1,0 +1,714 @@
+{
+  "assay_class_counts": {
+    "NEG": {
+      "reporter output": 2,
+      "splicing": 70
+    },
+    "POS": {
+      "reporter output": 4,
+      "splicing": 50
+    }
+  },
+  "coverage": [
+    {
+      "assay class": "reporter output",
+      "tool": "SpliceAI",
+      "variants": 6,
+      "scored": 6,
+      "unscored": 0
+    },
+    {
+      "assay class": "reporter output",
+      "tool": "AlphaGenome splicing composite",
+      "variants": 6,
+      "scored": 6,
+      "unscored": 0
+    },
+    {
+      "assay class": "reporter output",
+      "tool": "AVI",
+      "variants": 6,
+      "scored": 5,
+      "unscored": 1
+    },
+    {
+      "assay class": "reporter output",
+      "tool": "CADD",
+      "variants": 6,
+      "scored": 6,
+      "unscored": 0
+    },
+    {
+      "assay class": "splicing",
+      "tool": "SpliceAI",
+      "variants": 120,
+      "scored": 120,
+      "unscored": 0
+    },
+    {
+      "assay class": "splicing",
+      "tool": "AlphaGenome splicing composite",
+      "variants": 120,
+      "scored": 120,
+      "unscored": 0
+    },
+    {
+      "assay class": "splicing",
+      "tool": "AVI",
+      "variants": 120,
+      "scored": 115,
+      "unscored": 5
+    },
+    {
+      "assay class": "splicing",
+      "tool": "CADD",
+      "variants": 120,
+      "scored": 115,
+      "unscored": 5
+    }
+  ],
+  "primary_splicing_class": {
+    "definition": "variants whose evidence is a splicing assay (patient RNA or minigene)",
+    "n_pos": 50,
+    "n_neg": 70,
+    "auc": {
+      "SpliceAI": {
+        "n_pos": 50,
+        "n_neg": 70,
+        "auc": 0.846,
+        "ci95": [
+          0.761,
+          0.919
+        ]
+      },
+      "AlphaGenome splicing composite": {
+        "n_pos": 50,
+        "n_neg": 70,
+        "auc": 0.846,
+        "ci95": [
+          0.77,
+          0.916
+        ]
+      },
+      "AVI": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.718,
+        "ci95": [
+          0.62,
+          0.808
+        ]
+      },
+      "CADD": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.565,
+        "ci95": [
+          0.454,
+          0.668
+        ]
+      }
+    },
+    "paired_ag_composite_vs_spliceai": {
+      "n_pos": 50,
+      "n_neg": 70,
+      "auc_a": 0.846,
+      "auc_b": 0.846,
+      "auc_difference": 0.0,
+      "ci95": [
+        -0.033,
+        0.037
+      ]
+    },
+    "study_cluster_bootstrap": {
+      "SpliceAI": {
+        "auc": 0.846,
+        "ci95_study_cluster": [
+          0.715,
+          0.999
+        ],
+        "n_studies": 21
+      },
+      "AlphaGenome splicing composite": {
+        "auc": 0.846,
+        "ci95_study_cluster": [
+          0.707,
+          0.993
+        ],
+        "n_studies": 21
+      }
+    },
+    "paired_cluster_bootstrap": {
+      "auc_difference": 0.0,
+      "ci95_study_cluster": [
+        -0.042,
+        0.017
+      ],
+      "n_studies": 21,
+      "n_resamples": 1994,
+      "seed": 20260921
+    }
+  },
+  "leave_one_study_out": {
+    "10612835": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.845
+    },
+    "19158373": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "20950398": {
+      "SpliceAI": 0.844,
+      "AlphaGenome": 0.845
+    },
+    "24575920": {
+      "SpliceAI": 0.841,
+      "AlphaGenome": 0.84
+    },
+    "24907393": {
+      "SpliceAI": 0.805,
+      "AlphaGenome": 0.797
+    },
+    "26692149": {
+      "SpliceAI": 0.829,
+      "AlphaGenome": 0.828
+    },
+    "27984604": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "30424739": {
+      "SpliceAI": 0.844,
+      "AlphaGenome": 0.845
+    },
+    "34257392": {
+      "SpliceAI": 0.92,
+      "AlphaGenome": 0.916
+    },
+    "34749493": {
+      "SpliceAI": 0.845,
+      "AlphaGenome": 0.843
+    },
+    "36029107": {
+      "SpliceAI": 0.852,
+      "AlphaGenome": 0.861
+    },
+    "37272738": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.844
+    },
+    "37419908": {
+      "SpliceAI": 0.833,
+      "AlphaGenome": 0.835
+    },
+    "37468838": {
+      "SpliceAI": 0.907,
+      "AlphaGenome": 0.901
+    },
+    "39169606": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "39200828": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "41083429": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "41141524": {
+      "SpliceAI": 0.837,
+      "AlphaGenome": 0.84
+    },
+    "41242437": {
+      "SpliceAI": 0.844,
+      "AlphaGenome": 0.845
+    },
+    "41659037": {
+      "SpliceAI": 0.843,
+      "AlphaGenome": 0.843
+    },
+    "42502691": {
+      "SpliceAI": 0.845,
+      "AlphaGenome": 0.844
+    }
+  },
+  "subgroups_splicing_class": {
+    "gene": {
+      "PKD1": {
+        "SpliceAI": {
+          "n_pos": 41,
+          "n_neg": 50,
+          "auc": 0.824,
+          "ci95": [
+            0.727,
+            0.905
+          ]
+        },
+        "AlphaGenome": {
+          "n_pos": 41,
+          "n_neg": 50,
+          "auc": 0.835,
+          "ci95": [
+            0.742,
+            0.912
+          ]
+        }
+      },
+      "PKD2": {
+        "SpliceAI": {
+          "n_pos": 9,
+          "n_neg": 20,
+          "auc": 0.928,
+          "ci95": [
+            0.817,
+            1.0
+          ]
+        },
+        "AlphaGenome": {
+          "n_pos": 9,
+          "n_neg": 20,
+          "auc": 0.917,
+          "ci95": [
+            0.794,
+            0.989
+          ]
+        }
+      }
+    },
+    "splice_distance": {
+      "canonical": {
+        "SpliceAI": {
+          "n_pos": 5,
+          "n_neg": 0,
+          "auc": null,
+          "withheld_because": "no variants of one outcome class"
+        },
+        "AlphaGenome": {
+          "n_pos": 5,
+          "n_neg": 0,
+          "auc": null,
+          "withheld_because": "no variants of one outcome class"
+        }
+      },
+      "deep intronic (>20 nt)": {
+        "SpliceAI": {
+          "n_pos": 6,
+          "n_neg": 1,
+          "auc": null,
+          "withheld_because": "not reported because of sparse controls"
+        },
+        "AlphaGenome": {
+          "n_pos": 6,
+          "n_neg": 1,
+          "auc": null,
+          "withheld_because": "not reported because of sparse controls"
+        }
+      },
+      "exonic or UTR": {
+        "SpliceAI": {
+          "n_pos": 20,
+          "n_neg": 48,
+          "auc": 0.819,
+          "ci95": [
+            0.672,
+            0.939
+          ]
+        },
+        "AlphaGenome": {
+          "n_pos": 20,
+          "n_neg": 48,
+          "auc": 0.836,
+          "ci95": [
+            0.713,
+            0.936
+          ]
+        }
+      },
+      "near-splice (3-20 nt)": {
+        "SpliceAI": {
+          "n_pos": 19,
+          "n_neg": 21,
+          "auc": 0.791,
+          "ci95": [
+            0.625,
+            0.929
+          ]
+        },
+        "AlphaGenome": {
+          "n_pos": 19,
+          "n_neg": 21,
+          "auc": 0.789,
+          "ci95": [
+            0.634,
+            0.922
+          ]
+        }
+      }
+    },
+    "origin": {
+      "engineered": {
+        "SpliceAI": {
+          "n_pos": 23,
+          "n_neg": 69,
+          "auc": 0.734,
+          "ci95": [
+            0.603,
+            0.862
+          ]
+        },
+        "AlphaGenome": {
+          "n_pos": 23,
+          "n_neg": 69,
+          "auc": 0.756,
+          "ci95": [
+            0.642,
+            0.861
+          ]
+        }
+      },
+      "patient": {
+        "SpliceAI": {
+          "n_pos": 26,
+          "n_neg": 0,
+          "auc": null,
+          "withheld_because": "no variants of one outcome class"
+        },
+        "AlphaGenome": {
+          "n_pos": 26,
+          "n_neg": 0,
+          "auc": null,
+          "withheld_because": "no variants of one outcome class"
+        }
+      },
+      "population": {
+        "SpliceAI": {
+          "n_pos": 1,
+          "n_neg": 1,
+          "auc": null,
+          "withheld_because": "not reported because of sparse controls"
+        },
+        "AlphaGenome": {
+          "n_pos": 1,
+          "n_neg": 1,
+          "auc": null,
+          "withheld_because": "not reported because of sparse controls"
+        }
+      }
+    }
+  },
+  "composite_scores_noncoding_synonymous_splicing_class": {
+    "AVI": {
+      "n_pos": 30,
+      "n_neg": 25,
+      "auc": 0.763,
+      "ci95": [
+        0.624,
+        0.891
+      ]
+    },
+    "CADD": {
+      "n_pos": 30,
+      "n_neg": 25,
+      "auc": 0.727,
+      "ci95": [
+        0.591,
+        0.852
+      ]
+    }
+  },
+  "abundance_class": {
+    "n": 0,
+    "variants": []
+  },
+  "reporter_output_class": {
+    "n": 6,
+    "variants": [
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-20A>G",
+        "label": "POS",
+        "mechanism": "translation INCREASED; disrupts a uORF start codon",
+        "spliceai_max": 0.0,
+        "ag_splicing_composite_anygene": 0.041,
+        "splice_sites_maxabs_anygene": 0.01,
+        "rna_seq_maxabs_all": 0.079,
+        "avi_locus_pct": 87.048
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-23G>T",
+        "label": "POS",
+        "mechanism": "translation INCREASED about 42%; changes the -3 nucleotide of uORF2",
+        "spliceai_max": 0.0,
+        "ag_splicing_composite_anygene": 0.046,
+        "splice_sites_maxabs_anygene": 0.012,
+        "rna_seq_maxabs_all": 0.075,
+        "avi_locus_pct": 87.516
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-52C>T",
+        "label": "NEG",
+        "mechanism": "none",
+        "spliceai_max": 0.0,
+        "ag_splicing_composite_anygene": 0.03,
+        "splice_sites_maxabs_anygene": 0.01,
+        "rna_seq_maxabs_all": 0.019,
+        "avi_locus_pct": 76.323
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-66T>C",
+        "label": "POS",
+        "mechanism": "translation DECREASED; removes the uORF1 stop codon",
+        "spliceai_max": 0.0,
+        "ag_splicing_composite_anygene": 0.044,
+        "splice_sites_maxabs_anygene": 0.008,
+        "rna_seq_maxabs_all": 0.07,
+        "avi_locus_pct": 87.301
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-69dupG",
+        "label": "POS",
+        "mechanism": "translation (uORF1 extension)",
+        "spliceai_max": 0.01,
+        "ag_splicing_composite_anygene": 0.033,
+        "splice_sites_maxabs_anygene": 0.008,
+        "rna_seq_maxabs_all": 0.047,
+        "avi_locus_pct": NaN
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.-209G>A",
+        "label": "NEG",
+        "mechanism": "none",
+        "spliceai_max": 0.0,
+        "ag_splicing_composite_anygene": 0.044,
+        "splice_sites_maxabs_anygene": 0.012,
+        "rna_seq_maxabs_all": 0.037,
+        "avi_locus_pct": 84.91
+      }
+    ]
+  },
+  "common_subset_all_tools": {
+    "n_pos": 45,
+    "n_neg": 70,
+    "excluded": [
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.12445-34_12445-10del",
+        "label": "POS"
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.10167+25_10167+43del",
+        "label": "POS"
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.8791+1_8791+5del",
+        "label": "POS"
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.7066-131_7066-130delinsAG",
+        "label": "POS"
+      },
+      {
+        "gene": "PKD1",
+        "hgvs_c": "c.1717_1722+11del",
+        "label": "POS"
+      }
+    ],
+    "auc": {
+      "SpliceAI": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.832,
+        "ci95": [
+          0.746,
+          0.913
+        ]
+      },
+      "AlphaGenome splicing composite": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.833,
+        "ci95": [
+          0.748,
+          0.911
+        ]
+      },
+      "AVI": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.718,
+        "ci95": [
+          0.62,
+          0.808
+        ]
+      },
+      "CADD": {
+        "n_pos": 45,
+        "n_neg": 70,
+        "auc": 0.565,
+        "ci95": [
+          0.454,
+          0.668
+        ]
+      }
+    },
+    "paired_ag_vs_spliceai": {
+      "n_pos": 45,
+      "n_neg": 70,
+      "auc_a": 0.833,
+      "auc_b": 0.832,
+      "auc_difference": 0.002,
+      "ci95": [
+        -0.036,
+        0.038
+      ]
+    }
+  },
+  "thresholds_splicing_class": {
+    "SpliceAI >= 0.2": {
+      "TP": 41,
+      "FN": 9,
+      "FP": 17,
+      "TN": 53,
+      "sensitivity_%": 82.0,
+      "sens_CI": [
+        69.2,
+        90.2
+      ],
+      "flagged_among_no_effect_%": 24.3,
+      "flag_CI": [
+        15.8,
+        35.5
+      ]
+    },
+    "SpliceAI >= 0.5": {
+      "TP": 35,
+      "FN": 15,
+      "FP": 7,
+      "TN": 63,
+      "sensitivity_%": 70.0,
+      "sens_CI": [
+        56.2,
+        80.9
+      ],
+      "flagged_among_no_effect_%": 10.0,
+      "flag_CI": [
+        4.9,
+        19.2
+      ]
+    }
+  },
+  "provenance_by_outcome": {
+    "NEG": {
+      "engineered": 69,
+      "patient": 0,
+      "population": 1
+    },
+    "POS": {
+      "engineered": 23,
+      "patient": 26,
+      "population": 1
+    }
+  },
+  "composite_scores_PKD1_only": {
+    "rationale": "PKD1 lies on chromosome 16, which is absent from the AVI training and validation chromosome lists; PKD2 lies on chromosome 4, which is a training chromosome, so overlap cannot be excluded for PKD2 (it is not demonstrated either: no position-level overlap check was possible).",
+    "all_tools": {
+      "SpliceAI": {
+        "n_pos": 41,
+        "n_neg": 50,
+        "auc": 0.824,
+        "ci95": [
+          0.727,
+          0.905
+        ]
+      },
+      "AlphaGenome splicing composite": {
+        "n_pos": 41,
+        "n_neg": 50,
+        "auc": 0.835,
+        "ci95": [
+          0.742,
+          0.912
+        ]
+      },
+      "AVI": {
+        "n_pos": 36,
+        "n_neg": 50,
+        "auc": 0.722,
+        "ci95": [
+          0.609,
+          0.827
+        ]
+      },
+      "CADD": {
+        "n_pos": 36,
+        "n_neg": 50,
+        "auc": 0.557,
+        "ci95": [
+          0.431,
+          0.684
+        ]
+      }
+    },
+    "noncoding_synonymous": {
+      "AVI": {
+        "n_pos": 25,
+        "n_neg": 18,
+        "auc": 0.793,
+        "ci95": [
+          0.627,
+          0.936
+        ]
+      },
+      "CADD": {
+        "n_pos": 25,
+        "n_neg": 18,
+        "auc": 0.731,
+        "ci95": [
+          0.555,
+          0.876
+        ]
+      }
+    }
+  },
+  "resampling_details": {
+    "seeds": {
+      "auc_ci": 20260920,
+      "cluster_auc_ci": 20260920,
+      "paired_diff": 20260920,
+      "paired_cluster_bootstrap": 20260921
+    },
+    "n_resamples": 2000,
+    "interval_method": "percentile bootstrap, 2.5th and 97.5th centiles",
+    "variant_level_bootstrap": "positives and negatives resampled independently with replacement, preserving the observed class sizes",
+    "cluster_bootstrap": "whole source studies resampled with replacement; a resample containing only one outcome class yields no AUC and is discarded, and the number retained is reported alongside the interval",
+    "paired_comparison": "both tools evaluated on the SAME resampled indices, which is why the paired interval can be narrow while the marginal intervals are wide",
+    "variants_with_two_sources": {
+      "n": 2,
+      "handling": "assigned to the FIRST listed PMID for clustering, so each variant belongs to exactly one cluster and no variant is counted twice",
+      "variants": [
+        {
+          "gene": "PKD1",
+          "hgvs_c": "c.7489+5G>A",
+          "pmids": "37419908;42621998"
+        },
+        {
+          "gene": "PKD2",
+          "hgvs_c": "c.1716G>A",
+          "pmids": "26692149;34542828"
+        }
+      ]
+    },
+    "ties": "AUC counts ties as one half, so identical scores neither help nor harm a tool"
+  }
+}

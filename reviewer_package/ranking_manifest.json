@@ -1,0 +1,243 @@
+{
+ "unit": "alternate allele (three substitutions per position in both backgrounds)",
+ "matching_rule": "identical for both backgrounds: the AVI threshold is set so that AVI flags the same PROPORTION of its background as SpliceAI >= 0.5 flags of its own background",
+ "history": "Until 20 September 2026 the two tools were matched on raw COUNTS. The SpliceAI background is a 1-in-4 sample of positions and the AVI background is complete, so equal counts set a fourfold stricter AVI threshold. Amendment A7 corrected this. Every number below is post-correction; the comparison between the two backgrounds is NOT a consequence of that bug.",
+ "backgrounds": {
+  "PKD1": {
+   "whole locus": {
+    "spliceai": {
+     "alleles_scored": 39144,
+     "positions": 13048,
+     "threshold": 0.5,
+     "flagged": 408,
+     "flag_proportion_pct": 1.0423,
+     "resolution_one_allele_pct": 0.0026
+    },
+    "avi": {
+     "alleles_scored": 156573,
+     "positions": 52191,
+     "threshold": 1.550434,
+     "flagged": 1632,
+     "flag_proportion_pct": 1.0423
+    },
+    "eligible_benchmark_variants": {
+     "n_pos": 25,
+     "n_neg": 18,
+     "pos_ids": [
+      "c.10051-239G>A",
+      "c.11017-10C>A",
+      "c.11017-25A>C",
+      "c.11017-25A>G",
+      "c.11257C>A",
+      "c.11270-10T>A",
+      "c.11346C>T",
+      "c.11412-3C>G",
+      "c.11538-2A>G",
+      "c.1202-8G>A",
+      "c.12444+1G>A",
+      "c.12444G>A",
+      "c.2097+5G>A",
+      "c.2853+5G>C",
+      "c.2854-3C>G",
+      "c.2985+5G>A",
+      "c.3162-2A>T",
+      "c.327A>T",
+      "c.7209+5G>A",
+      "c.7210-9T>A",
+      "c.7489+5G>A",
+      "c.7490-11C>G",
+      "c.7490-3C>G",
+      "c.9202-16G>A",
+      "c.9397+3G>C"
+     ],
+     "neg_ids": [
+      "c.11017-3C>T",
+      "c.11156+5G>A",
+      "c.11713-3C>G",
+      "c.11713-9C>A",
+      "c.12003+5G>T",
+      "c.1386-16C>A",
+      "c.1723-17G>A",
+      "c.2854-7C>A",
+      "c.2854-9C>A",
+      "c.3159C>T",
+      "c.7066-130A>G",
+      "c.7066-9C>A",
+      "c.7210-10C>A",
+      "c.7210-6C>T",
+      "c.7866C>T",
+      "c.8161+4C>T",
+      "c.8791+5G>A",
+      "c.9201+5G>A"
+     ]
+    },
+    "recovery": {
+     "spliceai_pos": 20,
+     "avi_pos": 5,
+     "spliceai_neg_flagged": 3,
+     "avi_neg_flagged": 2
+    }
+   },
+   "non-coding positions only": {
+    "spliceai": {
+     "alleles_scored": 28401,
+     "positions": 9467,
+     "threshold": 0.5,
+     "flagged": 159,
+     "flag_proportion_pct": 0.5598,
+     "resolution_one_allele_pct": 0.0035
+    },
+    "avi": {
+     "alleles_scored": 113607,
+     "positions": 37869,
+     "threshold": 0.665317,
+     "flagged": 636,
+     "flag_proportion_pct": 0.5598
+    },
+    "eligible_benchmark_variants": {
+     "n_pos": 21,
+     "n_neg": 16,
+     "pos_ids": [
+      "c.10051-239G>A",
+      "c.11017-10C>A",
+      "c.11017-25A>C",
+      "c.11017-25A>G",
+      "c.11270-10T>A",
+      "c.11412-3C>G",
+      "c.11538-2A>G",
+      "c.1202-8G>A",
+      "c.12444+1G>A",
+      "c.2097+5G>A",
+      "c.2853+5G>C",
+      "c.2854-3C>G",
+      "c.2985+5G>A",
+      "c.3162-2A>T",
+      "c.7209+5G>A",
+      "c.7210-9T>A",
+      "c.7489+5G>A",
+      "c.7490-11C>G",
+      "c.7490-3C>G",
+      "c.9202-16G>A",
+      "c.9397+3G>C"
+     ],
+     "neg_ids": [
+      "c.11017-3C>T",
+      "c.11156+5G>A",
+      "c.11713-3C>G",
+      "c.11713-9C>A",
+      "c.12003+5G>T",
+      "c.1386-16C>A",
+      "c.1723-17G>A",
+      "c.2854-7C>A",
+      "c.2854-9C>A",
+      "c.7066-130A>G",
+      "c.7066-9C>A",
+      "c.7210-10C>A",
+      "c.7210-6C>T",
+      "c.8161+4C>T",
+      "c.8791+5G>A",
+      "c.9201+5G>A"
+     ]
+    },
+    "recovery": {
+     "spliceai_pos": 17,
+     "avi_pos": 18,
+     "spliceai_neg_flagged": 3,
+     "avi_neg_flagged": 3
+    }
+   }
+  },
+  "PKD2": {
+   "whole locus": {
+    "spliceai": {
+     "alleles_scored": 37596,
+     "positions": 12532,
+     "threshold": 0.5,
+     "flagged": 105,
+     "flag_proportion_pct": 0.2793,
+     "resolution_one_allele_pct": 0.0027
+    },
+    "avi": {
+     "alleles_scored": 225576,
+     "positions": 75192,
+     "threshold": 1.615632,
+     "flagged": 630,
+     "flag_proportion_pct": 0.2793
+    },
+    "eligible_benchmark_variants": {
+     "n_pos": 5,
+     "n_neg": 7,
+     "pos_ids": [
+      "c.1548+5G>C",
+      "c.1716G>A",
+      "c.1717-2A>G",
+      "c.1898+5G>A",
+      "c.2020-5A>G"
+     ],
+     "neg_ids": [
+      "c.1320G>A",
+      "c.1899-6T>G",
+      "c.2019+5G>A",
+      "c.2241-14C>T",
+      "c.2359-7T>A",
+      "c.595+3A>T",
+      "c.710-6T>C"
+     ]
+    },
+    "recovery": {
+     "spliceai_pos": 5,
+     "avi_pos": 4,
+     "spliceai_neg_flagged": 2,
+     "avi_neg_flagged": 1
+    }
+   },
+   "non-coding positions only": {
+    "spliceai": {
+     "alleles_scored": 35019,
+     "positions": 11673,
+     "threshold": 0.5,
+     "flagged": 43,
+     "flag_proportion_pct": 0.1228,
+     "resolution_one_allele_pct": 0.0029
+    },
+    "avi": {
+     "alleles_scored": 210135,
+     "positions": 70045,
+     "threshold": 0.908628,
+     "flagged": 258,
+     "flag_proportion_pct": 0.1228
+    },
+    "eligible_benchmark_variants": {
+     "n_pos": 4,
+     "n_neg": 6,
+     "pos_ids": [
+      "c.1548+5G>C",
+      "c.1717-2A>G",
+      "c.1898+5G>A",
+      "c.2020-5A>G"
+     ],
+     "neg_ids": [
+      "c.1899-6T>G",
+      "c.2019+5G>A",
+      "c.2241-14C>T",
+      "c.2359-7T>A",
+      "c.595+3A>T",
+      "c.710-6T>C"
+     ]
+    },
+    "recovery": {
+     "spliceai_pos": 4,
+     "avi_pos": 4,
+     "spliceai_neg_flagged": 2,
+     "avi_neg_flagged": 3
+    }
+   }
+  }
+ },
+ "why_the_backgrounds_disagree": {
+  "explanation": "AVI is a whole-genome pathogenicity score and ranks amino-acid-changing variants highly. Against a whole-locus background its top slice is filled by coding positions, which leaves few places for non-coding positives. Restricting the background to non-coding positions removes that competition. The disagreement between the two comparisons is therefore a property of the question asked, not an artefact.",
+  "avi_top_slice_alleles": 1632,
+  "percent_of_avi_top_slice_that_is_non_coding": 2.1,
+  "percent_of_whole_locus_that_is_non_coding": 72.6
+ }
+}

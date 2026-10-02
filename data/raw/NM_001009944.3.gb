@@ -1,0 +1,1192 @@
+LOCUS       NM_001009944           14140 bp    mRNA    linear   PRI 07-SEP-2026
+DEFINITION  Homo sapiens polycystin 1, transient receptor potential channel
+            interacting (PKD1), transcript variant 1, mRNA.
+ACCESSION   NM_001009944
+VERSION     NM_001009944.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 14140)
+  AUTHORS   Kurbegovic,A., Lazar,V., Xu,W.M., Seshan,M., Underwood,J.S.,
+            Micanovic,R., Pomerantz,J.M., Srivastava,R., Janga,S., Doud,E.H.,
+            Clendenon,S., Trudel,M., Wandinger-Ness,A. and Bacallao,R.L.
+  TITLE     Eliosin-an alternative product from the HmPKD1 locus is a component
+            of endoplasmic reticulum mitochondria membrane contact sites
+  JOURNAL   PLoS One 20 (10), e0332969 (2025)
+   PUBMED   41166294
+REFERENCE   2  (bases 1 to 14140)
+  AUTHORS   Xu,D., Mao,A., Chen,L., Wu,L., Ma,Y. and Mei,C.
+  TITLE     Comprehensive Analysis of PKD1 and PKD2 by Long-Read Sequencing in
+            Autosomal Dominant Polycystic Kidney Disease
+  JOURNAL   Clin Chem 70 (6), 841-854 (2024)
+   PUBMED   38527221
+  REMARK    GeneRIF: Comprehensive Analysis of PKD1 and PKD2 by Long-Read
+            Sequencing in Autosomal Dominant Polycystic Kidney Disease.
+REFERENCE   3  (bases 1 to 14140)
+  AUTHORS   Wei,T., Zhang,B., Tang,W., Li,X., Shuai,Z., Tang,T., Zhang,Y.,
+            Deng,L. and Liu,Q.
+  TITLE     A de novo PKD1 mutation in a Chinese family with autosomal dominant
+            polycystic kidney disease
+  JOURNAL   Medicine (Baltimore) 103 (13), e27853 (2024)
+   PUBMED   38552045
+  REMARK    GeneRIF: A de novo PKD1 mutation in a Chinese family with autosomal
+            dominant polycystic kidney disease.
+REFERENCE   4  (bases 1 to 14140)
+  AUTHORS   Ali,H., Alahmad,B., Senum,S.R., Warsame,S., Bahbahani,Y.,
+            Abu-Farha,M., Abubaker,J., Alqaddoumi,M., Al-Mulla,F. and
+            Harris,P.C.
+  TITLE     PKD1 Truncating Mutations Accelerate eGFR Decline in Autosomal
+            Dominant Polycystic Kidney Disease Patients
+  JOURNAL   Am J Nephrol 55 (3), 380-388 (2024)
+   PUBMED   38194940
+  REMARK    GeneRIF: PKD1 Truncating Mutations Accelerate eGFR Decline in
+            Autosomal Dominant Polycystic Kidney Disease Patients.
+REFERENCE   5  (bases 1 to 14140)
+  AUTHORS   Turco,A.E., Rossetti,S., Bresin,E., Corra,S., Gammaro,L.,
+            Maschio,G. and Pignatti,P.F.
+  TITLE     A novel nonsense mutation in the PKD1 gene (C3817T) is associated
+            with autosomal dominant polycystic kidney disease (ADPKD) in a
+            large three-generation Italian family
+  JOURNAL   Hum Mol Genet 4 (8), 1331-1335 (1995)
+   PUBMED   7581371
+REFERENCE   6  (bases 1 to 14140)
+  AUTHORS   Burn,T.C., Connors,T.D., Dackowski,W.R., Petry,L.R., Van Raay,T.J.,
+            Millholland,J.M., Venet,M., Miller,G., Hakim,R.M., Landes,G.M. et
+            al.
+  TITLE     Analysis of the genomic sequence for the autosomal dominant
+            polycystic kidney disease (PKD1) gene predicts the presence of a
+            leucine-rich repeat. The American PKD1 Consortium (APKD1
+            Consortium)
+  JOURNAL   Hum Mol Genet 4 (4), 575-582 (1995)
+   PUBMED   7633406
+REFERENCE   7  (bases 1 to 14140)
+  AUTHORS   Gunay-Aygun,M., Gahl,W.A. and Heller,T.
+  TITLE     Congenital Hepatic Fibrosis Overview horizontal line RETIRED
+            CHAPTER, FOR HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE and Amemiya A
+            (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301743
+REFERENCE   8  (bases 1 to 14140)
+  AUTHORS   Harris,P.C. and Torres,V.E.
+  TITLE     Polycystic Kidney Disease, Autosomal Dominant
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301424
+REFERENCE   9  (bases 1 to 14140)
+  AUTHORS   Milewicz,D.M. and Cecchi,A.C.
+  TITLE     Heritable Thoracic Aortic Disease Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301299
+REFERENCE   10 (bases 1 to 14140)
+  AUTHORS   Watson,M.L., Wright,A.F., Macnicol,A.M., Allan,P.L., Clayton,J.F.,
+            Dempster,M., Jeremiah,S.J., Corney,G. and Hopkinson,D.A.
+  TITLE     Studies of genetic linkage between adult polycystic kidney disease
+            and three markers on chromosome 16
+  JOURNAL   J Med Genet 24 (8), 457-461 (1987)
+   PUBMED   2821260
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC009065.8 and AC093513.3.
+            
+            On Jun 2, 2019 this sequence version replaced NM_001009944.2.
+            
+            Summary: This gene encodes a member of the polycystin protein
+            family. The encoded glycoprotein contains a large N-terminal
+            extracellular region, multiple transmembrane domains and a
+            cytoplasmic C-tail. It is an integral membrane protein that
+            functions as a regulator of calcium permeable cation channels and
+            intracellular calcium homoeostasis. It is also involved in
+            cell-cell/matrix interactions and may modulate G-protein-coupled
+            signal-transduction pathways. It plays a role in renal tubular
+            development, and mutations in this gene cause autosomal dominant
+            polycystic kidney disease type 1 (ADPKD1). ADPKD1 is characterized
+            by the growth of fluid-filled cysts that replace normal renal
+            tissue and result in end-stage renal failure. Splice variants
+            encoding different isoforms have been noted for this gene. Also,
+            six pseudogenes, closely linked in a known duplicated region on
+            chromosome 16p, have been described. [provided by RefSeq, Oct
+            2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U24497.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000262304.9/ ENSP00000262304.4
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-424               AC009065.8         141514-141937
+            425-496             AC009065.8         158034-158105
+            497-568             AC009065.8         158227-158298
+            569-738             AC009065.8         158567-158736
+            739-1410            AC009065.8         158950-159621
+            1411-1594           AC009065.8         159740-159923
+            1595-1815           AC009065.8         160359-160579
+            1816-1931           AC009065.8         160768-160883
+            1932-2058           AC009065.8         161294-161420
+            2059-2306           AC009065.8         161787-162034
+            2307-3062           AC009065.8         162487-163242
+            3063-3194           AC009065.8         164120-164251
+            3195-3370           AC009065.8         164449-164624
+            3371-3504           AC009065.8         164939-165072
+            3505-7124           AC009065.8         165541-169160
+            7125-7274           AC009065.8         169380-169529
+            7275-7418           AC009065.8         170464-170607
+            7419-7698           AC009065.8         170735-171014
+            7699-7912           AC009065.8         171108-171321
+            7913-8072           AC009065.8         171388-171547
+            8073-8225           AC009065.8         171938-172090
+            8226-8370           AC009065.8         172770-172914
+            8371-9000           AC009065.8         173517-174146
+            9001-9157           AC009065.8         174442-174598
+            9158-9410           AC009065.8         174779-175031
+            9411-9606           AC009065.8         175156-175351
+            9607-9777           AC009065.8         176846-177016
+            9778-9921           AC009065.8         177103-177246
+            9922-10132          AC009065.8         177341-177551
+            10133-10259         AC009065.8         177642-177768
+            10260-10376         AC009065.8         179428-179544
+            10377-10429         AC009065.8         179632-179684
+            10430-10614         AC009065.8         179909-180093
+            10615-10708         AC009065.8         180171-180264
+            10709-10827         AC009065.8         183202-183320
+            10828-11030         AC009065.8         183399-183601
+            11031-11225         AC009065.8         183674-183868
+            11226-11365         AC009065.8         184319-184458
+            11366-11478         AC009065.8         184820-184932
+            11479-11620         AC009065.8         185224-185365
+            11621-11746         AC009065.8         185506-185631
+            11747-11921         AC009065.8         185815-185989
+            11922-11995         AC009065.8         186238-186311
+            11996-12212         AC093513.3         1-217
+            12213-12347         AC093513.3         293-427
+            12348-12653         AC093513.3         511-816
+            12654-14140         AC093513.3         907-2393
+FEATURES             Location/Qualifiers
+     source          1..14140
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..14140
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="polycystin 1, transient receptor potential channel
+                     interacting"
+                     /db_xref="GeneID:5310"
+                     /db_xref="HGNC:HGNC:9008"
+                     /db_xref="MIM:601313"
+     exon            1..424
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    144..146
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="upstream in-frame stop codon"
+     CDS             210..13121
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; transient receptor potential cation channel,
+                     subfamily P, member 1; polycystin-1; polycystic kidney
+                     disease-associated protein; autosomal dominant polycystic
+                     kidney disease 1 protein; polycystic kidney disease 1
+                     (autosomal dominant)"
+                     /codon_start=1
+                     /product="polycystin-1 isoform 1 precursor"
+                     /protein_id="NP_001009944.3"
+                     /db_xref="CCDS:CCDS32369.1"
+                     /db_xref="GeneID:5310"
+                     /db_xref="HGNC:HGNC:9008"
+                     /db_xref="MIM:601313"
+                     /translation="MPPAAPARLALALGLGLWLGALAGGPGRGCGPCEPPCLCGPAPG
+                     AACRVNCSGRGLRTLGPALRIPADATALDVSHNLLRALDVGLLANLSALAELDISNNK
+                     ISTLEEGIFANLFNLSEINLSGNPFECDCGLAWLPRWAEEQQVRVVQPEAATCAGPGS
+                     LAGQPLLGIPLLDSGCGEEYVACLPDNSSGTVAAVSFSAAHEGLLQPEACSAFCFSTG
+                     QGLAALSEQGWCLCGAAQPSSASFACLSLCSGPPPPPAPTCRGPTLLQHVFPASPGAT
+                     LVGPHGPLASGQLAAFHIAAPLPVTATRWDFGDGSAEVDAAGPAASHRYVLPGRYHVT
+                     AVLALGAGSALLGTDVQVEAAPAALELVCPSSVQSDESLDLSIQNRGGSGLEAAYSIV
+                     ALGEEPARAVHPLCPSDTEIFPGNGHCYRLVVEKAAWLQAQEQCQAWAGAALAMVDSP
+                     AVQRFLVSRVTRSLDVWIGFSTVQGVEVGPAPQGEAFSLESCQNWLPGEPHPATAEHC
+                     VRLGPTGWCNTDLCSAPHSYVCELQPGGPVQDAENLLVGAPSGDLQGPLTPLAQQDGL
+                     SAPHEPVEVMVFPGLRLSREAFLTTAEFGTQELRRPAQLRLQVYRLLSTAGTPENGSE
+                     PESRSPDNRTQLAPACMPGGRWCPGANICLPLDASCHPQACANGCTSGPGLPGAPYAL
+                     WREFLFSVPAGPPAQYSVTLHGQDVLMLPGDLVGLQHDAGPGALLHCSPAPGHPGPRA
+                     PYLSANASSWLPHLPAQLEGTWACPACALRLLAATEQLTVLLGLRPNPGLRLPGRYEV
+                     RAEVGNGVSRHNLSCSFDVVSPVAGLRVIYPAPRDGRLYVPTNGSALVLQVDSGANAT
+                     ATARWPGGSVSARFENVCPALVATFVPGCPWETNDTLFSVVALPWLSEGEHVVDVVVE
+                     NSASRANLSLRVTAEEPICGLRATPSPEARVLQGVLVRYSPVVEAGSDMVFRWTINDK
+                     QSLTFQNVVFNVIYQSAAVFKLSLTASNHVSNVTVNYNVTVERMNRMQGLQVSTVPAV
+                     LSPNATLALTAGVLVDSAVEVAFLWTFGDGEQALHQFQPPYNESFPVPDPSVAQVLVE
+                     HNVMHTYAAPGEYLLTVLASNAFENLTQQVPVSVRASLPSVAVGVSDGVLVAGRPVTF
+                     YPHPLPSPGGVLYTWDFGDGSPVLTQSQPAANHTYASRGTYHVRLEVNNTVSGAAAQA
+                     DVRVFEELRGLSVDMSLAVEQGAPVVVSAAVQTGDNITWTFDMGDGTVLSGPEATVEH
+                     VYLRAQNCTVTVGAASPAGHLARSLHVLVFVLEVLRVEPAACIPTQPDARLTAYVTGN
+                     PAHYLFDWTFGDGSSNTTVRGCPTVTHNFTRSGTFPLALVLSSRVNRAHYFTSICVEP
+                     EVGNVTLQPERQFVQLGDEAWLVACAWPPFPYRYTWDFGTEEAAPTRARGPEVTFIYR
+                     DPGSYLVTVTASNNISAANDSALVEVQEPVLVTSIKVNGSLGLELQQPYLFSAVGRGR
+                     PASYLWDLGDGGWLEGPEVTHAYNSTGDFTVRVAGWNEVSRSEAWLNVTVKRRVRGLV
+                     VNASRTVVPLNGSVSFSTSLEAGSDVRYSWVLCDRCTPIPGGPTISYTFRSVGTFNII
+                     VTAENEVGSAQDSIFVYVLQLIEGLQVVGGGRYFPTNHTVQLQAVVRDGTNVSYSWTA
+                     WRDRGPALAGSGKGFSLTVLEAGTYHVQLRATNMLGSAWADCTMDFVEPVGWLMVAAS
+                     PNPAAVNTSVTLSAELAGGSGVVYTWSLEEGLSWETSEPFTTHSFPTPGLHLVTMTAG
+                     NPLGSANATVEVDVQVPVSGLSIRASEPGGSFVAAGSSVPFWGQLATGTNVSWCWAVP
+                     GGSSKRGPHVTMVFPDAGTFSIRLNASNAVSWVSATYNLTAEEPIVGLVLWASSKVVA
+                     PGQLVHFQILLAAGSAVTFRLQVGGANPEVLPGPRFSHSFPRVGDHVVSVRGKNHVSW
+                     AQAQVRIVVLEAVSGLQVPNCCEPGIATGTERNFTARVQRGSRVAYAWYFSLQKVQGD
+                     SLVILSGRDVTYTPVAAGLLEIQVRAFNALGSENRTLVLEVQDAVQYVALQSGPCFTN
+                     RSAQFEAATSPSPRRVAYHWDFGDGSPGQDTDEPRAEHSYLRPGDYRVQVNASNLVSF
+                     FVAQATVTVQVLACREPEVDVVLPLQVLMRRSQRNYLEAHVDLRDCVTYQTEYRWEVY
+                     RTASCQRPGRPARVALPGVDVSRPRLVLPRLALPVGHYCFVFVVSFGDTPLTQSIQAN
+                     VTVAPERLVPIIEGGSYRVWSDTRDLVLDGSESYDPNLEDGDQTPLSFHWACVASTQR
+                     EAGGCALNFGPRGSSTVTIPRERLAAGVEYTFSLTVWKAGRKEEATNQTVLIRSGRVP
+                     IVSLECVSCKAQAVYEVSRSSYVYLEGRCLNCSSGSKRGRWAARTFSNKTLVLDETTT
+                     STGSAGMRLVLRRGVLRDGEGYTFTLTVLGRSGEEEGCASIRLSPNRPPLGGSCRLFP
+                     LGAVHALTTKVHFECTGWHDAEDAGAPLVYALLLRRCRQGHCEEFCVYKGSLSSYGAV
+                     LPPGFRPHFEVGLAVVVQDQLGAAVVALNRSLAITLPEPNGSATGLTVWLHGLTASVL
+                     PGLLRQADPQHVIEYSLALVTVLNEYERALDVAAEPKHERQHRAQIRKNITETLVSLR
+                     VHTVDDIQQIAAALAQCMGPSRELVCRSCLKQTLHKLEAMMLILQAETTAGTVTPTAI
+                     GDSILNITGDLIHLASSDVRAPQPSELGAESPSRMVASQAYNLTSALMRILMRSRVLN
+                     EEPLTLAGEEIVAQGKRSDPRSLLCYGGAPGPGCHFSIPEAFSGALANLSDVVQLIFL
+                     VDSNPFPFGYISNYTVSTKVASMAFQTQAGAQIPIERLASERAITVKVPNNSDWAARG
+                     HRSSANSANSVVVQPQASVGAVVTLDSSNPAAGLHLQLNYTLLDGHYLSEEPEPYLAV
+                     YLHSEPRPNEHNCSASRRIRPESLQGADHRPYTFFISPGSRDPAGSYHLNLSSHFRWS
+                     ALQVSVGLYTSLCQYFSEEDMVWRTEGLLPLEETSPRQAVCLTRHLTAFGASLFVPPS
+                     HVRFVFPEPTADVNYIVMLTCAVCLVTYMVMAAILHKLDQLDASRGRAIPFCGQRGRF
+                     KYEILVKTGWGRGSGTTAHVGIMLYGVDSRSGHRHLDGDRAFHRNSLDIFRIATPHSL
+                     GSVWKIRVWHDNKGLSPAWFLQHVIVRDLQTARSAFFLVNDWLSVETEANGGLVEKEV
+                     LAASDAALLRFRRLLVAELQRGFFDKHIWLSIWDRPPRSRFTRIQRATCCVLLICLFL
+                     GANAVWYGAVGDSAYSTGHVSRLSPLSVDTVAVGLVSSVVVYPVYLAILFLFRMSRSK
+                     VAGSPSPTPAGQQVLDIDSCLDSSVLDSSFLTFSGLHAEQAFVGQMKSDLFLDDSKSL
+                     VCWPSGEGTLSWPDLLSDPSIVGSNLRQLARGQAGHGLGPEEDGFSLASPYSPAKSFS
+                     ASDEDLIQQVLAEGVSSPAPTQDTHMETDLLSSLSSTPGEKTETLALQRLGELGPPSP
+                     GLNWEQPQAARLSRTGLVEGLRKRLLPAWCASLAHGLSLLLVAVAVAVSGWVGASFPP
+                     GVSVAWLLSSSASFLASFLGWEPLKVLLEALYFSLVAKRLHPDEDDTLVESPAVTPVS
+                     ARVPRVRPPHGFALFLAKEEARKVKRLHGMLRSLLVYMLFLLVTLLASYGDASCHGHA
+                     YRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLRQVRLQE
+                     ALYPDPPGPRVHTCSAAGGFSTSDYDVGWESPHNGSGTWAYSAPDLLGAWSWGSCAVY
+                     DSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRLE
+                     FPAAGRALAALSVRPFALRRLSAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRV
+                     LRLGAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAAR
+                     GLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAIL
+                     LVSSCVDSLWSVAQALLVLCPGTGLSTLCPAESWHLSPLLCVGLWALRLWGALRLGAV
+                     ILRWRYHALRGELYRPAWEPQDYEMVELFLRRLRLWMGLSKVKEFRHKVRFEGMEPLP
+                     SRSSRGSKVSPDVPPPSAGSDASHPSTSSSQLDGLSVSLGRLGTRCEPEPSRLQAVFE
+                     ALLTQFDRLNQATEDVYQLEQQLHSLQGRRSSRAPAGSSRGPSPGLRPALPSRLARAS
+                     RGVDLATGPSRTPLRAKNKVHPSST"
+     sig_peptide     210..278
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     279..13118
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /product="polycystin-1 isoform 1"
+     misc_feature    357..359
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    411..482
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: LRR 1"
+     misc_feature    474..476
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    483..548
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: LRR 2"
+     misc_feature    555..557
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    570..572
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    768..770
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2055..2114
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2070..2072
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2103..2105
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2445..2447
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2637..2639
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2730..2732
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2769..2771
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2877..2879
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    2970..2972
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3219..3221
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3237..3239
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3309..3311
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3423..3425
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3546..3548
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3741..3743
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3789..3791
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    3927..3929
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4014..4016
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4215..4217
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4251..4253
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4353..4355
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4557..4559
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4572..4574
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4629..4631
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4761..4763
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4830..4832
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4869..4871
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    4896..4898
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5148..5150
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5190..5192
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5406..5408
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5580..5582
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5709..5711
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5808..5810
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    5847..5849
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    6180..6182
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    6357..6359
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    6429..6431
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    6582..6584
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    6951..6953
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    7266..7268
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    7392..7394
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    7443..7445
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    7908..7910
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    7941..7943
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8142..8144
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8361..8363
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8469..8471
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8730..8732
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8841..8843
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    8982..8984
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    9075..9077
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    9189..9191
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    9252..9398
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: GPS.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00098"
+     misc_feature    9351..9356
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="Cleavage, by autolysis.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00098,
+                     ECO:0000269|PubMed:12482949, ECO:0000269|PubMed:17525154;
+                     propagated from UniProtKB/Swiss-Prot (P98161.3); cleavage
+                     site"
+     misc_feature    9432..9494
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    10041..10103
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    10179..10241
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    10887..10949
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    10956..11018
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    11205..11267
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    11421..11423
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    11577..11579
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    11742..11744
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); glycosylation site"
+     misc_feature    11913..11975
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    12015..12077
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    12162..12224
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    12291..12353
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    12480..12539
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     transmembrane region"
+     misc_feature    12687..12797
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    12705..12707
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="Phosphoserine, by PRKX, in vitro.
+                     /evidence=ECO:0000269|PubMed:17980165; propagated from
+                     UniProtKB/Swiss-Prot (P98161.3); phosphorylation site"
+     misc_feature    12936..13118
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P98161.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            425..496
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            497..568
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            569..738
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            739..1410
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1411..1594
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1595..1815
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1816..1931
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1932..2058
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2059..2306
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2307..3062
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3063..3194
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3195..3370
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3371..3504
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3505..7124
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7125..7274
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7275..7418
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7419..7698
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7699..7912
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7913..8072
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8073..8225
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8226..8370
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8371..9000
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9001..9157
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9158..9410
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9411..9606
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9607..9777
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9778..9921
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9922..10132
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10133..10259
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10260..10376
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10377..10429
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10430..10614
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10615..10708
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10709..10827
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10828..11030
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11031..11225
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11226..11365
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11366..11478
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11479..11620
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11621..11746
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11747..11921
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11922..12212
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            12213..12347
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            12348..12653
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            12654..14140
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      14117..14122
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="hexamer: AATAAA"
+     polyA_site      14140
+                     /gene="PKD1"
+                     /gene_synonym="eliosin; PBP; Pc-1; PC1; TRPP1"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcactgcagc gccagcgtcc gagcgggcgg ccgagctccc ggagcggcct ggccccgagc
+       61 cccgagcggg cgtcgctcag cagcaggtcg cggccgcagc cccatccagc cccgcgcccg
+      121 ccatgccgtc cgcgggcccc gcctgagctg cggcctccgc gcgcgggcgg gcctggggac
+      181 ggcggggcca tgcgcgcgct gccctaacga tgccgcccgc cgcgcccgcc cgcctggcgc
+      241 tggccctggg cctgggcctg tggctcgggg cgctggcggg gggccccggg cgcggctgcg
+      301 ggccctgcga gcccccctgc ctctgcggcc cagcgcccgg cgccgcctgc cgcgtcaact
+      361 gctcgggccg cgggctgcgg acgctcggtc ccgcgctgcg catccccgcg gacgccacag
+      421 cgctagacgt ctcccacaac ctgctccggg cgctggacgt tgggctcctg gcgaacctct
+      481 cggcgctggc agagctggat ataagcaaca acaagatttc tacgttagaa gaaggaatat
+      541 ttgctaattt atttaattta agtgaaataa acctgagtgg gaacccgttt gagtgtgact
+      601 gtggcctggc gtggctgccg cgatgggcgg aggagcagca ggtgcgggtg gtgcagcccg
+      661 aggcagccac gtgtgctggg cctggctccc tggctggcca gcctctgctt ggcatcccct
+      721 tgctggacag tggctgtggt gaggagtatg tcgcctgcct ccctgacaac agctcaggca
+      781 ccgtggcagc agtgtccttt tcagctgccc acgaaggcct gcttcagcca gaggcctgca
+      841 gcgccttctg cttctccacc ggccagggcc tcgcagccct ctcggagcag ggctggtgcc
+      901 tgtgtggggc ggcccagccc tccagtgcct cctttgcctg cctgtccctc tgctccggcc
+      961 ccccgccacc tcctgccccc acctgtaggg gccccaccct cctccagcac gtcttccctg
+     1021 cctccccagg ggccaccctg gtggggcccc acggacctct ggcctctggc cagctagcag
+     1081 ccttccacat cgctgccccg ctccctgtca ctgccacacg ctgggacttc ggagacggct
+     1141 ccgccgaggt ggatgccgct gggccggctg cctcgcatcg ctatgtgctg cctgggcgct
+     1201 atcacgtgac ggccgtgctg gccctggggg ccggctcagc cctgctgggg acagacgtgc
+     1261 aggtggaagc ggcacctgcc gccctggagc tcgtgtgccc gtcctcggtg cagagtgacg
+     1321 agagcctcga cctcagcatc cagaaccgcg gtggttcagg cctggaggcc gcctacagca
+     1381 tcgtggccct gggcgaggag ccggcccgag cggtgcaccc gctctgcccc tcggacacgg
+     1441 agatcttccc tggcaacggg cactgctacc gcctggtggt ggagaaggcg gcctggctgc
+     1501 aggcgcagga gcagtgtcag gcctgggccg gggccgccct ggcaatggtg gacagtcccg
+     1561 ccgtgcagcg cttcctggtc tcccgggtca ccaggagcct agacgtgtgg atcggcttct
+     1621 cgactgtgca gggggtggag gtgggcccag cgccgcaggg cgaggccttc agcctggaga
+     1681 gctgccagaa ctggctgccc ggggagccac acccagccac agccgagcac tgcgtccggc
+     1741 tcgggcccac cgggtggtgt aacaccgacc tgtgctcagc gccgcacagc tacgtctgcg
+     1801 agctgcagcc cggaggccca gtgcaggatg ccgagaacct cctcgtggga gcgcccagtg
+     1861 gggacctgca gggacccctg acgcctctgg cacagcagga cggcctctca gccccgcacg
+     1921 agcccgtgga ggtcatggta ttcccgggcc tgcgtctgag ccgtgaagcc ttcctcacca
+     1981 cggccgaatt tgggacccag gagctccggc ggcccgccca gctgcggctg caggtgtacc
+     2041 ggctcctcag cacagcaggg accccggaga acggcagcga gcctgagagc aggtccccgg
+     2101 acaacaggac ccagctggcc cccgcgtgca tgccaggggg acgctggtgc cctggagcca
+     2161 acatctgctt gccgctggac gcctcctgcc acccccaggc ctgcgccaat ggctgcacgt
+     2221 cagggccagg gctacccggg gccccctatg cgctatggag agagttcctc ttctccgttc
+     2281 ccgcggggcc ccccgcgcag tactcggtca ccctccacgg ccaggatgtc ctcatgctcc
+     2341 ctggtgacct cgttggcttg cagcacgacg ctggccctgg cgccctcctg cactgctcgc
+     2401 cggctcccgg ccaccctggt ccccgggccc cgtacctctc cgccaacgcc tcgtcatggc
+     2461 tgccccactt gccagcccag ctggagggca cttgggcctg ccctgcctgt gccctgcggc
+     2521 tgcttgcagc cacggaacag ctcaccgtgc tgctgggctt gaggcccaac cctggactgc
+     2581 ggctgcctgg gcgctatgag gtccgggcag aggtgggcaa tggcgtgtcc aggcacaacc
+     2641 tctcctgcag ctttgacgtg gtctccccag tggctgggct gcgggtcatc taccctgccc
+     2701 cccgcgacgg ccgcctctac gtgcccacca acggctcagc cttggtgctc caggtggact
+     2761 ctggtgccaa cgccacggcc acggctcgct ggcctggggg cagtgtcagc gcccgctttg
+     2821 agaatgtctg ccctgccctg gtggccacct tcgtgcccgg ctgcccctgg gagaccaacg
+     2881 ataccctgtt ctcagtggta gcactgccgt ggctcagtga gggggagcac gtggtggacg
+     2941 tggtggtgga aaacagcgcc agccgggcca acctcagcct gcgggtgacg gcggaggagc
+     3001 ccatctgtgg cctccgcgcc acgcccagcc ccgaggcccg tgtactgcag ggagtcctag
+     3061 tgaggtacag ccccgtggtg gaggccggct cggacatggt cttccggtgg accatcaacg
+     3121 acaagcagtc cctgaccttc cagaacgtgg tcttcaatgt catttatcag agcgcggcgg
+     3181 tcttcaagct ctcactgacg gcctccaacc acgtgagcaa cgtcaccgtg aactacaacg
+     3241 taaccgtgga gcggatgaac aggatgcagg gtctgcaggt ctccacagtg ccggccgtgc
+     3301 tgtcccccaa tgccacgcta gcactgacgg cgggcgtgct ggtggactcg gccgtggagg
+     3361 tggccttcct gtggaccttt ggggatgggg agcaggccct ccaccagttc cagcctccgt
+     3421 acaacgagtc cttcccggtt ccagacccct cggtggccca ggtgctggtg gagcacaatg
+     3481 tcatgcacac ctacgctgcc ccaggtgagt acctcctgac cgtgctggca tctaatgcct
+     3541 tcgagaacct gacgcagcag gtgcctgtga gcgtgcgcgc ctccctgccc tccgtggctg
+     3601 tgggtgtgag tgacggcgtc ctggtggccg gccggcccgt caccttctac ccgcacccgc
+     3661 tgccctcgcc tgggggtgtt ctttacacgt gggacttcgg ggacggctcc cctgtcctga
+     3721 cccagagcca gccggctgcc aaccacacct atgcctcgag gggcacctac cacgtgcgcc
+     3781 tggaggtcaa caacacggtg agcggtgcgg cggcccaggc ggatgtgcgc gtctttgagg
+     3841 agctccgcgg actcagcgtg gacatgagcc tggccgtgga gcagggcgcc cccgtggtgg
+     3901 tcagcgccgc ggtgcagacg ggcgacaaca tcacgtggac cttcgacatg ggggacggca
+     3961 ccgtgctgtc gggcccggag gcaacagtgg agcatgtgta cctgcgggca cagaactgca
+     4021 cagtgaccgt gggtgcggcc agccccgccg gccacctggc ccggagcctg cacgtgctgg
+     4081 tcttcgtcct ggaggtgctg cgcgttgaac ccgccgcctg catccccacg cagcctgacg
+     4141 cgcggctcac ggcctacgtc accgggaacc cggcccacta cctcttcgac tggaccttcg
+     4201 gggatggctc ctccaacacg accgtgcggg ggtgcccgac ggtgacacac aacttcacgc
+     4261 ggagcggcac gttccccctg gcgctggtgc tgtccagccg cgtgaacagg gcgcattact
+     4321 tcaccagcat ctgcgtggag ccagaggtgg gcaacgtcac cctgcagcca gagaggcagt
+     4381 ttgtgcagct cggggacgag gcctggctgg tggcatgtgc ctggcccccg ttcccctacc
+     4441 gctacacctg ggactttggc accgaggaag ccgcccccac ccgtgccagg ggccctgagg
+     4501 tgacgttcat ctaccgagac ccaggctcct atcttgtgac agtcaccgcg tccaacaaca
+     4561 tctctgctgc caatgactca gccctggtgg aggtgcagga gcccgtgctg gtcaccagca
+     4621 tcaaggtcaa tggctccctt gggctggagc tgcagcagcc gtacctgttc tctgctgtgg
+     4681 gccgtgggcg ccccgccagc tacctgtggg atctggggga cggtgggtgg ctcgagggtc
+     4741 cggaggtcac ccacgcttac aacagcacag gtgacttcac cgttagggtg gccggctgga
+     4801 atgaggtgag ccgcagcgag gcctggctca atgtgacggt gaagcggcgc gtgcgggggc
+     4861 tcgtcgtcaa tgcaagccgc acggtggtgc ccctgaatgg gagcgtgagc ttcagcacgt
+     4921 cgctggaggc cggcagtgat gtgcgctatt cctgggtgct ctgtgaccgc tgcacgccca
+     4981 tccctggggg tcctaccatc tcttacacct tccgctccgt gggcaccttc aatatcatcg
+     5041 tcacggctga gaacgaggtg ggctccgccc aggacagcat cttcgtctat gtcctgcagc
+     5101 tcatagaggg gctgcaggtg gtgggcggtg gccgctactt ccccaccaac cacacggtac
+     5161 agctgcaggc cgtggttagg gatggcacca acgtctccta cagctggact gcctggaggg
+     5221 acaggggccc ggccctggcc ggcagcggca aaggcttctc gctcaccgtg ctcgaggccg
+     5281 gcacctacca tgtgcagctg cgggccacca acatgctggg cagcgcctgg gccgactgca
+     5341 ccatggactt cgtggagcct gtggggtggc tgatggtggc cgcctccccg aacccagctg
+     5401 ccgtcaacac aagcgtcacc ctcagtgccg agctggctgg tggcagtggt gtcgtataca
+     5461 cttggtcctt ggaggagggg ctgagctggg agacctccga gccatttacc acccatagct
+     5521 tccccacacc cggcctgcac ttggtcacca tgacggcagg gaacccgctg ggctcagcca
+     5581 acgccaccgt ggaagtggat gtgcaggtgc ctgtgagtgg cctcagcatc agggccagcg
+     5641 agcccggagg cagcttcgtg gcggccgggt cctctgtgcc cttttggggg cagctggcca
+     5701 cgggcaccaa tgtgagctgg tgctgggctg tgcccggcgg cagcagcaag cgtggccctc
+     5761 atgtcaccat ggtcttcccg gatgctggca ccttctccat ccggctcaat gcctccaacg
+     5821 cagtcagctg ggtctcagcc acgtacaacc tcacggcgga ggagcccatc gtgggcctgg
+     5881 tgctgtgggc cagcagcaag gtggtggcgc ccgggcagct ggtccatttt cagatcctgc
+     5941 tggctgccgg ctcagctgtc accttccgcc tgcaggtcgg cggggccaac cccgaggtgc
+     6001 tccccgggcc ccgtttctcc cacagcttcc cccgcgtcgg agaccacgtg gtgagcgtgc
+     6061 ggggcaaaaa ccacgtgagc tgggcccagg cgcaggtgcg catcgtggtg ctggaggccg
+     6121 tgagtgggct gcaggtgccc aactgctgcg agcctggcat cgccacgggc actgagagga
+     6181 acttcacagc ccgcgtgcag cgcggctctc gggtcgccta cgcctggtac ttctcgctgc
+     6241 agaaggtcca gggcgactcg ctggtcatcc tgtcgggccg cgacgtcacc tacacgcccg
+     6301 tggccgcggg gctgttggag atccaggtgc gcgccttcaa cgccctgggc agtgagaacc
+     6361 gcacgctggt gctggaggtt caggacgccg tccagtatgt ggccctgcag agcggcccct
+     6421 gcttcaccaa ccgctcggcg cagtttgagg ccgccaccag ccccagcccc cggcgtgtgg
+     6481 cctaccactg ggactttggg gatgggtcgc cagggcagga cacagatgag cccagggccg
+     6541 agcactccta cctgaggcct ggggactacc gcgtgcaggt gaacgcctcc aacctggtga
+     6601 gcttcttcgt ggcgcaggcc acggtgaccg tccaggtgct ggcctgccgg gagccggagg
+     6661 tggacgtggt cctgcccctg caggtgctga tgcggcgatc acagcgcaac tacttggagg
+     6721 cccacgttga cctgcgcgac tgcgtcacct accagactga gtaccgctgg gaggtgtatc
+     6781 gcaccgccag ctgccagcgg ccggggcgcc cagcgcgtgt ggccctgccc ggcgtggacg
+     6841 tgagccggcc tcggctggtg ctgccgcggc tggcgctgcc tgtggggcac tactgctttg
+     6901 tgtttgtcgt gtcatttggg gacacgccac tgacacagag catccaggcc aatgtgacgg
+     6961 tggcccccga gcgcctggtg cccatcattg agggtggctc ataccgcgtg tggtcagaca
+     7021 cacgggacct ggtgctggat gggagcgagt cctacgaccc caacctggag gacggcgacc
+     7081 agacgccgct cagtttccac tgggcctgtg tggcttcgac acagagggag gctggcgggt
+     7141 gtgcgctgaa ctttgggccc cgcgggagca gcacggtcac cattccacgg gagcggctgg
+     7201 cggctggcgt ggagtacacc ttcagcctga ccgtgtggaa ggccggccgc aaggaggagg
+     7261 ccaccaacca gacggtgctg atccggagtg gccgggtgcc cattgtgtcc ttggagtgtg
+     7321 tgtcctgcaa ggcacaggcc gtgtacgaag tgagccgcag ctcctacgtg tacttggagg
+     7381 gccgctgcct caattgcagc agcggctcca agcgagggcg gtgggctgca cgtacgttca
+     7441 gcaacaagac gctggtgctg gatgagacca ccacatccac gggcagtgca ggcatgcgac
+     7501 tggtgctgcg gcggggcgtg ctgcgggacg gcgagggata caccttcacg ctcacggtgc
+     7561 tgggccgctc tggcgaggag gagggctgcg cctccatccg cctgtccccc aaccgcccgc
+     7621 cgctgggggg ctcttgccgc ctcttcccac tgggcgctgt gcacgccctc accaccaagg
+     7681 tgcacttcga atgcacgggc tggcatgacg cggaggatgc tggcgccccg ctggtgtacg
+     7741 ccctgctgct gcggcgctgt cgccagggcc actgcgagga gttctgtgtc tacaagggca
+     7801 gcctctccag ctacggagcc gtgctgcccc cgggtttcag gccacacttc gaggtgggcc
+     7861 tggccgtggt ggtgcaggac cagctgggag ccgctgtggt cgccctcaac aggtctttgg
+     7921 ccatcaccct cccagagccc aacggcagcg caacggggct cacagtctgg ctgcacgggc
+     7981 tcaccgctag tgtgctccca gggctgctgc ggcaggccga tccccagcac gtcatcgagt
+     8041 actcgttggc cctggtcacc gtgctgaacg agtacgagcg ggccctggac gtggcggcag
+     8101 agcccaagca cgagcggcag caccgagccc agatacgcaa gaacatcacg gagactctgg
+     8161 tgtccctgag ggtccacact gtggatgaca tccagcagat cgctgctgcg ctggcccagt
+     8221 gcatggggcc cagcagggag ctcgtatgcc gctcgtgcct gaagcagacg ctgcacaagc
+     8281 tggaggccat gatgctcatc ctgcaggcag agaccaccgc gggcaccgtg acgcccaccg
+     8341 ccatcggaga cagcatcctc aacatcacag gagacctcat ccacctggcc agctcggacg
+     8401 tgcgggcacc acagccctca gagctgggag ccgagtcacc atctcggatg gtggcgtccc
+     8461 aggcctacaa cctgacctct gccctcatgc gcatcctcat gcgctcccgc gtgctcaacg
+     8521 aggagcccct gacgctggcg ggcgaggaga tcgtggccca gggcaagcgc tcggacccgc
+     8581 ggagcctgct gtgctatggc ggcgccccag ggcctggctg ccacttctcc atccccgagg
+     8641 ctttcagcgg ggccctggcc aacctcagtg acgtggtgca gctcatcttt ctggtggact
+     8701 ccaatccctt tccctttggc tatatcagca actacaccgt ctccaccaag gtggcctcga
+     8761 tggcattcca gacacaggcc ggcgcccaga tccccatcga gcggctggcc tcagagcgcg
+     8821 ccatcaccgt gaaggtgccc aacaactcgg actgggctgc ccggggccac cgcagctccg
+     8881 ccaactccgc caactccgtt gtggtccagc cccaggcctc cgtcggtgct gtggtcaccc
+     8941 tggacagcag caaccctgcg gccgggctgc atctgcagct caactatacg ctgctggacg
+     9001 gccactacct gtctgaggaa cctgagccct acctggcagt ctacctacac tcggagcccc
+     9061 ggcccaatga gcacaactgc tcggctagca ggaggatccg cccagagtca ctccagggtg
+     9121 ctgaccaccg gccctacacc ttcttcattt ccccggggag cagagaccca gcggggagtt
+     9181 accatctgaa cctctccagc cacttccgct ggtcggcgct gcaggtgtcc gtgggcctgt
+     9241 acacgtccct gtgccagtac ttcagcgagg aggacatggt gtggcggaca gaggggctgc
+     9301 tgcccctgga ggagacctcg ccccgccagg ccgtctgcct cacccgccac ctcaccgcct
+     9361 tcggcgccag cctcttcgtg cccccaagcc atgtccgctt tgtgtttcct gagccgacag
+     9421 cggatgtaaa ctacatcgtc atgctgacat gtgctgtgtg cctggtgacc tacatggtca
+     9481 tggccgccat cctgcacaag ctggaccagt tggatgccag ccggggccgc gccatccctt
+     9541 tctgtgggca gcggggccgc ttcaagtacg agatcctcgt caagacaggc tggggccggg
+     9601 gctcaggtac cacggcccac gtgggcatca tgctgtatgg ggtggacagc cggagcggcc
+     9661 accggcacct ggacggcgac agagccttcc accgcaacag cctggacatc ttccggatcg
+     9721 ccaccccgca cagcctgggt agcgtgtgga agatccgagt gtggcacgac aacaaagggc
+     9781 tcagccctgc ctggttcctg cagcacgtca tcgtcaggga cctgcagacg gcacgcagcg
+     9841 ccttcttcct ggtcaatgac tggctttcgg tggagacgga ggccaacggg ggcctggtgg
+     9901 agaaggaggt gctggccgcg agcgacgcag cccttttgcg cttccggcgc ctgctggtgg
+     9961 ctgagctgca gcgtggcttc tttgacaagc acatctggct ctccatatgg gaccggccgc
+    10021 ctcgtagccg tttcactcgc atccagaggg ccacctgctg cgttctcctc atctgcctct
+    10081 tcctgggcgc caacgccgtg tggtacgggg ctgttggcga ctctgcctac agcacggggc
+    10141 atgtgtccag gctgagcccg ctgagcgtcg acacagtcgc tgttggcctg gtgtccagcg
+    10201 tggttgtcta tcccgtctac ctggccatcc tttttctctt ccggatgtcc cggagcaagg
+    10261 tggctgggag cccgagcccc acacctgccg ggcagcaggt gctggacatc gacagctgcc
+    10321 tggactcgtc cgtgctggac agctccttcc tcacgttctc aggcctccac gctgagcagg
+    10381 cctttgttgg acagatgaag agtgacttgt ttctggatga ttctaagagt ctggtgtgct
+    10441 ggccctccgg cgagggaacg ctcagttggc cggacctgct cagtgacccg tccattgtgg
+    10501 gtagcaatct gcggcagctg gcacggggcc aggcgggcca tgggctgggc ccagaggagg
+    10561 acggcttctc cctggccagc ccctactcgc ctgccaaatc cttctcagca tcagatgaag
+    10621 acctgatcca gcaggtcctt gccgaggggg tcagcagccc agcccctacc caagacaccc
+    10681 acatggaaac ggacctgctc agcagcctgt ccagcactcc tggggagaag acagagacgc
+    10741 tggcgctgca gaggctgggg gagctggggc cacccagccc aggcctgaac tgggaacagc
+    10801 cccaggcagc gaggctgtcc aggacaggac tggtggaggg tctgcggaag cgcctgctgc
+    10861 cggcctggtg tgcctccctg gcccacgggc tcagcctgct cctggtggct gtggctgtgg
+    10921 ctgtctcagg gtgggtgggt gcgagcttcc ccccgggcgt gagtgttgcg tggctcctgt
+    10981 ccagcagcgc cagcttcctg gcctcattcc tcggctggga gccactgaag gtcttgctgg
+    11041 aagccctgta cttctcactg gtggccaagc ggctgcaccc ggatgaagat gacaccctgg
+    11101 tagagagccc ggctgtgacg cctgtgagcg cacgtgtgcc ccgcgtacgg ccaccccacg
+    11161 gctttgcact cttcctggcc aaggaagaag cccgcaaggt caagaggcta catggcatgc
+    11221 tgcggagcct cctggtgtac atgctttttc tgctggtgac cctgctggcc agctatgggg
+    11281 atgcctcatg ccatgggcac gcctaccgtc tgcaaagcgc catcaagcag gagctgcaca
+    11341 gccgggcctt cctggccatc acgcggtctg aggagctctg gccatggatg gcccacgtgc
+    11401 tgctgcccta cgtccacggg aaccagtcca gcccagagct ggggccccca cggctgcggc
+    11461 aggtgcggct gcaggaagca ctctacccag accctcccgg ccccagggtc cacacgtgct
+    11521 cggccgcagg aggcttcagc accagcgatt acgacgttgg ctgggagagt cctcacaatg
+    11581 gctcggggac gtgggcctat tcagcgccgg atctgctggg ggcatggtcc tggggctcct
+    11641 gtgccgtgta tgacagcggg ggctacgtgc aggagctggg cctgagcctg gaggagagcc
+    11701 gcgaccggct gcgcttcctg cagctgcaca actggctgga caacaggagc cgcgctgtgt
+    11761 tcctggagct cacgcgctac agcccggccg tggggctgca cgccgccgtc acgctgcgcc
+    11821 tcgagttccc ggcggccggc cgcgccctgg ccgccctcag cgtccgcccc tttgcgctgc
+    11881 gccgcctcag cgcgggcctc tcgctgcctc tgctcacctc ggtgtgcctg ctgctgttcg
+    11941 ccgtgcactt cgccgtggcc gaggcccgta cttggcacag ggaagggcgc tggcgcgtgc
+    12001 tgcggctcgg agcctgggcg cggtggctgc tggtggcgct gacggcggcc acggcactgg
+    12061 tacgcctcgc ccagctgggt gccgctgacc gccagtggac ccgtttcgtg cgcggccgcc
+    12121 cgcgccgctt cactagcttc gaccaggtgg cgcagctgag ctccgcagcc cgtggcctgg
+    12181 cggcctcgct gctcttcctg cttttggtca aggctgccca gcagctacgc ttcgtgcgcc
+    12241 agtggtccgt ctttggcaag acattatgcc gagctctgcc agagctcctg ggggtcacct
+    12301 tgggcctggt ggtgctcggg gtagcctacg cccagctggc catcctgctc gtgtcttcct
+    12361 gtgtggactc cctctggagc gtggcccagg ccctgttggt gctgtgccct gggactgggc
+    12421 tctctaccct gtgtcctgcc gagtcctggc acctgtcacc cctgctgtgt gtggggctct
+    12481 gggcactgcg gctgtggggc gccctacggc tgggggctgt tattctccgc tggcgctacc
+    12541 acgccttgcg tggagagctg taccggccgg cctgggagcc ccaggactac gagatggtgg
+    12601 agttgttcct gcgcaggctg cgcctctgga tgggcctcag caaggtcaag gagttccgcc
+    12661 acaaagtccg ctttgaaggg atggagccgc tgccctctcg ctcctccagg ggctccaagg
+    12721 tatccccgga tgtgccccca cccagcgctg gctccgatgc ctcgcacccc tccacctcct
+    12781 ccagccagct ggatgggctg agcgtgagcc tgggccggct ggggacaagg tgtgagcctg
+    12841 agccctcccg cctccaagcc gtgttcgagg ccctgctcac ccagtttgac cgactcaacc
+    12901 aggccacaga ggacgtctac cagctggagc agcagctgca cagcctgcaa ggccgcagga
+    12961 gcagccgggc gcccgccgga tcttcccgtg gcccatcccc gggcctgcgg ccagcactgc
+    13021 ccagccgcct tgcccgggcc agtcggggtg tggacctggc cactggcccc agcaggacac
+    13081 cccttcgggc caagaacaag gtccacccca gcagcactta gtcctccttc ctggcggggg
+    13141 tgggccgtgg agtcggagtg gacaccgctc agtattactt tctgccgctg tcaaggccga
+    13201 gggccaggca gaatggctgc acgtaggttc cccagagagc aggcaggggc atctgtctgt
+    13261 ctgtgggctt cagcacttta aagaggctgt gtggccaacc aggacccagg gtcccctccc
+    13321 cagctccctt gggaaggaca cagcagtatt ggacggtttc tagcctctga gatgctaatt
+    13381 tatttccccg agtcctcagg tacagcgggc tgtgcccggc cccaccccct gggcagatgt
+    13441 cccccactgc taaggctgct ggcttcaggg agggttagcc tgcaccgccg ccaccctgcc
+    13501 cctaagttat tacctctcca gttcctaccg tactccctgc accgtctcac tgtgtgtctc
+    13561 gtgtcagtaa tttatatggt gttaaaatgt gtatattttt gtatgtcact attttcacta
+    13621 gggctgaggg gcctgcgccc agagctggcc tcccccaaca cctgctgcgc ttggtaggtg
+    13681 tggtggcgtt atggcagccc ggctgctgct tggatgcgag cttggccttg ggccggtgct
+    13741 gggggcacag ctgtctgcca ggcactctca tcaccccaga ggccttgtca tcctcccttg
+    13801 ccccaggcca ggtagcaaga gagcagcgcc caggcctgct ggcatcaggt ctgggcaagt
+    13861 agcaggacta ggcatgtcag aggaccccag ggtggttaga ggaaaagact cctcctgggg
+    13921 gctggctccc agggtggagg aaggtgactg tgtgtgtgtg tgtgtgcgcg cgcgcacgcg
+    13981 cgagtgtgct gtatggccca ggcagcctca aggccctcgg agctggctgt gcctgcttct
+    14041 gtgtaccact tctgtgggca tggccgcttc tagagcctcg acaccccccc aacccccgca
+    14101 ccaagcagac aaagtcaata aaagagctgt ctgactgcaa
+//
+

@@ -1,0 +1,17 @@
+[PROVENANCE] Passage from the published full text of PMID 36029107 (Zhang Z et al., A common
+intronic single nucleotide variant modifies PKD1 expression level. Clin Genet 2022;102(6):483-493),
+supplied by the author on 21 September 2026 from the journal version. The article is in PMC but is
+not open access, so it could not be retrieved mechanically; only the abstract is held in
+36029107.fulltext.txt. This file is kept separate from machine-retrieved text for that reason.
+
+[QUOTED PASSAGE]
+In total, we identified eight homozygotes for the rs3874648-A allele. Of these, three carried
+pathogenic mutations in PKD1 and two patients had pathogenic mutations in PKD2. In the other three
+subjects, no pathogenic mutations in PKD1 or PKD2 were identified by LR-PCR-NGS and MLPA. Although
+the rs3874648-A allele distributes normally in the ADPKD cohort according to Hardy-Weinberg
+Equilibrium, the prevalence of rs3874648-A homozygotes in the patients without a detectable PKD1/2
+mutation was slightly but significantly higher than predicted (p=0.009) (Supplemental Table 9). In a
+multivariate analysis, we analyzed the variables that have a strong impact on disease severity
+(ht-TKV, GFR, or hypertension). We found no association between rs3874648-G/A and patient
+characteristics known to be associated with ADPKD severity, e.g, total kidney volume, Mayo Clinic
+Classification, age of onset of ESKD, or hypertension (Supplemental Figure 4).

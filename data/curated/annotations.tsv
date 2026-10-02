@@ -1,0 +1,129 @@
+entry_id	gene	hgvs_c	label	protein	consequence_class	clinvar_present	clinvar_accession	clinvar_classification	clinvar_title
+E001	PKD1	c.-69dupG	POS	p.(=)	noncoding	False			
+E002	PKD1	c.-52C>T	NEG	p.(=)	noncoding	True	VCV000997323	Benign	NM_001009944.3(PKD1):c.-52C>T
+E003	PKD1	c.-209G>A	NEG	p.(=)	noncoding	False			
+E004	PKD1	c.11017-25A>G	POS	p.?	noncoding	True	VCV001800458	Likely pathogenic	NM_001009944.3(PKD1):c.11017-25A>G
+E005	PKD1	c.11017-25A>C	POS	p.?	noncoding	True	VCV001699193	Likely pathogenic	NM_001009944.3(PKD1):c.11017-25A>C
+E006	PKD1	c.11017-10C>A	POS	p.?	noncoding	True	VCV000805137	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.11017-10C>A
+E007	PKD1	c.1991C>T	POS	p.(Ala664Val)	missense	True	VCV001800460	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.1991C>T (p.Ala664Val)
+E008	PKD1	c.10167+25_10167+43del	POS	p.?	noncoding	False			
+E009	PKD1	c.7489+5G>A	POS	p.?	noncoding	True	VCV000972832	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.7489+5G>A
+E010	PKD1	c.2097+5G>A	POS	p.?	noncoding	True	VCV000873345	Uncertain significance	NM_001009944.3(PKD1):c.2097+5G>A
+E011	PKD1	c.2853+5G>C	POS	p.?	noncoding	True	VCV003234057	Uncertain significance	NM_001009944.3(PKD1):c.2853+5G>C
+E012	PKD1	c.7490-3C>G	POS	p.?	noncoding	True	VCV003383008	Uncertain significance	NM_001009944.3(PKD1):c.7490-3C>G
+E013	PKD1	c.7490-11C>G	POS	p.?	noncoding	True	VCV003579264	Likely pathogenic	NM_001009944.3(PKD1):c.7490-11C>G
+E014	PKD1	c.288-12C>A	INDET	p.?	noncoding	False			
+E015	PKD1	c.7066-131_7066-130delinsAG	POS	p.?	noncoding	True	VCV004072221	Uncertain significance	NM_001009944.3(PKD1):c.7066-131_7066-130delinsAG
+E016	PKD1	c.7066-130A>G	NEG	p.?	noncoding	False			
+E017	PKD1	c.12445-34_12445-10del	POS	p.?	noncoding	False			
+E019	PKD1	c.11538-2A>G	POS	p.?	noncoding	False			
+E020	PKD1	c.9202-16G>A	POS	p.?	noncoding	True	VCV000930406	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.9202-16G>A
+E021	PKD1	c.12444G>A	POS	p.(Glu4148=)	synonymous	False			
+E022	PKD1	c.12444+1G>A	POS	p.?	noncoding	True	VCV000975069	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.12444+1G>A
+E023	PKD1	c.11156G>A	POS	p.(Arg3719Gln)	missense	True	VCV000440073	Pathogenic	NM_001009944.3(PKD1):c.11156G>A (p.Arg3719Gln)
+E024	PKD1	c.327A>T	POS	p.(Gly109=)	synonymous	False			
+E025	PKD1	c.11257C>A	POS	p.(Arg3753=)	synonymous	True	VCV003780156	Uncertain significance	NM_001009944.3(PKD1):c.11257C>A (p.Arg3753=)
+E026	PKD1	c.8791+1_8791+5del	POS	p.?	noncoding	False			
+E027	PKD1	c.2854-3C>G	POS	p.?	noncoding	False			
+E028	PKD1	c.1717_1722+11del	POS	p.?	other_coding	False			
+E029	PKD1	c.3162-2A>T	POS	p.?	noncoding	False			
+E030	PKD1	c.10051-239G>A	POS	p.?	noncoding	False			
+E031	PKD1	c.7866C>A	POS	p.(Tyr2622Ter)	nonsense	False			
+E032	PKD1	c.7960A>G	POS	p.(Arg2654Gly)	missense	False			
+E033	PKD1	c.7979A>T	POS	p.(Asp2660Val)	missense	False			
+E034	PKD1	c.7987C>T	POS	p.(Gln2663Ter)	nonsense	True	VCV000618315	Pathogenic	NM_001009944.3(PKD1):c.7987C>T (p.Gln2663Ter)
+E035	PKD1	c.11248C>G	POS	p.(Arg3750Gly)	missense	True	VCV004687835	Pathogenic	NM_001009944.3(PKD1):c.11248C>G (p.Arg3750Gly)
+E036	PKD1	c.11251C>T	POS	p.(Gln3751Ter)	nonsense	False			
+E037	PKD1	c.11257C>G	POS	p.(Arg3753Gly)	missense	True	VCV001803270	Likely pathogenic	NM_001009944.3(PKD1):c.11257C>G (p.Arg3753Gly)
+E038	PKD1	c.11257C>T	POS	p.(Arg3753Trp)	missense	True	VCV000562323	Pathogenic	NM_001009944.3(PKD1):c.11257C>T (p.Arg3753Trp)
+E039	PKD1	c.11346C>T	POS	p.(Asp3782=)	synonymous	True	VCV000256901	Benign/Likely benign	NM_001009944.3(PKD1):c.11346C>T (p.Asp3782=)
+E040	PKD1	c.11393C>G	POS	p.(Ser3798Ter)	nonsense	False			
+E041	PKD1	c.7866C>T	NEG	p.(Tyr2622=)	synonymous	True	VCV000997342	Likely benign	NM_001009944.3(PKD1):c.7866C>T (p.Tyr2622=)
+E042	PKD2	c.1480G>T	POS	p.(Glu494Ter)	nonsense	True	VCV000873381	Pathogenic	NM_000297.4(PKD2):c.1480G>T (p.Glu494Ter)
+E043	PKD2	c.741C>G	NEG	p.(Tyr247Ter)	nonsense	True	VCV000811568	Pathogenic	NM_000297.4(PKD2):c.741C>G (p.Tyr247Ter)
+E044	PKD2	c.796G>T	NEG	p.(Glu266Ter)	nonsense	False			
+E045	PKD2	c.1546G>T	NEG	p.(Val516Leu)	missense	True	VCV000237628	Benign/Likely benign	NM_000297.4(PKD2):c.1546G>T (p.Val516Leu)
+E046	PKD2	c.1717-2A>G	POS	p.?	noncoding	False			
+E047	PKD2	c.1548+5G>C	POS	p.?	noncoding	False			
+E048	PKD2	c.1898+5G>A	POS	p.?	noncoding	True	VCV000448033	Pathogenic/Likely pathogenic	NM_000297.4(PKD2):c.1898+5G>A
+E049	PKD2	c.1320G>T	POS	p.(Arg440Ser)	missense	True	VCV000811865	Pathogenic/Likely pathogenic	NM_000297.4(PKD2):c.1320G>T (p.Arg440Ser)
+E050	PKD2	c.1532A>T	POS	p.(Asp511Val)	missense	True	VCV000013524	Pathogenic	NM_000297.4(PKD2):c.1532A>T (p.Asp511Val)
+E051	PKD2	c.1716G>A	POS	p.(Lys572=)	synonymous	False			
+E053	PKD2	c.2657A>G	POS	p.(Asp886Gly)	missense	True	VCV004072810	Likely pathogenic	NM_000297.4(PKD2):c.2657A>G (p.Asp886Gly)
+E054	PKD2	c.2020-5A>G	POS	p.?	noncoding	True	VCV001334447	Conflicting classifications of pathogenicity	NM_000297.4(PKD2):c.2020-5A>G
+E055	PKD1	c.1202-8G>A	POS	p.?	noncoding	True	VCV000433945	Uncertain significance	NM_001009944.3(PKD1):c.1202-8G>A
+E056	PKD1	c.7210-9T>A	POS	p.?	noncoding	True	VCV000433980	Uncertain significance	NM_001009944.3(PKD1):c.7210-9T>A
+E057	PKD1	c.10407T>A	POS	p.(Asp3469Glu)	missense	True	VCV000636902	Uncertain significance	NM_001009944.3(PKD1):c.10407T>A (p.Asp3469Glu)
+E058	PKD1	c.11270-10T>A	POS	p.?	noncoding	True	VCV000599152	Uncertain significance	NM_001009944.3(PKD1):c.11270-10T>A
+E059	PKD1	c.11412-3C>G	POS	p.?	noncoding	True	VCV000586246	Uncertain significance	NM_001009944.3(PKD1):c.11412-3C>G
+E060	PKD1	c.2985+5G>A	POS	p.?	noncoding	False			
+E061	PKD1	c.7209+5G>A	POS	p.?	noncoding	True	VCV000805177	Uncertain significance	NM_001009944.3(PKD1):c.7209+5G>A
+E062	PKD1	c.9397+3G>C	POS	p.?	noncoding	True	VCV000438679	Pathogenic	NM_001009944.3(PKD1):c.9397+3G>C
+E063	PKD2	c.917G>A	NEG	p.(Arg306Gln)	missense	True	VCV001987951	Uncertain significance	NM_000297.4(PKD2):c.917G>A (p.Arg306Gln)
+E064	PKD2	c.964C>T	NEG	p.(Arg322Trp)	missense	True	VCV000448039	Pathogenic/Likely pathogenic	NM_000297.4(PKD2):c.964C>T (p.Arg322Trp)
+E065	PKD2	c.965G>A	NEG	p.(Arg322Gln)	missense	True	VCV000802079	Pathogenic/Likely pathogenic	NM_000297.4(PKD2):c.965G>A (p.Arg322Gln)
+E066	PKD2	c.974G>A	NEG	p.(Arg325Gln)	missense	True	VCV000873387	Pathogenic/Likely pathogenic	NM_000297.4(PKD2):c.974G>A (p.Arg325Gln)
+E067	PKD2	c.1066G>C	NEG	p.(Ala356Pro)	missense	False			
+E068	PKD2	c.1168G>A	NEG	p.(Gly390Ser)	missense	True	VCV000811945	Uncertain significance	NM_000297.4(PKD2):c.1168G>A (p.Gly390Ser)
+E069	PKD2	c.1240T>G	NEG	p.(Trp414Gly)	missense	False			
+E070	PKD2	c.1894T>C	NEG	p.(Cys632Arg)	missense	False			
+E071	PKD2	c.2420G>A	NEG	p.(Arg807Gln)	missense	True	VCV000220091	Benign/Likely benign	NM_000297.4(PKD2):c.2420G>A (p.Arg807Gln)
+E072	PKD2	c.2543G>A	NEG	p.(Arg848Gln)	missense	True	VCV000373386	Uncertain significance	NM_000297.4(PKD2):c.2543G>A (p.Arg848Gln)
+E073	PKD1	c.3275T>C	NEG	p.(Met1092Thr)	missense	True	VCV000256947	Benign/Likely benign	NM_001009944.3(PKD1):c.3275T>C (p.Met1092Thr)
+E074	PKD1	c.8293C>T	NEG	p.(Arg2765Cys)	missense	True	VCV000183257	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.8293C>T (p.Arg2765Cys)
+E075	PKD1	c.8762A>C	NEG	p.(His2921Pro)	missense	False			
+E076	PKD1	c.9829C>T	NEG	p.(Arg3277Cys)	missense	True	VCV000192320	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.9829C>T (p.Arg3277Cys)
+E077	PKD1	c.9853G>A	NEG	p.(Val3285Ile)	missense	True	VCV000636808	Uncertain significance	NM_001009944.3(PKD1):c.9853G>A (p.Val3285Ile)
+E078	PKD1	c.10145C>T	NEG	p.(Thr3382Met)	missense	True	VCV004885951	Uncertain significance	NM_001009944.3(PKD1):c.10145C>T (p.Thr3382Met)
+E079	PKD1	c.10172C>T	NEG	p.(Ala3391Val)	missense	False			
+E080	PKD1	c.11258G>A	NEG	p.(Arg3753Gln)	missense	True	VCV000440120	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.11258G>A (p.Arg3753Gln)
+E082	PKD1	c.224C>T	NEG	p.(Ser75Phe)	missense	True	VCV003579848	Likely pathogenic	NM_001009944.3(PKD1):c.224C>T (p.Ser75Phe)
+E083	PKD1	c.628T>G	NEG	p.(Cys210Gly)	missense	False			
+E084	PKD1	c.1522T>C	NEG	p.(Cys508Arg)	missense	True	VCV000805149	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.1522T>C (p.Cys508Arg)
+E085	PKD1	c.2534T>C	NEG	p.(Leu845Ser)	missense	True	VCV000008206	Pathogenic/Likely pathogenic	NM_001009944.3(PKD1):c.2534T>C (p.Leu845Ser)
+E086	PKD1	c.3277C>T	NEG	p.(His1093Tyr)	missense	True	VCV000447978	Benign/Likely benign	NM_001009944.3(PKD1):c.3277C>T (p.His1093Tyr)
+E087	PKD1	c.8282G>C	NEG	p.(Arg2761Pro)	missense	True	VCV000976838	Uncertain significance	NM_001009944.3(PKD1):c.8282G>C (p.Arg2761Pro)
+E088	PKD1	c.8287C>G	NEG	p.(Leu2763Val)	missense	False			
+E089	PKD1	c.8372G>A	NEG	p.(Arg2791Gln)	missense	True	VCV000811282	Uncertain significance	NM_001009944.3(PKD1):c.8372G>A (p.Arg2791Gln)
+E090	PKD1	c.8953A>G	NEG	p.(Arg2985Gly)	missense	True	VCV003579138	Uncertain significance	NM_001009944.3(PKD1):c.8953A>G (p.Arg2985Gly)
+E091	PKD1	c.9047A>G	NEG	p.(Gln3016Arg)	missense	True	VCV001212131	Likely pathogenic	NM_001009944.3(PKD1):c.9047A>G (p.Gln3016Arg)
+E092	PKD1	c.9313C>T	NEG	p.(Arg3105Trp)	missense	True	VCV000993683	Uncertain significance	NM_001009944.3(PKD1):c.9313C>T (p.Arg3105Trp)
+E093	PKD1	c.9412G>A	NEG	p.(Val3138Met)	missense	True	VCV001331619	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.9412G>A (p.Val3138Met)
+E094	PKD1	c.9563A>G	NEG	p.(Asn3188Ser)	missense	True	VCV004887098	Pathogenic	NM_001009944.3(PKD1):c.9563A>G (p.Asn3188Ser)
+E095	PKD1	c.10123G>A	NEG	p.(Val3375Met)	missense	True	VCV003579047	Uncertain significance	NM_001009944.3(PKD1):c.10123G>A (p.Val3375Met)
+E096	PKD1	c.11033T>C	NEG	p.(Met3678Thr)	missense	False			
+E097	PKD1	c.11045T>C	NEG	p.(Leu3682Pro)	missense	False			
+E098	PKD1	c.11192T>A	NEG	p.(Leu3731Gln)	missense	False			
+E099	PKD1	c.11252A>G	NEG	p.(Gln3751Arg)	missense	False			
+E100	PKD1	c.11713-3C>G	NEG	p.?	noncoding	True	VCV000447956	Uncertain significance	NM_001009944.3(PKD1):c.11713-3C>G
+E101	PKD1	c.2854-7C>A	NEG	p.?	noncoding	False			
+E102	PKD1	c.7210-10C>A	NEG	p.?	noncoding	True	VCV000256998	Likely benign	NM_001009944.3(PKD1):c.7210-10C>A
+E103	PKD2	c.1899-6T>G	NEG	p.?	noncoding	True	VCV000092793	Conflicting classifications of pathogenicity	NM_000297.4(PKD2):c.1899-6T>G
+E104	PKD2	c.710-6T>C	NEG	p.?	noncoding	True	VCV000636619	Uncertain significance	NM_000297.4(PKD2):c.710-6T>C
+E105	PKD1	c.11713-9C>A	NEG	p.?	noncoding	True	VCV003902634	Likely benign	NM_001009944.3(PKD1):c.11713-9C>A
+E106	PKD1	c.1723-17G>A	NEG	p.?	noncoding	True	VCV000805151	Uncertain significance	NM_001009944.3(PKD1):c.1723-17G>A
+E107	PKD1	c.7066-9C>A	NEG	p.?	noncoding	False			
+E108	PKD2	c.2359-7T>A	NEG	p.?	noncoding	False			
+E109	PKD1	c.2854-9C>A	NEG	p.?	noncoding	False			
+E110	PKD2	c.2241-14C>T	NEG	p.?	noncoding	True	VCV000523353	Conflicting classifications of pathogenicity	NM_000297.4(PKD2):c.2241-14C>T
+E111	PKD1	c.11017-3C>T	NEG	p.?	noncoding	True	VCV000440126	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.11017-3C>T
+E112	PKD1	c.1386-16C>A	NEG	p.?	noncoding	False			
+E113	PKD2	c.1320G>A	NEG	p.(Arg440=)	synonymous	True	VCV000279596	Uncertain significance	NM_000297.4(PKD2):c.1320G>A (p.Arg440=)
+E114	PKD1	c.7210-6C>T	NEG	p.?	noncoding	True	VCV000433979	Uncertain significance	NM_001009944.3(PKD1):c.7210-6C>T
+E115	PKD1	c.9201+5G>A	NEG	p.?	noncoding	True	VCV000637003	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.9201+5G>A
+E116	PKD1	c.8791+5G>A	NEG	p.?	noncoding	True	VCV000446428	Uncertain significance	NM_001009944.3(PKD1):c.8791+5G>A
+E117	PKD2	c.595+3A>T	NEG	p.?	noncoding	True	VCV000635504	Uncertain significance	NM_000297.4(PKD2):c.595+3A>T
+E118	PKD2	c.2019+5G>A	NEG	p.?	noncoding	True	VCV000636396	Conflicting classifications of pathogenicity	NM_000297.4(PKD2):c.2019+5G>A
+E119	PKD1	c.11156+5G>A	NEG	p.?	noncoding	True	VCV000805138	Uncertain significance	NM_001009944.3(PKD1):c.11156+5G>A
+E120	PKD1	c.1384A>G	NEG	p.(Arg462Gly)	missense	True	VCV000440128	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.1384A>G (p.Arg462Gly)
+E121	PKD1	c.12003+5G>T	NEG	p.?	noncoding	True	VCV000636413	Uncertain significance	NM_001009944.3(PKD1):c.12003+5G>T
+E122	PKD1	c.8161+4C>T	NEG	p.?	noncoding	True	VCV000522517	Uncertain significance	NM_001009944.3(PKD1):c.8161+4C>T
+E123	PKD1	c.7064C>T	NEG	p.(Thr2355Met)	missense	True	VCV000807954	Conflicting classifications of pathogenicity	NM_001009944.3(PKD1):c.7064C>T (p.Thr2355Met)
+E124	PKD1	c.10820A>T	NEG	p.(Lys3607Met)	missense	True	VCV000438687	Uncertain significance	NM_001009944.3(PKD1):c.10820A>T (p.Lys3607Met)
+E125	PKD1	c.7487C>T	NEG	p.(Thr2496Met)	missense	True	VCV002664042	Uncertain significance	NM_001009944.3(PKD1):c.7487C>T (p.Thr2496Met)
+E126	PKD1	c.11014C>T	NEG	p.(Arg3672Trp)	missense	True	VCV000805136	Uncertain significance	NM_001009944.3(PKD1):c.11014C>T (p.Arg3672Trp)
+E127	PKD1	c.9199C>T	NEG	p.(Pro3067Ser)	missense	True	VCV000618318	Uncertain significance	NM_001009944.3(PKD1):c.9199C>T (p.Pro3067Ser)
+E128	PKD1	c.3159C>T	NEG	p.(Phe1053=)	synonymous	True	VCV000440139	Uncertain significance	NM_001009944.3(PKD1):c.3159C>T (p.Phe1053=)
+E129	PKD1	c.-20A>G	POS	p.(=)	noncoding	False			
+E130	PKD1	c.-23G>T	POS	p.(=)	noncoding	False			
+E131	PKD1	c.-66T>C	POS	p.(=)	noncoding	False			

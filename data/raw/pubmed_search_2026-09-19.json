@@ -1,0 +1,8 @@
+{
+  "date": "2026-09-19",
+  "queries": {
+    "Q1_splice_noncoding": "(\"PKD1\"[tiab] OR \"PKD2\"[tiab] OR \"polycystin\"[tiab]) AND (intronic[tiab] OR \"non-coding\"[tiab] OR noncoding[tiab] OR \"deep intronic\"[tiab] OR \"untranslated\"[tiab] OR \"UTR\"[tiab] OR splicing[tiab] OR \"splice\"[tiab] OR minigene[tiab] OR pseudoexon[tiab] OR \"pseudo-exon\"[tiab] OR branchpoint[tiab] OR \"branch point\"[tiab] OR \"cryptic\"[tiab] OR \"RNA analysis\"[tiab] OR \"RT-PCR\"[tiab] OR promoter[tiab] OR \"upstream open reading frame\"[tiab] OR uORF[tiab])",
+    "Q2_adpkd_functional": "(\"polycystic kidney disease\"[tiab] OR ADPKD[tiab]) AND (minigene[tiab] OR pseudoexon[tiab] OR \"deep intronic\"[tiab] OR \"intronic variant\"[tiab] OR \"splicing variant\"[tiab] OR \"splice variant\"[tiab] OR \"aberrant splicing\"[tiab] OR \"5' UTR\"[tiab] OR \"5'UTR\"[tiab] OR \"3'UTR\"[tiab] OR \"3' UTR\"[tiab] OR \"transcriptome sequencing\"[tiab] OR \"RNA sequencing\"[tiab] OR \"allele-specific expression\"[tiab])"
+  },
+  "n_unique": 391
+}

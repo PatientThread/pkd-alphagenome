@@ -1,0 +1,440 @@
+{
+  "Q1_gnomad_seed": [
+    {
+      "variant_id": "16-2089569-A-C",
+      "pos": 2089569,
+      "genome": null,
+      "exome": {
+        "ac": 1,
+        "an": 766748,
+        "af": 1.3042094664739914e-06
+      }
+    },
+    {
+      "variant_id": "16-2089569-A-G",
+      "pos": 2089569,
+      "genome": null,
+      "exome": {
+        "ac": 1,
+        "an": 766748,
+        "af": 1.3042094664739914e-06
+      }
+    },
+    {
+      "variant_id": "16-2089569-A-T",
+      "pos": 2089569,
+      "genome": null,
+      "exome": {
+        "ac": 2,
+        "an": 766738,
+        "af": 2.60845295263832e-06
+      }
+    },
+    {
+      "variant_id": "16-2089572-G-C",
+      "pos": 2089572,
+      "genome": null,
+      "exome": {
+        "ac": 9,
+        "an": 797130,
+        "af": 1.1290504685559444e-05
+      }
+    },
+    {
+      "variant_id": "16-2089574-G-A",
+      "pos": 2089574,
+      "genome": null,
+      "exome": {
+        "ac": 1,
+        "an": 814460,
+        "af": 1.2278073815779781e-06
+      }
+    },
+    {
+      "variant_id": "16-2089574-G-T",
+      "pos": 2089574,
+      "genome": null,
+      "exome": {
+        "ac": 1,
+        "an": 814454,
+        "af": 1.2278164267104097e-06
+      }
+    }
+  ],
+  "Q1_gnomad_uorf_atg": {
+    "uORF1": [
+      {
+        "variant_id": "16-2135774-C-T",
+        "pos": 2135774,
+        "genome": null,
+        "exome": {
+          "ac": 0,
+          "an": 778588,
+          "af": 0
+        }
+      },
+      {
+        "variant_id": "16-2135775-A-G",
+        "pos": 2135775,
+        "genome": null,
+        "exome": {
+          "ac": 2,
+          "an": 765004,
+          "af": 2.614365415082797e-06
+        }
+      },
+      {
+        "variant_id": "16-2135775-A-T",
+        "pos": 2135775,
+        "genome": null,
+        "exome": {
+          "ac": 2,
+          "an": 765004,
+          "af": 2.614365415082797e-06
+        }
+      },
+      {
+        "variant_id": "16-2135776-T-C",
+        "pos": 2135776,
+        "genome": {
+          "ac": 4,
+          "an": 145162,
+          "af": 2.7555420840164782e-05
+        },
+        "exome": {
+          "ac": 8,
+          "an": 765988,
+          "af": 1.044402784377823e-05
+        }
+      }
+    ],
+    "uORF2": [
+      {
+        "variant_id": "16-2135707-C-A",
+        "pos": 2135707,
+        "genome": null,
+        "exome": {
+          "ac": 0,
+          "an": 767512,
+          "af": 0
+        }
+      },
+      {
+        "variant_id": "16-2135707-C-T",
+        "pos": 2135707,
+        "genome": null,
+        "exome": {
+          "ac": 0,
+          "an": 767512,
+          "af": 0
+        }
+      },
+      {
+        "variant_id": "16-2135708-A-T",
+        "pos": 2135708,
+        "genome": null,
+        "exome": {
+          "ac": 0,
+          "an": 769106,
+          "af": 0
+        }
+      },
+      {
+        "variant_id": "16-2135708-A-G",
+        "pos": 2135708,
+        "genome": {
+          "ac": 1,
+          "an": 145954,
+          "af": 6.8514737520040565e-06
+        },
+        "exome": {
+          "ac": 1,
+          "an": 769106,
+          "af": 1.3002108942070405e-06
+        }
+      },
+      {
+        "variant_id": "16-2135709-T-A",
+        "pos": 2135709,
+        "genome": null,
+        "exome": {
+          "ac": 2,
+          "an": 766416,
+          "af": 2.609548861192877e-06
+        }
+      },
+      {
+        "variant_id": "16-2135709-TG-T",
+        "pos": 2135709,
+        "genome": null,
+        "exome": {
+          "ac": 1,
+          "an": 766404,
+          "af": 1.3047948601520869e-06
+        }
+      },
+      {
+        "variant_id": "16-2135709-TGGCCCCGCCGTCCCCA-T",
+        "pos": 2135709,
+        "genome": null,
+        "exome": {
+          "ac": 0,
+          "an": 766412,
+          "af": 0
+        }
+      },
+      {
+        "variant_id": "16-2135709-T-C",
+        "pos": 2135709,
+        "genome": null,
+        "exome": {
+          "ac": 8,
+          "an": 766416,
+          "af": 1.0438195444771508e-05
+        }
+      }
+    ]
+  },
+  "Q2_avi_seed_vs_3utr": {
+    "utr_snvs": 3057,
+    "utr_avi_median": 0.136,
+    "site_snvs": [
+      {
+        "variant": "chr16:2089569:A>C",
+        "avi": 0.417,
+        "pct_within_utr": 86.6
+      },
+      {
+        "variant": "chr16:2089569:A>G",
+        "avi": 0.432,
+        "pct_within_utr": 88.2
+      },
+      {
+        "variant": "chr16:2089569:A>T",
+        "avi": 0.403,
+        "pct_within_utr": 85.5
+      },
+      {
+        "variant": "chr16:2089570:A>C",
+        "avi": 0.515,
+        "pct_within_utr": 92.6
+      },
+      {
+        "variant": "chr16:2089570:A>G",
+        "avi": 0.503,
+        "pct_within_utr": 91.9
+      },
+      {
+        "variant": "chr16:2089570:A>T",
+        "avi": 0.508,
+        "pct_within_utr": 92.3
+      },
+      {
+        "variant": "chr16:2089571:A>C",
+        "avi": 0.51,
+        "pct_within_utr": 92.4
+      },
+      {
+        "variant": "chr16:2089571:A>G",
+        "avi": 0.517,
+        "pct_within_utr": 92.8
+      },
+      {
+        "variant": "chr16:2089571:A>T",
+        "avi": 0.52,
+        "pct_within_utr": 92.9
+      },
+      {
+        "variant": "chr16:2089572:G>A",
+        "avi": 0.651,
+        "pct_within_utr": 97.4
+      },
+      {
+        "variant": "chr16:2089572:G>C",
+        "avi": 0.64,
+        "pct_within_utr": 97.0
+      },
+      {
+        "variant": "chr16:2089572:G>T",
+        "avi": 0.646,
+        "pct_within_utr": 97.2
+      },
+      {
+        "variant": "chr16:2089573:T>A",
+        "avi": 0.506,
+        "pct_within_utr": 92.1
+      },
+      {
+        "variant": "chr16:2089573:T>C",
+        "avi": 0.507,
+        "pct_within_utr": 92.1
+      },
+      {
+        "variant": "chr16:2089573:T>G",
+        "avi": 0.508,
+        "pct_within_utr": 92.3
+      },
+      {
+        "variant": "chr16:2089574:G>A",
+        "avi": 0.646,
+        "pct_within_utr": 97.3
+      },
+      {
+        "variant": "chr16:2089574:G>C",
+        "avi": 0.646,
+        "pct_within_utr": 97.3
+      },
+      {
+        "variant": "chr16:2089574:G>T",
+        "avi": 0.66,
+        "pct_within_utr": 97.6
+      }
+    ],
+    "site_median_pct": 92.5
+  },
+  "Q2_avi_uorf_atg_vs_5utr": {
+    "utr_snvs": 627,
+    "utr_avi_median": 0.186,
+    "site_snvs": [
+      {
+        "variant": "chr16:2135707:C>A",
+        "avi": 0.618,
+        "pct_within_utr": 99.5
+      },
+      {
+        "variant": "chr16:2135707:C>G",
+        "avi": 0.626,
+        "pct_within_utr": 99.7
+      },
+      {
+        "variant": "chr16:2135707:C>T",
+        "avi": 0.617,
+        "pct_within_utr": 99.2
+      },
+      {
+        "variant": "chr16:2135708:A>C",
+        "avi": 0.389,
+        "pct_within_utr": 85.2
+      },
+      {
+        "variant": "chr16:2135708:A>G",
+        "avi": 0.374,
+        "pct_within_utr": 82.5
+      },
+      {
+        "variant": "chr16:2135708:A>T",
+        "avi": 0.385,
+        "pct_within_utr": 84.7
+      },
+      {
+        "variant": "chr16:2135709:T>A",
+        "avi": 0.487,
+        "pct_within_utr": 95.2
+      },
+      {
+        "variant": "chr16:2135709:T>C",
+        "avi": 0.487,
+        "pct_within_utr": 95.1
+      },
+      {
+        "variant": "chr16:2135709:T>G",
+        "avi": 0.475,
+        "pct_within_utr": 93.6
+      },
+      {
+        "variant": "chr16:2135774:C>A",
+        "avi": 0.593,
+        "pct_within_utr": 98.6
+      },
+      {
+        "variant": "chr16:2135774:C>G",
+        "avi": 0.591,
+        "pct_within_utr": 98.4
+      },
+      {
+        "variant": "chr16:2135774:C>T",
+        "avi": 0.605,
+        "pct_within_utr": 98.9
+      },
+      {
+        "variant": "chr16:2135775:A>C",
+        "avi": 0.504,
+        "pct_within_utr": 96.7
+      },
+      {
+        "variant": "chr16:2135775:A>G",
+        "avi": 0.503,
+        "pct_within_utr": 96.3
+      },
+      {
+        "variant": "chr16:2135775:A>T",
+        "avi": 0.492,
+        "pct_within_utr": 95.5
+      },
+      {
+        "variant": "chr16:2135776:T>A",
+        "avi": 0.413,
+        "pct_within_utr": 87.4
+      },
+      {
+        "variant": "chr16:2135776:T>C",
+        "avi": 0.425,
+        "pct_within_utr": 89.5
+      },
+      {
+        "variant": "chr16:2135776:T>G",
+        "avi": 0.42,
+        "pct_within_utr": 88.5
+      }
+    ],
+    "site_median_pct": 95.35
+  },
+  "Q3_seed_6nt_edit": {
+    "rna_seq": {
+      "max_abs_all": 0.0173,
+      "mean_all": 0.0027,
+      "mean_kidney": 0.0025,
+      "n_tracks": 371,
+      "n_kidney": 8
+    },
+    "splice_site_usage": {
+      "max_abs_all": 0.0078,
+      "mean_all": 0.0068,
+      "mean_kidney": 0.0061,
+      "n_tracks": 367,
+      "n_kidney": 8
+    }
+  },
+  "Q4_uORF1_c.-87A>T": {
+    "rna_seq": {
+      "max_abs_all": 0.0929,
+      "mean_all": -0.029,
+      "mean_kidney": -0.0361,
+      "n_tracks": 371,
+      "n_kidney": 8
+    },
+    "splice_site_usage": {
+      "max_abs_all": 0.0273,
+      "mean_all": 0.0171,
+      "mean_kidney": 0.0188,
+      "n_tracks": 367,
+      "n_kidney": 8
+    }
+  },
+  "Q4_uORF2_c.-20A>T": {
+    "rna_seq": {
+      "max_abs_all": 0.0687,
+      "mean_all": 0.0121,
+      "mean_kidney": 0.0173,
+      "n_tracks": 371,
+      "n_kidney": 8
+    },
+    "splice_site_usage": {
+      "max_abs_all": 0.0156,
+      "mean_all": 0.0086,
+      "mean_kidney": 0.0098,
+      "n_tracks": 367,
+      "n_kidney": 8
+    }
+  }
+}

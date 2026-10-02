@@ -1,0 +1,31 @@
+/Users/lawrencemedicallimited/.venvs/spliceai/lib/python3.12/site-packages/spliceai/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution
+PKD1 chunk 1/14  20.6 min elapsed
+PKD1 chunk 2/14  41.3 min elapsed
+PKD1 chunk 3/14  62.8 min elapsed
+PKD1 chunk 4/14  82.9 min elapsed
+PKD1 chunk 5/14  103.2 min elapsed
+PKD1 chunk 6/14  123.2 min elapsed
+PKD1 chunk 7/14  143.2 min elapsed
+PKD1 chunk 8/14  163.2 min elapsed
+PKD1 chunk 9/14  183.2 min elapsed
+PKD1 chunk 10/14  203.3 min elapsed
+PKD1 chunk 11/14  223.3 min elapsed
+PKD1 chunk 12/14  239.3 min elapsed
+PKD1 chunk 13/14  239.4 min elapsed
+PKD1 chunk 14/14  239.4 min elapsed
+PKD1: 39,144 SNVs from 13,048 positions (locus spans 52,191 positions); in annotation 35,391
+PKD2 chunk 1/13  3.2 min elapsed
+PKD2 chunk 2/13  23.0 min elapsed
+PKD2 chunk 3/13  43.0 min elapsed
+PKD2 chunk 4/13  63.1 min elapsed
+PKD2 chunk 5/13  83.2 min elapsed
+PKD2 chunk 6/13  103.2 min elapsed
+PKD2 chunk 7/13  123.2 min elapsed
+PKD2 chunk 8/13  143.2 min elapsed
+PKD2 chunk 9/13  163.2 min elapsed
+PKD2 chunk 10/13  183.6 min elapsed
+PKD2 chunk 11/13  203.6 min elapsed
+PKD2 chunk 12/13  223.5 min elapsed
+PKD2 chunk 13/13  234.7 min elapsed
+PKD2: 37,596 SNVs from 12,532 positions (locus spans 75,192 positions); in annotation 35,055

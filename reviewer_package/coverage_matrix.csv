@@ -1,0 +1,9 @@
+assay class,tool,variants,scored,unscored
+reporter output,SpliceAI,6,6,0
+reporter output,AlphaGenome splicing composite,6,6,0
+reporter output,AVI,6,5,1
+reporter output,CADD,6,6,0
+splicing,SpliceAI,120,120,0
+splicing,AlphaGenome splicing composite,120,120,0
+splicing,AVI,120,115,5
+splicing,CADD,120,115,5

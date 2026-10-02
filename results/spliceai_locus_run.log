@@ -1,0 +1,5 @@
+/Users/lawrencemedicallimited/.venvs/spliceai/lib/python3.12/site-packages/spliceai/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution
+PKD1 chunk 1/53  18.5 min elapsed
+PKD1 chunk 2/53  42.9 min elapsed
+PKD1 chunk 3/53  65.2 min elapsed

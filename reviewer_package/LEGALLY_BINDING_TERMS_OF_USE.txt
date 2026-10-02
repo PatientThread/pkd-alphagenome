@@ -1,0 +1,119 @@
+LEGALLY BINDING TERMS OF USE
+================================================================================
+
+By using this information, you agree to AlphaGenome Output Terms of Use found at
+http://deepmind.google.com/science/alphagenome/output-terms
+
+
+WHAT THIS FILE COVERS
+--------------------------------------------------------------------------------
+
+Parts of this repository are AlphaGenome Output or Output Derivatives, as those
+terms are defined by Google DeepMind. This includes precomputed predictions
+retrieved from the AlphaGenome Atlas. They are NOT covered by the MIT licence in
+LICENSE, which applies to the analysis code only. The files governed by the
+AlphaGenome Output Terms of Use are:
+
+  results/atlas_locus_PKD1.tsv.gz         Atlas AVI scores, every SNV in the PKD1 locus
+  results/atlas_locus_PKD2.tsv.gz         Atlas AVI scores, every SNV in the PKD2 locus
+  results/atlas_chunks/**                 the same, as retrieved (32 bp per request)
+  results/atlas_truthset.tsv              Atlas AVI scores and feature attributions,
+                                          truth-set variants
+  results/atlas_log.json                  accounting for the Atlas retrieval
+  results/ondemand_scores.tsv             AlphaGenome on-demand variant scores
+  results/ondemand_log.json               accounting for the on-demand run
+  results/per_variant.tsv                 derived: joins the above to other scores
+  results/summary.json, summary.md        derived from the above
+  results/therapeutic_sites.json          Atlas and on-demand scores, two drug-target sites
+  results/therapeutic_sites_attribution.tsv  Atlas AVI attributions at those sites
+  publication/figures/*                   visual representations of the above
+
+The following files in results/ are NOT AlphaGenome Output and carry their own
+terms: spliceai_scores.tsv (SpliceAI, run locally), cadd_truthset.tsv and
+cadd_locus_*.tsv.gz (CADD v1.7; CADD is free for non-commercial use, see
+https://cadd.gs.washington.edu).
+
+In every case the restriction is NON-COMMERCIAL. Nothing in the MIT licence in
+this repository grants you any right to use these files commercially, and the
+MIT licence must not be read as doing so.
+
+
+USE RESTRICTIONS
+--------------------------------------------------------------------------------
+
+Reproduced verbatim from the AlphaGenome Output Terms of Use (effective 25 June
+2025), as that document requires, as an enforceable provision of this
+distribution:
+
+  "The AlphaGenome API belongs to us. We make Output available free of charge,
+  for non-commercial use only, in accordance with the following use
+  restrictions. You must not use nor allow others to use Output or Derivatives:
+
+  On behalf of a commercial organization or in connection with any commercial
+  activities, including research on behalf of commercial organizations or
+  sharing or using Output or Derivatives in a manner that will grant a
+  commercial organization any rights in Output or Derivatives, in each case
+  aside from indirectly via a scientific publication, open source release or to
+  support journalism.
+
+  To train machine learning models or related technology, except that you may
+  use Output and Output Derivatives to train models that function in a similar
+  manner to AlphaGenome provided the model weights and parameters for those
+  models are used in accordance with and governed by the AlphaGenome Model
+  Parameters Terms of Use.
+
+  Without providing conspicuous notice that any Output or Derivatives you
+  publish or distribute are provided under and subject to these Terms and of any
+  modifications you make to Output.
+
+  To misinform, misrepresent or mislead, including: misrepresenting your
+  relationship with us; misrepresenting the origin of Output or Derivatives;
+  distributing misleading claims of expertise or capability made particularly in
+  sensitive areas (e.g., health); or making decisions in domains that affect
+  material or individual rights or well-being (e.g., healthcare).
+
+  To perform or facilitate dangerous, illegal or malicious activities, including
+  promoting or facilitating the sale of, or providing instructions for
+  synthesizing or accessing, illegal substances, goods or services."
+
+If you redistribute any of the files listed above, or anything substantially
+derived from them, you must carry this notice and this "Use restrictions"
+section forward, and give clear notice to your own users that the material
+remains subject to these restrictions.
+
+
+MODIFICATIONS MADE TO OUTPUT
+--------------------------------------------------------------------------------
+
+The Terms require notice of modifications. The predictions redistributed here
+are not raw API responses in every case. They were transformed as follows, and
+the code that did so is in analysis/ :
+
+  - Atlas AVI scores and attributions are stored as returned, one row per
+    variant (analysis/06).
+  - On-demand scores (analysis/07) were reduced, for each variant, to the row of
+    the variant's own gene (PKD1 or PKD2) and summarised as the maximum absolute
+    value across all tracks and across a curated set of kidney tracks, with the
+    signed value and track name at that maximum.
+  - Locus percentiles were computed by ranking each truth-set AVI score against
+    all Atlas AVI scores in the same locus; AVI feature attributions were summed
+    into four groups (splicing, expression and chromatin, protein, conservation)
+    (analysis/12).
+  - No model weights or parameters are redistributed, and none were accessed.
+
+--------------------------------------------------------------------------------
+
+
+ATTRIBUTION
+--------------------------------------------------------------------------------
+
+AlphaGenome:
+  Avsec Z, Latysheva N, Cheng J, et al. Advancing regulatory variant effect
+  prediction with AlphaGenome. Nature 2026; 649: 1206-1218.
+  doi:10.1038/s41586-025-10014-0
+
+AlphaGenome Atlas:
+  AlphaGenome Atlas team (Cheng J, Taylor KR, Nicolaisen L, et al.). AlphaGenome
+  Atlas: in silico mutagenesis of the entire human genome improves
+  prioritization and interpretation of non-coding variants. Google DeepMind
+  preprint, September 2026.

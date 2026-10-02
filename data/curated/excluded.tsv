@@ -1,0 +1,15 @@
+gene	variant	pmid	reason
+PKD1	c.1202C>T; c.1248C>T; c.11025G>A; c.11119C>T	37468838	Selected for minigene testing but 'not verifiable for technical reasons'. UNTESTED, not negative.
+PKD1	c.7066-131G>A (alone)	42502691	De novo component never observed without rs3874658; single-variant function unknown.
+PKD1	c.-59C>A; c.-8C>A (in cis with c.-69dupG)	41006799	Engineered rescue constructs, not single variants.
+PKD1	uORF start-loss constructs	41006799	Engineered; exact edits in figure only. Candidate positive-direction test once extracted.
+PKD1	IVS45+56del25	11058904	Legacy notation; deleted bases not resolvable from the abstract. Needs full text.
+PKD1	20-bp deletion in intron 43	11800305	Position not stated in abstract. Needs full text.
+PKD1	18-bp and 20-bp deletions in a 75-bp intron	7633405	Positions not stated in abstract. Needs full text.
+PKD1	rs201204878	31384335	In silico prediction only, no functional assay.
+PKD1	3'UTR miR-17 six-nucleotide motif	41558825	Engineered in MOUSE Pkd1; human coordinates only in supplement. Moves to the therapeutic-site aim.
+PKD1	rs1016465177 (c.-67C>T)	39757590	Described as a uORF1 synonymous variant but not functionally tested in that paper.
+PKD1	p.Q987H; p.L3675L; p.L3754L	24907393	Table S3 negatives that more than one SNV could produce; not guessed.
+PKD2	~10 unnamed exonic variants tested negative	26692149	Negatives not named in abstract; full text not open access. MANUAL DOWNLOAD.
+PKD1/PKD2	urinary-cell targeted RNA-seq variants	38944240	Kidney Int research letter; no abstract text. MANUAL DOWNLOAD.
+PKD2	exon 14 nonsense and missense with cryptic splicing	10541293	Variants not named in abstract. MANUAL DOWNLOAD.

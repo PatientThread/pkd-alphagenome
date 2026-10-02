@@ -1,0 +1,6 @@
+variant,measured_effect,alphagenome_rna_abs
+c.-69dupG 5'UTR uORF extension,87% less translation,0.0469231605529785
+c.-87A>T uORF1 start loss,9% more translation,0.029
+c.-20A>T uORF2 start loss,34% more translation,0.0121
+miR-17 seed 6-base edit,more PKD1 mRNA and protein (mouse; not given as %),0.0027
+rs3874648 intron 30 modifier,less full-length PKD1 (not given as %),0.0060305595397949

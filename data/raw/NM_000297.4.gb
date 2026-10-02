@@ -1,0 +1,492 @@
+LOCUS       NM_000297               5089 bp    mRNA    linear   PRI 06-SEP-2026
+DEFINITION  Homo sapiens polycystin 2, transient receptor potential cation
+            channel (PKD2), transcript variant 1, mRNA.
+ACCESSION   NM_000297
+VERSION     NM_000297.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5089)
+  AUTHORS   Staudner,T., Geiges,L., Khamseekaew,J., Sure,F., Korbmacher,C. and
+            Ilyaskin,A.V.
+  TITLE     Disease-associated missense mutations in the pore loop of
+            polycystin-2 alter its ion channel function in a heterologous
+            expression system
+  JOURNAL   J Biol Chem 300 (8), 107574 (2024)
+   PUBMED   39009345
+  REMARK    GeneRIF: Disease-associated missense mutations in the pore loop of
+            polycystin-2 alter its ion channel function in a heterologous
+            expression system.
+REFERENCE   2  (bases 1 to 5089)
+  AUTHORS   Xu,D., Mao,A., Chen,L., Wu,L., Ma,Y. and Mei,C.
+  TITLE     Comprehensive Analysis of PKD1 and PKD2 by Long-Read Sequencing in
+            Autosomal Dominant Polycystic Kidney Disease
+  JOURNAL   Clin Chem 70 (6), 841-854 (2024)
+   PUBMED   38527221
+  REMARK    GeneRIF: Comprehensive Analysis of PKD1 and PKD2 by Long-Read
+            Sequencing in Autosomal Dominant Polycystic Kidney Disease.
+REFERENCE   3  (bases 1 to 5089)
+  AUTHORS   Wang,Z., Chen,M., Su,Q., Morais,T.D.C., Wang,Y., Nazginov,E.,
+            Pillai,A.R., Qian,F., Shi,Y. and Yu,Y.
+  TITLE     Molecular and structural basis of the dual regulation of the
+            polycystin-2 ion channel by small-molecule ligands
+  JOURNAL   Proc Natl Acad Sci U S A 121 (12), e2316230121 (2024)
+   PUBMED   38483987
+REFERENCE   4  (bases 1 to 5089)
+  AUTHORS   Qian,F., Germino,F.J., Cai,Y., Zhang,X., Somlo,S. and Germino,G.G.
+  TITLE     PKD1 interacts with PKD2 through a probable coiled-coil domain
+  JOURNAL   Nat Genet 16 (2), 179-183 (1997)
+   PUBMED   9171830
+REFERENCE   5  (bases 1 to 5089)
+  AUTHORS   Schneider,M.C., Rodriguez,A.M., Nomura,H., Zhou,J., Morton,C.C.,
+            Reeders,S.T. and Weremowicz,S.
+  TITLE     A gene similar to PKD1 maps to chromosome 4q22: a candidate gene
+            for PKD2
+  JOURNAL   Genomics 38 (1), 1-4 (1996)
+   PUBMED   8954772
+REFERENCE   6  (bases 1 to 5089)
+  AUTHORS   Mochizuki,T., Wu,G., Hayashi,T., Xenophontos,S.L., Veldhuisen,B.,
+            Saris,J.J., Reynolds,D.M., Cai,Y., Gabow,P.A., Pierides,A.,
+            Kimberling,W.J., Breuning,M.H., Deltas,C.C., Peters,D.J. and
+            Somlo,S.
+  TITLE     PKD2, a gene for polycystic kidney disease that encodes an integral
+            membrane protein
+  JOURNAL   Science 272 (5266), 1339-1342 (1996)
+   PUBMED   8650545
+REFERENCE   7  (bases 1 to 5089)
+  AUTHORS   Peters,D.J., Spruit,L., Saris,J.J., Ravine,D., Sandkuijl,L.A.,
+            Fossdal,R., Boersma,J., van Eijk,R., Norby,S.,
+            Constantinou-Deltas,C.D. et al.
+  TITLE     Chromosome 4 localization of a second gene for autosomal dominant
+            polycystic kidney disease
+  JOURNAL   Nat Genet 5 (4), 359-362 (1993)
+   PUBMED   8298643
+REFERENCE   8  (bases 1 to 5089)
+  AUTHORS   Gunay-Aygun,M., Gahl,W.A. and Heller,T.
+  TITLE     Congenital Hepatic Fibrosis Overview horizontal line RETIRED
+            CHAPTER, FOR HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE and Amemiya A
+            (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301743
+REFERENCE   9  (bases 1 to 5089)
+  AUTHORS   Harris,P.C. and Torres,V.E.
+  TITLE     Polycystic Kidney Disease, Autosomal Dominant
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301424
+REFERENCE   10 (bases 1 to 5089)
+  AUTHORS   Milewicz,D.M. and Cecchi,A.C.
+  TITLE     Heritable Thoracic Aortic Disease Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301299
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC084732.1, BC112263.1,
+            AF054992.1, AF113693.1 and AW600307.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_000297.3.
+            
+            Summary: This gene encodes a member of the polycystin protein
+            family. The encoded protein is a multi-pass membrane protein that
+            functions as a calcium permeable cation channel, and is involved in
+            calcium transport and calcium signaling in renal epithelial cells.
+            This protein interacts with polycystin 1, and they may be partners
+            in a common signaling cascade involved in tubular morphogenesis.
+            Mutations in this gene are associated with autosomal dominant
+            polycystic kidney disease type 2. [provided by RefSeq, Mar 2011].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U50928.1, BC112261.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000237596.7/ ENSP00000237596.2
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-12                AC084732.1         171329-171340       c
+            13-3066             BC112263.1         1-3054
+            3067-4242           AF054992.1         181-1356
+            4243-5086           AF113693.1         451-1294
+            5087-5089           AW600307.1         188-190
+FEATURES             Location/Qualifiers
+     source          1..5089
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="4"
+                     /map="4q22.1"
+     gene            1..5089
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="polycystin 2, transient receptor potential cation
+                     channel"
+                     /db_xref="GeneID:5311"
+                     /db_xref="HGNC:HGNC:9009"
+                     /db_xref="MIM:173910"
+     exon            1..694
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    40..42
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="upstream in-frame stop codon"
+     CDS             100..3006
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     polycystin-2; polycystic kidney disease 2 (autosomal
+                     dominant); autosomal dominant polycystic kidney disease
+                     type II protein; transient receptor potential cation
+                     channel subfamily P member 2"
+                     /codon_start=1
+                     /product="polycystin-2 isoform 1"
+                     /protein_id="NP_000288.1"
+                     /db_xref="CCDS:CCDS3627.1"
+                     /db_xref="GeneID:5311"
+                     /db_xref="HGNC:HGNC:9009"
+                     /db_xref="MIM:173910"
+                     /translation="MVNSSRVQPQQPGDAKRPPAPRAPDPGRLMAGCAAVGASLAAPG
+                     GLCEQRGLEIEMQRIRQAAARDPPAGAAASPSPPLSSCSRQAWSRDNPGFEAEEEEEE
+                     VEGEEGGMVVEMDVEWRPGSRRSAASSAVSSVGARSRGLGGYHGAGHPSGRRRRREDQ
+                     GPPCPSPVGGGDPLHRHLPLEGQPPRVAWAERLVRGLRGLWGTRLMEESSTNREKYLK
+                     SVLRELVTYLLFLIVLCILTYGMMSSNVYYYTRMMSQLFLDTPVSKTEKTNFKTLSSM
+                     EDFWKFTEGSLLDGLYWKMQPSNQTEADNRSFIFYENLLLGVPRIRQLRVRNGSCSIP
+                     QDLRDEIKECYDVYSVSSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYY
+                     LDLSRTREETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGG
+                     VIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKLHYFRSFWN
+                     CLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAVTV
+                     FFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGFAIMFFIIFLAYAQLAYLVFGTQVD
+                     DFSTFQECIFTQFRIILGDINFAEIEEANRVLGPIYFTTFVFFMFFILLNMFLAIIND
+                     TYSEVKSDLAQQKAEMELSDLIRKGYHKALVKLKLKKNTVDDISESLRQGGGKLNFDE
+                     LRQDLKGKGHTDAEIEAIFTKYDQDGDQELTEHEHQQMRDDLEKEREDLDLDHSSLPR
+                     PMSSRSFPRSLDDSEEDDDEDSGHSSRRRGSISSGVSYEEFQVLVRRVDRMEHSIGSI
+                     VSKIDAVIVKLEIMERAKLKRREVLGRLLDGVAEDERLGRDSEIHREQMERLVREELE
+                     RWESDDAASQISHGLGTPVGLNGQPRPRSSRPSSSQSTEGMEGAGGNGSSNVHV"
+     misc_feature    100..183
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    271..642
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    325..327
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:16551655; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); phosphorylation site"
+     misc_feature    337..339
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000305|PubMed:16551655; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); phosphorylation site"
+     misc_feature    508..510
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:O35245; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); methylation site"
+     misc_feature    757..822
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    994..996
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:28092368; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); glycosylation site"
+     misc_feature    1012..1014
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:28092368; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); glycosylation site"
+     misc_feature    1081..1083
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="N-linked (GlcNAc...) (complex) asparagine.
+                     /evidence=ECO:0000269|PubMed:19139490,
+                     ECO:0000269|PubMed:27768895, ECO:0000269|PubMed:27991905,
+                     ECO:0000269|PubMed:28092368, ECO:0000269|PubMed:32332171,
+                     ECO:0000269|PubMed:38483987, ECO:0007744|PDB:6WB8,
+                     ECO:0007744|PDB:8HK7; propagated from UniProtKB/Swiss-Prot
+                     (Q13563.3); glycosylation site"
+     misc_feature    1183..1185
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:27768895,
+                     ECO:0000269|PubMed:27991905, ECO:0000269|PubMed:28092368,
+                     ECO:0000269|PubMed:32332171, ECO:0000269|PubMed:38483987,
+                     ECO:0007744|PDB:6WB8; propagated from UniProtKB/Swiss-Prot
+                     (Q13563.3); glycosylation site"
+     misc_feature    1222..1224
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:27768895,
+                     ECO:0000269|PubMed:27991905, ECO:0000269|PubMed:28092368,
+                     ECO:0000269|PubMed:32332171, ECO:0000269|PubMed:38483987,
+                     ECO:0007744|PDB:6WB8, ECO:0007744|PDB:8HK7; propagated
+                     from UniProtKB/Swiss-Prot (Q13563.3); glycosylation site"
+     misc_feature    1504..1566
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    1615..1677
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    1756..1818
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    1891..1956
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    2020..2028
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Selectivity filter.
+                     /evidence=ECO:0000305|PubMed:28092368"
+     misc_feature    2062..2124
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     transmembrane region"
+     misc_feature    2389..2592
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2500..2502
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:20881056,
+                     ECO:0000305|PubMed:16551655; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); phosphorylation site"
+     misc_feature    2506..2565
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Linker. /evidence=ECO:0000305|PubMed:18694932"
+     misc_feature    2521..2523
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O35245; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); phosphorylation site"
+     misc_feature    2527..2562
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Important for interaction with PACS1 and PACS2.
+                     /evidence=ECO:0000269|PubMed:15692563"
+     misc_feature    2533..2535
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:14742446,
+                     ECO:0000305|PubMed:15692563, ECO:0000305|PubMed:16551655,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     phosphorylation site"
+     misc_feature    2584..2586
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000305|PubMed:26269590; propagated from
+                     UniProtKB/Swiss-Prot (Q13563.3); phosphorylation site"
+     misc_feature    2848..3003
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13563.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            695..808
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            809..942
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            943..1193
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1194..1418
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1419..1647
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1648..1815
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1816..1997
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1998..2118
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2119..2217
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2218..2339
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2340..2457
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2458..2621
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2622..2769
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2770..5089
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5067..5072
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="hexamer: AATAAA"
+     polyA_site      5089
+                     /gene="PKD2"
+                     /gene_synonym="APKD2; Pc-2; PC2; PKD4; TRPP2"
+                     /note="major polyA site"
+ORIGIN      
+        1 aggcggcggc gggcgccggg aagaaaggaa catggctcct gaggcgcaca gcgccgagcg
+       61 cggcgccgcg cacccgcgcg ccggacgcca gtgaccgcga tggtgaactc cagtcgcgtg
+      121 cagcctcagc agcccgggga cgccaagcgg ccgcccgcgc cccgcgcgcc ggacccgggc
+      181 cggctgatgg ctggctgcgc ggccgtgggc gccagcctcg ccgccccggg cggcctctgc
+      241 gagcagcggg gcctggagat cgagatgcag cgcatccggc aggcggccgc gcgggacccc
+      301 ccggccggag ccgcggcctc cccttctcct ccgctctcgt cgtgctcccg gcaggcgtgg
+      361 agccgcgata accccggctt cgaggccgag gaggaggagg aggaggtgga aggggaagaa
+      421 ggcggaatgg tggtggagat ggacgtagag tggcgcccgg gcagccggag gtcggccgcc
+      481 tcctcggccg tgagctccgt gggcgcgcgg agccgggggc ttgggggcta ccacggcgcg
+      541 ggccacccga gcgggaggcg gcgccggcga gaggaccagg gcccgccgtg ccccagccca
+      601 gtcggcggcg gggacccgct gcatcgccac ctccccctgg aagggcagcc gccccgagtg
+      661 gcctgggcgg agaggctggt tcgcgggctg cgaggtctct ggggaacaag actcatggag
+      721 gaaagcagca ctaaccgaga gaaatacctt aaaagtgttt tacgggaact ggtcacatac
+      781 ctcctttttc tcatagtctt gtgcatcttg acctacggca tgatgagctc caatgtgtac
+      841 tactacaccc ggatgatgtc acagctcttc ctagacaccc ccgtgtccaa aacggagaaa
+      901 actaacttta aaactctgtc ttccatggaa gacttctgga agttcacaga aggctcctta
+      961 ttggatgggc tgtactggaa gatgcagccc agcaaccaga ctgaagctga caaccgaagt
+     1021 ttcatcttct atgagaacct gctgttaggg gttccacgaa tacggcaact ccgagtcaga
+     1081 aatggatcct gctctatccc ccaggacttg agagatgaaa ttaaagagtg ctatgatgtc
+     1141 tactctgtca gtagtgaaga tagggctccc tttgggcccc gaaatggaac cgcttggatc
+     1201 tacacaagtg aaaaagactt gaatggtagt agccactggg gaatcattgc aacttatagt
+     1261 ggagctggct attatctgga tttgtcaaga acaagagagg aaacagctgc acaagttgct
+     1321 agcctcaaga aaaatgtctg gctggaccga ggaaccaggg caacttttat tgacttctca
+     1381 gtgtacaacg ccaacattaa cctgttctgt gtggtcaggt tattggttga attcccagca
+     1441 acaggtggtg tgattccatc ttggcaattt cagcctttaa agctgatccg atatgtcaca
+     1501 acttttgatt tcttcctggc agcctgtgag attatctttt gtttctttat cttttactat
+     1561 gtggtggaag agatattgga aattcgcatt cacaaactac actatttcag gagtttctgg
+     1621 aattgtctgg atgttgtgat cgttgtgctg tcagtggtag ctataggaat taacatatac
+     1681 agaacatcaa atgtggaggt gctactacag tttctggaag atcaaaatac tttccccaac
+     1741 tttgagcatc tggcatattg gcagatacag ttcaacaata tagctgctgt cacagtattt
+     1801 tttgtctgga ttaagctctt caaattcatc aattttaaca ggaccatgag ccagctctcg
+     1861 acaaccatgt ctcgatgtgc caaagacctg tttggctttg ctattatgtt cttcattatt
+     1921 ttcctagcgt atgctcagtt ggcatacctt gtctttggca ctcaggtcga tgacttcagt
+     1981 actttccaag agtgtatctt cactcaattc cgtatcattt tgggcgatat caactttgca
+     2041 gagattgagg aagctaatcg agttttggga ccaatttatt tcactacatt tgtgttcttt
+     2101 atgttcttca ttcttttgaa tatgtttttg gctatcatca atgatactta ctctgaagtg
+     2161 aaatctgact tggcacagca gaaagctgaa atggaactct cagatcttat cagaaagggc
+     2221 taccataaag ctttggtcaa actaaaactg aaaaaaaata ccgtggatga catttcagag
+     2281 agtctgcggc aaggaggagg caagttaaac tttgacgaac ttcgacaaga tctcaaaggg
+     2341 aagggccata ctgatgcaga gattgaggca atattcacaa agtacgacca agatggagac
+     2401 caagaactga ccgaacatga acatcagcag atgagagacg acttggagaa agagagggag
+     2461 gacctggatt tggatcacag ttctttacca cgtcccatga gcagccgaag tttccctcga
+     2521 agcctggatg actctgagga ggatgacgat gaagatagcg gacatagctc cagaaggagg
+     2581 ggaagcattt ctagtggcgt ttcttacgaa gagtttcaag tcctggtgag acgagtggac
+     2641 cggatggagc attccatcgg cagcatagtg tccaagattg acgccgtgat cgtgaagcta
+     2701 gagattatgg agcgagccaa actgaagagg agggaggtgc tgggaaggct gttggatggg
+     2761 gtggccgagg atgaaaggct gggtcgtgac agtgaaatcc atagggaaca gatggaacgg
+     2821 ctagtacgtg aagagttgga acgctgggaa tccgatgatg cagcttccca gatcagtcat
+     2881 ggtttaggca cgccagtggg actaaatggt caacctcgcc ccagaagctc ccgcccatct
+     2941 tcctcccaat ctacagaagg catggaaggt gcaggtggaa atgggagttc taatgtccac
+     3001 gtatgatatg tgtgtttcag tatgtgtgtt tctaataagt gaggaagtgg ctgtcctgaa
+     3061 ttgctgtaac aagcacacta tttatatgcc ctgaccacca taggatgcta gtctttgtga
+     3121 ccgattgcta atcttctgca ctttaattta ttttatataa actttaccca tggttcaaag
+     3181 attttttttt ctttttctca tataagaaat ctaggtgtaa atattgagta cagaaaaaaa
+     3241 atcttcatga tgtgtattga gcggtacgcc cagttgccac catgactgag tcttctcagt
+     3301 tgacaatgaa gtagcctttt aaagctagaa aactgtcaaa gggcttctga gtttcatttc
+     3361 cagtcacaaa aatcagtatt gttatttttt tccaagagtg tgaaggaaaa tggggcattc
+     3421 ctttccactc tggcatagtt catgagctta atacatagct ttcttttaag aaaggagcct
+     3481 tttttttcaa ctagcttcct ggggtaaact tttctaaaag ataaaatgga aaggaactcc
+     3541 aaactatgat agaatctgtg tgaatggtta agatgaatgt taaatactat gcttttttgt
+     3601 aagttgatcg tatctgatgt ctgtgggact aactgtatca cttaattttt accttatttt
+     3661 ggctctaatt tgaataagct gagtaaaacc accaaagatc agttatagga taaaatggca
+     3721 tctctaacca taacacagga gaattggaag gagccctaag ttgtcactca gtttaatttc
+     3781 ttttaatggt tagtttagcc taaagattta tctgcatatt ctttttccca tgtggctcta
+     3841 ctcatttgca actgaattta atgttataac tcatctagtg agaccaactt actaaatttt
+     3901 tagtatgcac tgaaagtttt tatccaacaa ttatgttcat tttaagcaaa attttaagaa
+     3961 agttttgaaa ttcataaagc atttggtttt aaactatttt aagaatatag tactcggtca
+     4021 ggtatgacgg ctcacgcctg taatcccagc actttgggag gccgaaacag gcgaatcact
+     4081 tgagcccagg agttcaagac caacatgggc aatgtggcga aactccatct ctacaaaaaa
+     4141 tgcaaaaata aaaaatatag tactcaagta ttcttgatcc tgtgtttcaa aactagaatt
+     4201 tgtaatgcaa atggagctca gtctaataaa aaagaggttt tggtattaaa agttcataca
+     4261 ttagacagta tcagccaaaa tttgagttag caacactgtt ttctttacga gagggtctca
+     4321 cccaaattta tggggagaaa tctatttctc aaaaaaaaaa atcttctttt acagaaatgt
+     4381 tgagtaaggt gacattttga gcgctaataa gcaaaagagc atgcagtgct gttgaataac
+     4441 cctcacttgg agaaccaaga gaatcctgtc gtttaatgct atattttaat ttcacaagtt
+     4501 gttcatttaa ctggtagaat gtcagtccaa tctccaatga gaacatgagc aaatagacct
+     4561 ttccaggttg aaagtgaaac atactgggtt tctgtaagtt tttcctcatg gcttcatctc
+     4621 tatctttact ttctcttgaa tatgctacac aaagttcttt attactacat actaaagttt
+     4681 gcattccagg gatattgact gtacatattt atgtatatgt accatgttgt tacatgtaaa
+     4741 caaacttcaa tttgaagtgc agctattatg tggtatccat gtgtatcgac catgtgccat
+     4801 atatcaatta tggtcactag aaagtctctt tatgatactt tttattgtac tgtttttcat
+     4861 ttcacttgca aaattttgca gaattcctcc tttctaccca taaattacat atatttttct
+     4921 tctttagtca tggagaactc cccccctcat ctcttcccta ttatctttcc ctgtgtactg
+     4981 gtattattaa aaagacatta catacgcaag tctttctcga caatcaagaa tgttattaat
+     5041 gtgtaatact gagcacttta cttcttaata aaaacttgat atagtagca
+//
+

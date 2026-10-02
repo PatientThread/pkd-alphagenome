@@ -1,0 +1,566 @@
+{
+ "notes": [
+  "Locus percentile: 100 = highest-scoring of all possible SNVs in gene span + 5 kb upstream.",
+  "AlphaGenome on-demand splicing outputs are reported separately; no composite was pre-specified.",
+  "AVI and CADD are composite pathogenicity scores; per amendment A1 their primary evaluation uses non-coding and synonymous variants only.",
+  "Per amendment A2, AVI is reported primarily on PKD1 (chromosome 16, held out of AVI training and validation)."
+ ],
+ "primary": {
+  "definition": "PKD1 POS SNVs, non-coding or synonymous; AVI percentile within the PKD1 locus",
+  "n": 18,
+  "n_scored": 18,
+  "median_pct": 94.77,
+  "top1pct": 5,
+  "top0_1pct": 0,
+  "per_variant": [
+   {
+    "hgvs_c": "c.12444+1G>A",
+    "avi": 2.189,
+    "avi_locus_pct": 99.744,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.12444G>A",
+    "avi": 2.106,
+    "avi_locus_pct": 99.684,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11538-2A>G",
+    "avi": 1.569,
+    "avi_locus_pct": 99.044,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11346C>T",
+    "avi": 0.081,
+    "avi_locus_pct": 65.597,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11257C>A",
+    "avi": 1.631,
+    "avi_locus_pct": 99.194,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11017-10C>A",
+    "avi": 0.911,
+    "avi_locus_pct": 94.223,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11017-25A>G",
+    "avi": 0.868,
+    "avi_locus_pct": 93.724,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.11017-25A>C",
+    "avi": 0.835,
+    "avi_locus_pct": 93.312,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.10051-239G>A",
+    "avi": -0.077,
+    "avi_locus_pct": 10.854,
+    "avi_top_attr_group": "expression_chromatin"
+   },
+   {
+    "hgvs_c": "c.9202-16G>A",
+    "avi": 0.698,
+    "avi_locus_pct": 91.321,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.7490-3C>G",
+    "avi": 0.889,
+    "avi_locus_pct": 93.971,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.7490-11C>G",
+    "avi": 0.277,
+    "avi_locus_pct": 80.252,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.7489+5G>A",
+    "avi": 1.457,
+    "avi_locus_pct": 98.582,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.3162-2A>T",
+    "avi": 1.395,
+    "avi_locus_pct": 98.17,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.2854-3C>G",
+    "avi": 1.023,
+    "avi_locus_pct": 95.318,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.2853+5G>C",
+    "avi": 1.71,
+    "avi_locus_pct": 99.313,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.2097+5G>A",
+    "avi": 1.396,
+    "avi_locus_pct": 98.179,
+    "avi_top_attr_group": "splicing"
+   },
+   {
+    "hgvs_c": "c.327A>T",
+    "avi": 0.885,
+    "avi_locus_pct": 93.932,
+    "avi_top_attr_group": "splicing"
+   }
+  ],
+  "cadd_same_variants": {
+   "n_scored": 18,
+   "median_pct": 88.74,
+   "top1pct": 2,
+   "top0_1pct": 0,
+   "phred_ge_20": 8
+  },
+  "spliceai_same_variants": {
+   "n_scored": 18,
+   "ge_0_2": 16,
+   "ge_0_5": 16,
+   "median": 0.7
+  }
+ },
+ "pos_vs_neg": {
+  "avi_locus_pct": {
+   "POS": {
+    "n_scored": 38,
+    "n_missing": 6,
+    "median": 99.06
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 84.91
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "avi_locus_pct": 1.61
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "avi_locus_pct": 69.949
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "avi_locus_pct": 76.323
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "avi_locus_pct": 84.91
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "avi_locus_pct": 99.869
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "avi_locus_pct": 99.97
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "avi_locus_pct": 96.304
+    }
+   ]
+  },
+  "cadd_locus_pct": {
+   "POS": {
+    "n_scored": 39,
+    "n_missing": 5,
+    "median": 97.301
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 85.833
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "cadd_locus_pct": 2.658
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_locus_pct": 32.418
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_locus_pct": 85.301
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_locus_pct": 85.833
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "cadd_locus_pct": 99.88
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "cadd_locus_pct": 99.93
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "cadd_locus_pct": 96.449
+    }
+   ]
+  },
+  "cadd_phred": {
+   "POS": {
+    "n_scored": 39,
+    "n_missing": 5,
+    "median": 22.9
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 15.98
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "cadd_phred": 0.065
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_phred": 1.26
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_phred": 15.55
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "cadd_phred": 16.21
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "cadd_phred": 36.0
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "cadd_phred": 38.0
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "cadd_phred": 15.98
+    }
+   ]
+  },
+  "spliceai_max": {
+   "POS": {
+    "n_scored": 44,
+    "n_missing": 0,
+    "median": 0.675
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 0.04
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "spliceai_max": 0.01
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "spliceai_max": 0.24
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "spliceai_max": 0.0
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "spliceai_max": 0.0
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "spliceai_max": 0.06
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "spliceai_max": 0.19
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "spliceai_max": 0.04
+    }
+   ]
+  },
+  "splice_sites_maxabs_all": {
+   "POS": {
+    "n_scored": 44,
+    "n_missing": 0,
+    "median": 0.607
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 0.035
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "splice_sites_maxabs_all": 0.035
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_sites_maxabs_all": 0.231
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_sites_maxabs_all": 0.01
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_sites_maxabs_all": 0.012
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_sites_maxabs_all": 0.043
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_sites_maxabs_all": 0.145
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "splice_sites_maxabs_all": 0.026
+    }
+   ]
+  },
+  "splice_site_usage_maxabs_all": {
+   "POS": {
+    "n_scored": 44,
+    "n_missing": 0,
+    "median": 0.861
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 0.02
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "splice_site_usage_maxabs_all": 0.02
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_all": 0.012
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_all": 0.012
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_all": 0.012
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_site_usage_maxabs_all": 0.035
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_site_usage_maxabs_all": 0.23
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "splice_site_usage_maxabs_all": 0.031
+    }
+   ]
+  },
+  "splice_junctions_maxabs_all": {
+   "POS": {
+    "n_scored": 44,
+    "n_missing": 0,
+    "median": 4.334
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 0.478
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "splice_junctions_maxabs_all": 0.187
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_junctions_maxabs_all": 0.929
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_junctions_maxabs_all": 0.042
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_junctions_maxabs_all": 0.105
+    },
+    {
+     "hgvs_c": "c.741C>G",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_junctions_maxabs_all": 0.52
+    },
+    {
+     "hgvs_c": "c.796G>T",
+     "gene": "PKD2",
+     "consequence_class": "nonsense",
+     "splice_junctions_maxabs_all": 1.247
+    },
+    {
+     "hgvs_c": "c.1546G>T",
+     "gene": "PKD2",
+     "consequence_class": "missense",
+     "splice_junctions_maxabs_all": 0.478
+    }
+   ]
+  },
+  "splice_site_usage_maxabs_kidney": {
+   "POS": {
+    "n_scored": 44,
+    "n_missing": 0,
+    "median": 0.803
+   },
+   "NEG": {
+    "n_scored": 7,
+    "n_missing": 0,
+    "median": 0.012
+   },
+   "NEG_values": [
+    {
+     "hgvs_c": "c.7866C>T",
+     "gene": "PKD1",
+     "consequence_class": "synonymous",
+     "splice_site_usage_maxabs_kidney": 0.02
+    },
+    {
+     "hgvs_c": "c.7066-130A>G",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_kidney": 0.008
+    },
+    {
+     "hgvs_c": "c.-52C>T",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_kidney": 0.008
+    },
+    {
+     "hgvs_c": "c.-209G>A",
+     "gene": "PKD1",
+     "consequence_class": "noncoding",
+     "splice_site_usage_maxabs_ki

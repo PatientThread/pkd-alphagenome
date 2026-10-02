@@ -1,0 +1,35 @@
+# ─── PUBLISHER CONTENT. NEVER COMMIT. ──────────────────────────────────────
+# The manuscript states "Publisher full texts are not redistributed". These are
+# copyrighted articles and supplements downloaded for curation. The truth set
+# records a verbatim quotation and a PMID from each, which is what a reader
+# needs; the PDFs themselves are not ours to publish.
+data/papers/
+docs/sources/*.pdf
+
+# ─── THIRD-PARTY REFERENCE DATA, large and re-downloadable ─────────────────
+whole_genome_SNVs.tsv.gz.tbi
+data/raw/hg38*
+*.fa
+*.fa.gz
+*.fai
+
+# ─── CREDENTIALS ───────────────────────────────────────────────────────────
+# The AlphaGenome key lives at ~/.alphagenome/api_key, outside this tree.
+*api_key*
+.env
+*.pem
+*.key
+
+# ─── LOCAL CLUTTER ─────────────────────────────────────────────────────────
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+~$*
+
+# ─── RESUME CHECKPOINTS, not evidence ──────────────────────────────────────
+# 06_score_atlas.py writes one file per 32 bp request so a long run can resume.
+# The consolidated results/atlas_locus_PKD1.tsv.gz (156,574 rows) and
+# atlas_locus_PKD2.tsv.gz (225,577 rows) contain every scored position, so the
+# 3,981 chunk files add 16 MB and verify nothing the locus files do not.
+results/atlas_chunks/

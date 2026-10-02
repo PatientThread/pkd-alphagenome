@@ -1,0 +1,35 @@
+ANALYSIS_PLAN.md frozen before the truth set was scored, with ONE disclosed exception below.
+UTC: 2026-09-19T16:57:49Z
+SHA-256: 9fa9282471c899310e3480066dbb9bff5c5c195a96a4976df5a94ff1c36a5a8e
+Truth set at freeze: data/curated/truthset_verified.tsv SHA-256 9bb346eb1d0288d354cf25cef4d9e7f5e18ee4fbc6ae56c18da83192bf921e5a
+
+DISCLOSED EXCEPTION: one truth-set variant, PKD1 c.11017-25A>G (chr16:2093118 T>C), was scored
+before the freeze during a probe of the Atlas and CADD API response formats. Values seen:
+AVI raw 0.868 (MERGED_SPLICING attribution 0.75), CADD v1.7 PHRED 8.4. No other truth-set
+variant was scored before the freeze. The plan text was not changed after these were seen.
+
+AMENDMENT A1 recorded 2026-09-19T17:08:37Z. ANALYSIS_PLAN.md SHA-256 after A1: 48f7da25086817e804e67ca5a5e1e942ef9f49f190f250355f86eda11b0f73ed
+At this time results/atlas_truthset.tsv did not exist (no AVI truth-set score had been retrieved).
+
+AMENDMENT A2 recorded 2026-09-19T17:12:43Z. ANALYSIS_PLAN.md SHA-256 after A2: bc927bae73f87b5b74dc29657683a5fda1bca5cb5f80349dc5fae8b7dff16970
+At this time results/atlas_truthset.tsv did not exist.
+
+CORRECTION NOTE: ANALYSIS_PLAN.md line 3 says 'Written and committed'. No git commit was made.
+The freeze is the SHA-256 record in this file. Frozen text is not edited to fix wording.
+
+AMENDMENT A3 recorded 2026-09-19T20:28:15Z. ANALYSIS_PLAN.md SHA-256 after A3: 71ecbf54bf25331e0572fd9ba4a7d64626ba077f25477bd9110af17d0707d737
+Written after the original truth set had been scored; before any A3 variant was scored.
+A3 wording corrected 2026-09-19T20:28:25Z (count of control variants). SHA-256 now: 675d09ad0e19722af8a094cc921cb37f1fc943711c3a84cae49c5c1813cf2f1c
+
+AMENDMENT A4 (exploratory aim) recorded 2026-09-19T20:58:36Z. SHA-256: c2ff254ecbd9cbb0df9270e5c940c32787f95d35a4332199848b933ea429ce4d
+Before any score or gnomAD data for the miR-17 site was examined.
+A4 extended with Q4 (uORF start-loss) 2026-09-19T20:59:12Z, before scoring. SHA-256: 29cc4558ba0260024c847baf733711892b5b8099594f92962add4494f7a37e86
+
+A3 APPLIED to PMID 24907393 Table S3 (image supplied by Dr Lawrence) 2026-09-19T21:03:59Z: 14 negatives added under the A3 rules, before any of them was scored. Q987H and L3675L excluded as ambiguous.
+A3 APPLIED to PMID 34257392 Dataset S2 (supplied by Dr Lawrence) 2026-09-19T21:06:50Z: 29 negatives added under the A3 rules, before any of them was scored.
+
+AMENDMENT A5 (sampled SpliceAI background) recorded 2026-09-19T21:38:09Z. SHA-256: 63bdac4ac2fbffecdea28c33efba9ad11dc8e0aaf57fbaa65fef3821a2db3568
+
+AMENDMENT A6 (non-coding background sensitivity analysis, EXPLORATORY, after seeing the first burden result) recorded 2026-09-20T01:42:09Z. SHA-256: 9b554453e310c854ad367dee5d3b0447db0c13beb1adf803cf1a3e6a852fd781
+
+AMENDMENT A7 (rebuild after external review; all post hoc) recorded 2026-09-20T15:31:46Z. SHA-256: 227324858ffce1c9392c8c3369d7d039f6dd9c7c6ac9db559df4e3fe0df63411

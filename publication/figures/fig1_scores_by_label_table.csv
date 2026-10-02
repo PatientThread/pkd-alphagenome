@@ -1,0 +1,484 @@
+tool,label,value
+SpliceAI,POS,0.97
+SpliceAI,POS,1.0
+SpliceAI,POS,0.71
+SpliceAI,POS,0.98
+SpliceAI,POS,0.94
+SpliceAI,POS,0.09
+SpliceAI,POS,0.16
+SpliceAI,POS,0.88
+SpliceAI,POS,0.17
+SpliceAI,POS,0.53
+SpliceAI,POS,0.77
+SpliceAI,POS,0.22
+SpliceAI,POS,0.45
+SpliceAI,POS,0.82
+SpliceAI,POS,0.59
+SpliceAI,POS,0.5
+SpliceAI,POS,0.66
+SpliceAI,POS,0.67
+SpliceAI,POS,0.05
+SpliceAI,POS,0.3
+SpliceAI,POS,0.68
+SpliceAI,POS,1.0
+SpliceAI,POS,0.01
+SpliceAI,POS,0.0
+SpliceAI,POS,0.0
+SpliceAI,POS,0.74
+SpliceAI,POS,0.9
+SpliceAI,POS,0.57
+SpliceAI,POS,0.92
+SpliceAI,POS,0.9
+SpliceAI,POS,0.08
+SpliceAI,POS,0.78
+SpliceAI,POS,0.99
+SpliceAI,POS,0.83
+SpliceAI,POS,0.69
+SpliceAI,POS,0.86
+SpliceAI,POS,0.65
+SpliceAI,POS,0.94
+SpliceAI,POS,0.98
+SpliceAI,POS,0.0
+SpliceAI,POS,0.97
+SpliceAI,POS,0.01
+SpliceAI,POS,0.67
+SpliceAI,POS,0.36
+SpliceAI,POS,0.28
+SpliceAI,POS,0.57
+SpliceAI,POS,0.84
+SpliceAI,POS,1.0
+SpliceAI,POS,0.95
+SpliceAI,POS,1.0
+SpliceAI,POS,0.45
+SpliceAI,NEG,0.13
+SpliceAI,NEG,0.95
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.32
+SpliceAI,NEG,0.34
+SpliceAI,NEG,0.13
+SpliceAI,NEG,0.23
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.09
+SpliceAI,NEG,0.11
+SpliceAI,NEG,0.5
+SpliceAI,NEG,0.46
+SpliceAI,NEG,0.11
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.96
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.05
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.81
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.05
+SpliceAI,NEG,0.12
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.25
+SpliceAI,NEG,0.17
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.63
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.68
+SpliceAI,NEG,0.36
+SpliceAI,NEG,0.06
+SpliceAI,NEG,0.19
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.28
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.08
+SpliceAI,NEG,0.19
+SpliceAI,NEG,0.85
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.06
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.0
+AlphaGenome splice-site usage,POS,0.972360610961914
+AlphaGenome splice-site usage,POS,0.968435287475586
+AlphaGenome splice-site usage,POS,0.9595947265625
+AlphaGenome splice-site usage,POS,0.9522705078125
+AlphaGenome splice-site usage,POS,0.95281982421875
+AlphaGenome splice-site usage,POS,0.0078125
+AlphaGenome splice-site usage,POS,0.0234375
+AlphaGenome splice-site usage,POS,0.889404296875
+AlphaGenome splice-site usage,POS,0.078125
+AlphaGenome splice-site usage,POS,0.896240234375
+AlphaGenome splice-site usage,POS,0.84228515625
+AlphaGenome splice-site usage,POS,0.05078125
+AlphaGenome splice-site usage,POS,0.82373046875
+AlphaGenome splice-site usage,POS,0.91632080078125
+AlphaGenome splice-site usage,POS,0.8916015625
+AlphaGenome splice-site usage,POS,0.885986328125
+AlphaGenome splice-site usage,POS,0.064453125
+AlphaGenome splice-site usage,POS,0.72412109375
+AlphaGenome splice-site usage,POS,0.0078125
+AlphaGenome splice-site usage,POS,0.4609375
+AlphaGenome splice-site usage,POS,0.8271484375
+AlphaGenome splice-site usage,POS,0.976542353630066
+AlphaGenome splice-site usage,POS,0.01171875
+AlphaGenome splice-site usage,POS,0.01171875
+AlphaGenome splice-site usage,POS,0.013671875
+AlphaGenome splice-site usage,POS,0.125
+AlphaGenome splice-site usage,POS,0.898193359375
+AlphaGenome splice-site usage,POS,0.466796875
+AlphaGenome splice-site usage,POS,0.9337158203125
+AlphaGenome splice-site usage,POS,0.9748611450195312
+AlphaGenome splice-site usage,POS,0.0859375
+AlphaGenome splice-site usage,POS,0.7647438049316406
+AlphaGenome splice-site usage,POS,0.94573974609375
+AlphaGenome splice-site usage,POS,0.484375
+AlphaGenome splice-site usage,POS,0.921142578125
+AlphaGenome splice-site usage,POS,0.9564781188964844
+AlphaGenome splice-site usage,POS,0.917724609375
+AlphaGenome splice-site usage,POS,0.5115156173706055
+AlphaGenome splice-site usage,POS,0.9375
+AlphaGenome splice-site usage,POS,0.0625
+AlphaGenome splice-site usage,POS,0.6600475311279297
+AlphaGenome splice-site usage,POS,0.01171875
+AlphaGenome splice-site usage,POS,0.88037109375
+AlphaGenome splice-site usage,POS,0.3125
+AlphaGenome splice-site usage,POS,0.08203125
+AlphaGenome splice-site usage,POS,0.9607210159301758
+AlphaGenome splice-site usage,POS,0.97210693359375
+AlphaGenome splice-site usage,POS,0.9760093688964844
+AlphaGenome splice-site usage,POS,0.9725537300109864
+AlphaGenome splice-site usage,POS,0.968714714050293
+AlphaGenome splice-site usage,POS,0.630859375
+AlphaGenome splice-site usage,NEG,0.021484375
+AlphaGenome splice-site usage,NEG,0.9563636779785156
+AlphaGenome splice-site usage,NEG,0.0234375
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.017578125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.396484375
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.05859375
+AlphaGenome splice-site usage,NEG,0.0865478515625
+AlphaGenome splice-site usage,NEG,0.2578125
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.041015625
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.9437255859375
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.05078125
+AlphaGenome splice-site usage,NEG,0.91552734375
+AlphaGenome splice-site usage,NEG,0.015625
+AlphaGenome splice-site usage,NEG,0.009765625
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.01953125
+AlphaGenome splice-site usage,NEG,0.03515625
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.0703125
+AlphaGenome splice-site usage,NEG,0.011962890625
+AlphaGenome splice-site usage,NEG,0.03515625
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.02734375
+AlphaGenome splice-site usage,NEG,0.88232421875
+AlphaGenome splice-site usage,NEG,0.009765625
+AlphaGenome splice-site usage,NEG,0.08984375
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.01171875
+AlphaGenome splice-site usage,NEG,0.83544921875
+AlphaGenome splice-site usage,NEG,0.9435043334960938
+AlphaGenome splice-site usage,NEG,0.03515625
+AlphaGenome splice-site usage,NEG,0.23046875
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.3359375
+AlphaGenome splice-site usage,NEG,0.03125
+AlphaGenome splice-site usage,NEG,0.015625
+AlphaGenome splice-site usage,NEG,0.08984375
+AlphaGenome splice-site usage,NEG,0.957275390625
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0078125
+AlphaGenome splice-site usage,NEG,0.0234375
+AlphaGenome splice junctions,POS,8.7265625
+AlphaGenome splice junctions,POS,9.3828125
+AlphaGenome splice junctions,POS,8.84375
+AlphaGenome splice junctions,POS,6.62890625
+AlphaGenome splice junctions,POS,6.0546875
+AlphaGenome splice junctions,POS,0.452880859375
+AlphaGenome splice junctions,POS,0.94384765625
+AlphaGenome splice junctions,POS,8.0234375
+AlphaGenome splice junctions,POS,1.9599609375
+AlphaGenome splice junctions,POS,8.3203125
+AlphaGenome splice junctions,POS,5.0
+AlphaGenome splice junctions,POS,1.91796875
+AlphaGenome splice junctions,POS,6.18359375
+AlphaGenome splice junctions,POS,7.92578125
+AlphaGenome splice junctions,POS,5.55859375
+AlphaGenome splice junctions,POS,5.328125
+AlphaGenome splice junctions,POS,2.08203125
+AlphaGenome splice junctions,POS,3.984375
+AlphaGenome splice junctions,POS,0.07952880859375
+AlphaGenome splice junctions,POS,3.98046875
+AlphaGenome splice junctions,POS,3.259765625
+AlphaGenome splice junctions,POS,7.40625
+AlphaGenome splice junctions,POS,0.25390625
+AlphaGenome splice junctions,POS,0.10345458984375
+AlphaGenome splice junctions,POS,0.072998046875
+AlphaGenome splice junctions,POS,2.16796875
+AlphaGenome splice junctions,POS,3.240234375
+AlphaGenome splice junctions,POS,1.58984375
+AlphaGenome splice junctions,POS,4.83984375
+AlphaGenome splice junctions,POS,7.14453125
+AlphaGenome splice junctions,POS,1.91015625
+AlphaGenome splice junctions,POS,7.44140625
+AlphaGenome splice junctions,POS,3.615234375
+AlphaGenome splice junctions,POS,2.322265625
+AlphaGenome splice junctions,POS,4.015625
+AlphaGenome splice junctions,POS,7.6015625
+AlphaGenome splice junctions,POS,5.83984375
+AlphaGenome splice junctions,POS,3.48046875
+AlphaGenome splice junctions,POS,4.515625
+AlphaGenome splice junctions,POS,0.12030029296875
+AlphaGenome splice junctions,POS,3.55859375
+AlphaGenome splice junctions,POS,0.0672607421875
+AlphaGenome splice junctions,POS,4.91015625
+AlphaGenome splice junctions,POS,2.380859375
+AlphaGenome splice junctions,POS,1.1357421875
+AlphaGenome splice junctions,POS,8.5390625
+AlphaGenome splice junctions,POS,7.625
+AlphaGenome splice junctions,POS,9.0703125
+AlphaGenome splice junctions,POS,9.0546875
+AlphaGenome splice junctions,POS,9.4296875
+AlphaGenome splice junctions,POS,4.15234375
+AlphaGenome splice junctions,NEG,0.96923828125
+AlphaGenome splice junctions,NEG,7.82421875
+AlphaGenome splice junctions,NEG,0.359619140625
+AlphaGenome splice junctions,NEG,1.05859375
+AlphaGenome splice junctions,NEG,1.3486328125
+AlphaGenome splice junctions,NEG,2.953125
+AlphaGenome splice junctions,NEG,2.998046875
+AlphaGenome splice junctions,NEG,0.1466064453125
+AlphaGenome splice junctions,NEG,0.365234375
+AlphaGenome splice junctions,NEG,0.748046875
+AlphaGenome splice junctions,NEG,2.580078125
+AlphaGenome splice junctions,NEG,3.37890625
+AlphaGenome splice junctions,NEG,1.056640625
+AlphaGenome splice junctions,NEG,0.07666015625
+AlphaGenome splice junctions,NEG,0.040008544921875
+AlphaGenome splice junctions,NEG,0.043060302734375
+AlphaGenome splice junctions,NEG,0.09844970703125
+AlphaGenome splice junctions,NEG,0.0916748046875
+AlphaGenome splice junctions,NEG,0.0606689453125
+AlphaGenome splice junctions,NEG,0.11627197265625
+AlphaGenome splice junctions,NEG,5.6796875
+AlphaGenome splice junctions,NEG,0.22314453125
+AlphaGenome splice junctions,NEG,0.83642578125
+AlphaGenome splice junctions,NEG,2.416015625
+AlphaGenome splice junctions,NEG,7.12890625
+AlphaGenome splice junctions,NEG,0.2408447265625
+AlphaGenome splice junctions,NEG,0.0865478515625
+AlphaGenome splice junctions,NEG,0.0484619140625
+AlphaGenome splice junctions,NEG,0.1290283203125
+AlphaGenome splice junctions,NEG,0.127197265625
+AlphaGenome splice junctions,NEG,0.77783203125
+AlphaGenome splice junctions,NEG,0.186767578125
+AlphaGenome splice junctions,NEG,0.1319580078125
+AlphaGenome splice junctions,NEG,0.339111328125
+AlphaGenome splice junctions,NEG,0.2303466796875
+AlphaGenome splice junctions,NEG,0.302734375
+AlphaGenome splice junctions,NEG,0.92919921875
+AlphaGenome splice junctions,NEG,0.364501953125
+AlphaGenome splice junctions,NEG,0.06298828125
+AlphaGenome splice junctions,NEG,0.099609375
+AlphaGenome splice junctions,NEG,0.1292724609375
+AlphaGenome splice junctions,NEG,0.286865234375
+AlphaGenome splice junctions,NEG,0.265625
+AlphaGenome splice junctions,NEG,0.0601806640625
+AlphaGenome splice junctions,NEG,0.07989501953125
+AlphaGenome splice junctions,NEG,0.467529296875
+AlphaGenome splice junctions,NEG,0.445556640625
+AlphaGenome splice junctions,NEG,4.12890625
+AlphaGenome splice junctions,NEG,0.0572509765625
+AlphaGenome splice junctions,NEG,0.40185546875
+AlphaGenome splice junctions,NEG,0.04193115234375
+AlphaGenome splice junctions,NEG,0.10528564453125
+AlphaGenome splice junctions,NEG,4.55078125
+AlphaGenome splice junctions,NEG,7.140625
+AlphaGenome splice junctions,NEG,0.51953125
+AlphaGenome splice junctions,NEG,1.2470703125
+AlphaGenome splice junctions,NEG,0.1968994140625
+AlphaGenome splice junctions,NEG,0.1522216796875
+AlphaGenome splice junctions,NEG,0.06640625
+AlphaGenome splice junctions,NEG,0.04644775390625
+AlphaGenome splice junctions,NEG,0.137451171875
+AlphaGenome splice junctions,NEG,1.7548828125
+AlphaGenome splice junctions,NEG,0.32421875
+AlphaGenome splice junctions,NEG,1.66796875
+AlphaGenome splice junctions,NEG,0.478271484375
+AlphaGenome splice junctions,NEG,0.276123046875
+AlphaGenome splice junctions,NEG,1.759765625
+AlphaGenome splice junctions,NEG,6.75390625
+AlphaGenome splice junctions,NEG,0.1536865234375
+AlphaGenome splice junctions,NEG,0.3388671875
+AlphaGenome splice junctions,NEG,0.100341796875
+AlphaGenome splice junctions,NEG,0.10650634765625
+"AVI (Atlas)
+non-coding and synonymous only",POS,2.1892526
+"AVI (Atlas)
+non-coding and synonymous only",POS,2.1056728
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.5686089
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.4758004
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.08079907
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.8738311
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.6314335
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.91072005
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.8680759
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.8346269
+"AVI (Atlas)
+non-coding and synonymous only",POS,-0.07687903
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.7289012
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.69821113
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.8889928
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.27682093
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.4573966
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.9732658
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.8867445
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.395156
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.1628692
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.0233411
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.7101389
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.3964998
+"AVI (Atlas)
+non-coding and synonymous only",POS,-0.027097201
+"AVI (Atlas)
+non-coding and synonymous only",POS,0.88538414
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.9039854
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.9483371
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.6435405
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.8470339
+"AVI (Atlas)
+non-coding and synonymous only",POS,1.3327327
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.5755154
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.9030371
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.12704162
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.39182308
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.44643247
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.6070787
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.1819648
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.051977914
+"AVI (Atlas)
+non-coding and synonymous only",NEG,-0.26268658
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.044633474
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.008550398
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.055158913
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.11575422
+"AVI (Atlas)
+non-coding and synonymous only",NEG,-0.12330782
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.12694545
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.026532287
+"AVI (Atlas)
+non-coding and synonymous only",NEG,-0.17348178
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.023741355
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.19938274
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.40810156
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.2392412
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.4381546
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.9535571
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.4669954
+"AVI (Atlas)
+non-coding and synonymous only",NEG,1.6994714
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.27143815
+"AVI (Atlas)
+non-coding and synonymous only",NEG,0.057931602

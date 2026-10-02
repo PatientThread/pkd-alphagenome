@@ -1,0 +1,296 @@
+panel,label,value
+SpliceAI,POS,0.97
+SpliceAI,POS,1.0
+SpliceAI,POS,0.71
+SpliceAI,POS,0.98
+SpliceAI,POS,0.94
+SpliceAI,POS,0.09
+SpliceAI,POS,0.16
+SpliceAI,POS,0.88
+SpliceAI,POS,0.17
+SpliceAI,POS,0.53
+SpliceAI,POS,0.77
+SpliceAI,POS,0.22
+SpliceAI,POS,0.45
+SpliceAI,POS,0.82
+SpliceAI,POS,0.59
+SpliceAI,POS,0.5
+SpliceAI,POS,0.66
+SpliceAI,POS,0.67
+SpliceAI,POS,0.05
+SpliceAI,POS,0.3
+SpliceAI,POS,0.68
+SpliceAI,POS,1.0
+SpliceAI,POS,0.01
+SpliceAI,POS,0.0
+SpliceAI,POS,0.0
+SpliceAI,POS,0.74
+SpliceAI,POS,0.9
+SpliceAI,POS,0.57
+SpliceAI,POS,0.92
+SpliceAI,POS,0.9
+SpliceAI,POS,0.08
+SpliceAI,POS,0.78
+SpliceAI,POS,0.99
+SpliceAI,POS,0.83
+SpliceAI,POS,0.69
+SpliceAI,POS,0.86
+SpliceAI,POS,0.65
+SpliceAI,POS,0.94
+SpliceAI,POS,0.98
+SpliceAI,POS,0.0
+SpliceAI,POS,0.97
+SpliceAI,POS,0.67
+SpliceAI,POS,0.36
+SpliceAI,POS,0.28
+SpliceAI,POS,0.57
+SpliceAI,POS,0.84
+SpliceAI,POS,1.0
+SpliceAI,POS,0.95
+SpliceAI,POS,1.0
+SpliceAI,POS,0.45
+SpliceAI,NEG,0.13
+SpliceAI,NEG,0.95
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.32
+SpliceAI,NEG,0.34
+SpliceAI,NEG,0.13
+SpliceAI,NEG,0.23
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.09
+SpliceAI,NEG,0.11
+SpliceAI,NEG,0.5
+SpliceAI,NEG,0.46
+SpliceAI,NEG,0.11
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.96
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.05
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.81
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.05
+SpliceAI,NEG,0.12
+SpliceAI,NEG,0.24
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.25
+SpliceAI,NEG,0.17
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.63
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.02
+SpliceAI,NEG,0.68
+SpliceAI,NEG,0.36
+SpliceAI,NEG,0.06
+SpliceAI,NEG,0.19
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.01
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.03
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.28
+SpliceAI,NEG,0.04
+SpliceAI,NEG,0.08
+SpliceAI,NEG,0.19
+SpliceAI,NEG,0.85
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.06
+SpliceAI,NEG,0.0
+SpliceAI,NEG,0.0
+AlphaGenome splicing composite,POS,3.523337173461914
+AlphaGenome splicing composite,POS,3.839046859741211
+AlphaGenome splicing composite,POS,3.5047119140625
+AlphaGenome splicing composite,POS,3.268560791015625
+AlphaGenome splicing composite,POS,2.89813232421875
+AlphaGenome splicing composite,POS,0.114990234375
+AlphaGenome splicing composite,POS,0.22783203125
+AlphaGenome splicing composite,POS,3.005810546875
+AlphaGenome splicing composite,POS,0.4935546875
+AlphaGenome splicing composite,POS,2.970458984375
+AlphaGenome splicing composite,POS,2.7834644317626953
+AlphaGenome splicing composite,POS,0.559375
+AlphaGenome splicing composite,POS,2.67080078125
+AlphaGenome splicing composite,POS,3.4231937408447264
+AlphaGenome splicing composite,POS,2.4876953125
+AlphaGenome splicing composite,POS,2.420361328125
+AlphaGenome splicing composite,POS,1.2691856384277345
+AlphaGenome splicing composite,POS,1.84912109375
+AlphaGenome splicing composite,POS,0.03739013671875
+AlphaGenome splicing composite,POS,1.6984375
+AlphaGenome splicing composite,POS,2.4278987884521483
+AlphaGenome splicing composite,POS,3.4538791298866274
+AlphaGenome splicing composite,POS,0.078125
+AlphaGenome splicing composite,POS,0.04949951171875
+AlphaGenome splicing composite,POS,0.0365944385528564
+AlphaGenome splicing composite,POS,1.0291500091552734
+AlphaGenome splicing composite,POS,2.149755859375
+AlphaGenome splicing composite,POS,0.893917465209961
+AlphaGenome splicing composite,POS,2.4856689453125
+AlphaGenome splicing composite,POS,3.3996980667114256
+AlphaGenome splicing composite,POS,0.6096923828125
+AlphaGenome splicing composite,POS,3.21414566040039
+AlphaGenome splicing composite,POS,2.6612335205078126
+AlphaGenome splicing composite,POS,1.757666015625
+AlphaGenome splicing composite,POS,2.403955078125
+AlphaGenome splicing composite,POS,3.374251556396485
+AlphaGenome splicing composite,POS,2.961181640625
+AlphaGenome splicing composite,POS,2.09155101776123
+AlphaGenome splicing composite,POS,2.8328125
+AlphaGenome splicing composite,POS,0.09437255859375
+AlphaGenome splicing composite,POS,2.3247425079345705
+AlphaGenome splicing composite,POS,2.41708984375
+AlphaGenome splicing composite,POS,1.00595703125
+AlphaGenome splicing composite,POS,0.3921875
+AlphaGenome splicing composite,POS,3.634597969055176
+AlphaGenome splicing composite,POS,3.28031005859375
+AlphaGenome splicing composite,POS,3.784860992431641
+AlphaGenome splicing composite,POS,3.6604443550109864
+AlphaGenome splicing composite,POS,3.8505580902099608
+AlphaGenome splicing composite,POS,1.94423828125
+AlphaGenome splicing composite,NEG,0.33056640625
+AlphaGenome splicing composite,NEG,3.4582706451416017
+AlphaGenome splicing composite,NEG,0.118798828125
+AlphaGenome splicing composite,NEG,0.72734375
+AlphaGenome splicing composite,NEG,0.90888671875
+AlphaGenome splicing composite,NEG,0.8698408126831054
+AlphaGenome splicing composite,NEG,1.3359375
+AlphaGenome splicing composite,NEG,0.0468994140625
+AlphaGenome splicing composite,NEG,0.10625
+AlphaGenome splicing composite,NEG,0.26484375
+AlphaGenome splicing composite,NEG,0.8672996520996094
+AlphaGenome splicing composite,NEG,1.0357666015625
+AlphaGenome splicing composite,NEG,0.47890625
+AlphaGenome splicing composite,NEG,0.09833984375
+AlphaGenome splicing composite,NEG,0.025579833984375
+AlphaGenome splicing composite,NEG,0.028143310546875
+AlphaGenome splicing composite,NEG,0.07608642578125
+AlphaGenome splicing composite,NEG,0.0671630859375
+AlphaGenome splicing composite,NEG,0.0316650390625
+AlphaGenome splicing composite,NEG,0.04278564453125
+AlphaGenome splicing composite,NEG,2.7417724609375
+AlphaGenome splicing composite,NEG,0.06708984375
+AlphaGenome splicing composite,NEG,0.2969696044921875
+AlphaGenome splicing composite,NEG,0.7731105804443359
+AlphaGenome splicing composite,NEG,3.19384765625
+AlphaGenome splicing composite,NEG,0.0779541015625
+AlphaGenome splicing composite,NEG,0.0348876953125
+AlphaGenome splicing composite,NEG,0.0253173828125
+AlphaGenome splicing composite,NEG,0.0453369140625
+AlphaGenome splicing composite,NEG,0.048876953125
+AlphaGenome splicing composite,NEG,0.3261062622070312
+AlphaGenome splicing composite,NEG,0.092041015625
+AlphaGenome splicing composite,NEG,0.0918212890625
+AlphaGenome splicing composite,NEG,0.097119140625
+AlphaGenome splicing composite,NEG,0.0905029296875
+AlphaGenome splicing composite,NEG,0.3046875
+AlphaGenome splicing composite,NEG,0.42845458984375
+AlphaGenome splicing composite,NEG,0.129541015625
+AlphaGenome splicing composite,NEG,0.03211030960083
+AlphaGenome splicing composite,NEG,0.0375
+AlphaGenome splicing composite,NEG,0.0441650390625
+AlphaGenome splicing composite,NEG,0.136474609375
+AlphaGenome splicing composite,NEG,0.096337890625
+AlphaGenome splicing composite,NEG,0.0576904296875
+AlphaGenome splicing composite,NEG,0.0713250160217285
+AlphaGenome splicing composite,NEG,0.113037109375
+AlphaGenome splicing composite,NEG,0.137939453125
+AlphaGenome splicing composite,NEG,2.42294921875
+AlphaGenome splicing composite,NEG,0.0290283203125
+AlphaGenome splicing composite,NEG,0.1931640625
+AlphaGenome splicing composite,NEG,2.27294921875
+AlphaGenome splicing composite,NEG,3.053269958496094
+AlphaGenome splicing composite,NEG,0.18203125
+AlphaGenome splicing composite,NEG,0.6244140625
+AlphaGenome splicing composite,NEG,0.0530517578125
+AlphaGenome splicing composite,NEG,0.0460693359375
+AlphaGenome splicing composite,NEG,0.02890625
+AlphaGenome splicing composite,NEG,0.02491455078125
+AlphaGenome splicing composite,NEG,0.043115234375
+AlphaGenome splicing composite,NEG,0.39443359375
+AlphaGenome splicing composite,NEG,0.078515625
+AlphaGenome splicing composite,NEG,0.823095703125
+AlphaGenome splicing composite,NEG,0.15302734375
+AlphaGenome splicing composite,NEG,0.089404296875
+AlphaGenome splicing composite,NEG,0.508203125
+AlphaGenome splicing composite,NEG,3.113720703125
+AlphaGenome splicing composite,NEG,0.0600341796875
+AlphaGenome splicing composite,NEG,0.13466796875
+AlphaGenome splicing composite,NEG,0.035693359375
+AlphaGenome splicing composite,NEG,0.05255126953125
+"AVI, non-coding and synonymous only",POS,2.1892526
+"AVI, non-coding and synonymous only",POS,2.1056728
+"AVI, non-coding and synonymous only",POS,1.5686089
+"AVI, non-coding and synonymous only",POS,1.4758004
+"AVI, non-coding and synonymous only",POS,0.08079907
+"AVI, non-coding and synonymous only",POS,0.8738311
+"AVI, non-coding and synonymous only",POS,1.6314335
+"AVI, non-coding and synonymous only",POS,0.91072005
+"AVI, non-coding and synonymous only",POS,0.8680759
+"AVI, non-coding and synonymous only",POS,0.8346269
+"AVI, non-coding and synonymous only",POS,-0.07687903
+"AVI, non-coding and synonymous only",POS,0.7289012
+"AVI, non-coding and synonymous only",POS,0.69821113
+"AVI, non-coding and synonymous only",POS,0.8889928
+"AVI, non-coding and synonymous only",POS,0.27682093
+"AVI, non-coding and synonymous only",POS,1.4573966
+"AVI, non-coding and synonymous only",POS,0.9732658
+"AVI, non-coding and synonymous only",POS,0.8867445
+"AVI, non-coding and synonymous only",POS,1.395156
+"AVI, non-coding and synonymous only",POS,1.1628692
+"AVI, non-coding and synonymous only",POS,1.0233411
+"AVI, non-coding and synonymous only",POS,1.7101389
+"AVI, non-coding and synonymous only",POS,1.3964998
+"AVI, non-coding and synonymous only",POS,-0.027097201
+"AVI, non-coding and synonymous only",POS,0.88538414
+"AVI, non-coding and synonymous only",POS,1.9039854
+"AVI, non-coding and synonymous only",POS,1.9483371
+"AVI, non-coding and synonymous only",POS,1.6435405
+"AVI, non-coding and synonymous only",POS,1.8470339
+"AVI, non-coding and synonymous only",POS,1.3327327
+"AVI, non-coding and synonymous only",NEG,0.5755154
+"AVI, non-coding and synonymous only",NEG,1.9030371
+"AVI, non-coding and synonymous only",NEG,0.12704162
+"AVI, non-coding and synonymous only",NEG,0.39182308
+"AVI, non-coding and synonymous only",NEG,0.44643247
+"AVI, non-coding and synonymous only",NEG,1.6070787
+"AVI, non-coding and synonymous only",NEG,1.1819648
+"AVI, non-coding and synonymous only",NEG,0.051977914
+"AVI, non-coding and synonymous only",NEG,-0.26268658
+"AVI, non-coding and synonymous only",NEG,0.044633474
+"AVI, non-coding and synonymous only",NEG,0.008550398
+"AVI, non-coding and synonymous only",NEG,0.055158913
+"AVI, non-coding and synonymous only",NEG,0.11575422
+"AVI, non-coding and synonymous only",NEG,-0.12330782
+"AVI, non-coding and synonymous only",NEG,0.12694545
+"AVI, non-coding and synonymous only",NEG,0.026532287
+"AVI, non-coding and synonymous only",NEG,-0.17348178
+"AVI, non-coding and synonymous only",NEG,0.023741355
+"AVI, non-coding and synonymous only",NEG,1.2392412
+"AVI, non-coding and synonymous only",NEG,1.4381546
+"AVI, non-coding and synonymous only",NEG,0.9535571
+"AVI, non-coding and synonymous only",NEG,0.4669954
+"AVI, non-coding and synonymous only",NEG,1.6994714
+"AVI, non-coding and synonymous only",NEG,0.27143815
+"AVI, non-coding and synonymous only",NEG,0.057931602

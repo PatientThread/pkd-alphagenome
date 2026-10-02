@@ -1,0 +1,401 @@
+LEGALLY BINDING TERMS OF USE
+================================================================================
+
+By using the AlphaGenome-derived material in this repository you agree to the
+AlphaGenome Output Terms of Use at
+http://deepmind.google.com/science/alphagenome/output-terms
+
+WHY THIS FILE EXISTS
+--------------------------------------------------------------------------------
+This repository holds material under FOUR different sets of terms. The MIT
+licence in LICENSE applies to the analysis code ONLY. Applying it to the model
+outputs would assert rights that are not the author's to grant.
+
+IF A FILE IS NOT LISTED BELOW, TREAT IT AS ALPHAGENOME OUTPUT. This list is
+generated from the tracked file list, not maintained by hand, and was last
+regenerated on 2 October 2026.
+
+PUBLISHER FULL TEXTS ARE NOT REDISTRIBUTED. The articles and supplements used to
+build the truth set are copyrighted by their publishers and are excluded by
+.gitignore. Each truth-set row carries a verbatim quotation and a PMID so a
+reader can verify the entry against the source themselves.
+
+1. ALPHAGENOME OUTPUT  (non-commercial; DeepMind Output Terms of Use)
+------------------------------------------------------------------------------
+These are AlphaGenome Output or Output Derivatives as Google DeepMind defines
+them. They are NOT covered by the MIT licence in LICENSE. By using them you
+agree to the AlphaGenome Output Terms of Use at
+http://deepmind.google.com/science/alphagenome/output-terms
+Model weights are not included here and were never accessed.
+
+  analysis/06_score_atlas.py
+  analysis/07_score_ondemand.py
+  analysis/14_therapeutic_sites.py
+  docs/sources/atlas.txt
+  results/atlas_locus_PKD1.tsv.gz
+  results/atlas_locus_PKD2.tsv.gz
+  results/atlas_run.log
+  results/atlas_truthset.tsv
+  results/atlas_truthset_log.json
+  results/ondemand_log.json
+  results/ondemand_scores.tsv
+  results/ondemand_scores_genefiltered_backup.tsv
+  results/therapeutic_sites.json
+  results/therapeutic_sites_attribution.tsv
+  reviewer_package/therapeutic_sites.json
+  reviewer_package/therapeutic_sites_attribution.tsv
+
+2. SPLICEAI-DERIVED  (Illumina's licence governs)
+------------------------------------------------------------------------------
+Computed locally with the open-source SpliceAI model. Illumina's licence for
+that model governs these files; they are not ours to relicense.
+
+  analysis/08_score_spliceai.py
+  analysis/13_spliceai_locus.py
+  results/analyse_after_spliceai.log
+  results/spliceai_chunks/PKD1/2088708.tsv.gz
+  results/spliceai_chunks/PKD1/2089708.tsv.gz
+  results/spliceai_chunks/PKD1/2090708.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/0.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/1000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/10000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/11000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/12000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/13000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/2000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/3000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/4000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/5000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/6000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/7000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/8000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD1/9000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/0.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/1000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/10000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/11000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/12000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/2000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/3000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/4000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/5000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/6000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/7000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/8000.tsv.gz
+  results/spliceai_chunks_sample12000/PKD2/9000.tsv.gz
+  results/spliceai_locus_run.log
+  results/spliceai_locusbg_PKD1.tsv.gz
+  results/spliceai_locusbg_PKD2.tsv.gz
+  results/spliceai_sample_run.log
+  results/spliceai_scores.tsv
+  results/spliceai_validation.tsv
+
+3. CADD-DERIVED  (CADD's own terms; free for non-commercial use)
+------------------------------------------------------------------------------
+Retrieved from the CADD resource. CADD's terms govern; commercial users must
+obtain a licence from the University of Washington.
+
+  analysis/09_score_cadd.py
+  results/cadd_locus_PKD1.tsv.gz
+  results/cadd_locus_PKD2.tsv.gz
+  results/cadd_truthset.tsv
+
+4. DERIVED FROM A MIXTURE OF THE ABOVE
+------------------------------------------------------------------------------
+Tables and logs that join AlphaGenome, SpliceAI and CADD outputs. The most
+restrictive upstream term applies, which is the AlphaGenome non-commercial term.
+
+  publication/figures/fig1_scores_by_label.pdf
+  publication/figures/fig1_scores_by_label.png
+  publication/figures/fig1_scores_by_label_table.csv
+  publication/figures/fig2_blind_spots.pdf
+  publication/figures/fig2_blind_spots.png
+  publication/figures/fig2_blind_spots_table.csv
+  publication/figures/fig3_avi_attribution.pdf
+  publication/figures/fig3_avi_attribution.png
+  publication/figures/fig3_avi_attribution_table.csv
+  publication/figures/fig4_locus_percentile_table.csv
+  publication/figures/fig4_locus_rank.pdf
+  publication/figures/fig4_locus_rank.png
+  publication/figures/fig4_locus_rank_table.csv
+  publication/figures_ejhg/figure1_discrimination.eps
+  publication/figures_ejhg/figure1_discrimination.pdf
+  publication/figures_ejhg/figure1_discrimination.png
+  publication/figures_ejhg/figure1_discrimination_values.csv
+  publication/figures_ejhg/figure2_avi_attribution.eps
+  publication/figures_ejhg/figure2_avi_attribution.pdf
+  publication/figures_ejhg/figure2_avi_attribution.png
+  publication/figures_ejhg/figure2_avi_attribution_values.csv
+  publication/figures_ejhg/figure3_locus_rank.eps
+  publication/figures_ejhg/figure3_locus_rank.pdf
+  publication/figures_ejhg/figure3_locus_rank.png
+  publication/figures_ejhg/figure3_locus_rank_values.csv
+  results/analyse_final.log
+  results/analyse_rerun.log
+  results/coverage_matrix.csv
+  results/noncoding_background_ranks.tsv
+  results/per_variant.tsv
+  results/ranking_manifest.json
+  results/stratified.json
+  results/summary.json
+
+5. CURATED DATA  (the author's curation of published facts)
+------------------------------------------------------------------------------
+The truth set records, for each variant, a verbatim quotation and the PMID of
+its source. The quotations are short extracts used for verification. The
+publisher full texts themselves are NOT redistributed and are excluded by
+.gitignore.
+
+  data/curated/annotations.tsv
+  data/curated/excluded.tsv
+  data/curated/gnomad_overlap.tsv
+  data/curated/mentions.tsv
+  data/curated/screening_log.tsv
+  data/curated/truthset_candidates.tsv
+  data/curated/truthset_verified.tsv
+  data/raw/NM_000297.4.gb
+  data/raw/NM_001009944.3.gb
+  data/raw/esummary_cache.json
+  data/raw/exons_grch38.json
+  data/raw/pubmed_search_2026-09-19.json
+  data/raw/pubmed_search_2026-09-19.tsv
+  data/raw/vv_cache/0003ca46b878a1756908af9001e0dd80dc06fabd.json
+  data/raw/vv_cache/023e0bf97a28781078b769df4b7b2eb4cdb2022c.json
+  data/raw/vv_cache/0502bc72f8940839617cfcc3402d22334fc14d70.json
+  data/raw/vv_cache/05592d3da8ded82be0f14ca83763c8b0ceaa9f73.json
+  data/raw/vv_cache/07a69f81ee3a273c49282def34f2a7e4a54261da.json
+  data/raw/vv_cache/09bca0bf934b351cc2a81e7ae833fb948883fd3b.json
+  data/raw/vv_cache/0c58f33306712e0e627f87ebccc740057a8b4815.json
+  data/raw/vv_cache/0d1478b16ecaf2645d742592dc11cb15a6ef89cb.json
+  data/raw/vv_cache/10a233e11d2d9a7ef27411ad2e8bb9594b7ab029.json
+  data/raw/vv_cache/12e0312000418252018ac18c78079b1140438835.json
+  data/raw/vv_cache/14196c2fa9a8c9999987fa43bd2fa6a75f087601.json
+  data/raw/vv_cache/14edb80654b2398ba13bda47a63140f3d24e163d.json
+  data/raw/vv_cache/160a3add36db7e0f03761db44e2a1d52002c6ca8.json
+  data/raw/vv_cache/167c63ddef06a21d5434fc15d034868cd8e0dd37.json
+  data/raw/vv_cache/183f9134e54795667870fb7d5e60fa5ab5128b5b.json
+  data/raw/vv_cache/1a29cc59a62e9712dec63305552319504c0636c0.json
+  data/raw/vv_cache/1c69e9ae25ff572fb8367bd3e37679610bc8d647.json
+  data/raw/vv_cache/1d44003292129a521d28dfa8ac69a0a2209adb83.json
+  data/raw/vv_cache/1d4f4c0a1a496a4b27868100a6f10d17b3c15ad8.json
+  data/raw/vv_cache/1de1b5c79d77eda0f1fec0ef70b38a8e203ed76d.json
+  data/raw/vv_cache/1e7058c88830044485276dfdf1ccfe47d4176018.json
+  data/raw/vv_cache/1f23cc63b3f1d4cf115f9244fef281be05eb1fe8.json
+  data/raw/vv_cache/2049babb1f2b2d903a294937f4169d828e299716.json
+  data/raw/vv_cache/20b4d82b20a7e3ac514ba6883b845a71fee4c475.json
+  data/raw/vv_cache/20f402c8c50903394d35d4a9a520b58910d851d3.json
+  data/raw/vv_cache/217a44af1f9120892782bd0f96247c8dc0c79c70.json
+  data/raw/vv_cache/2495a6690b65494bf656511a0966f6af6667fa8d.json
+  data/raw/vv_cache/28503541d1a776a1e7affc32e9ab77fdbe691aec.json
+  data/raw/vv_cache/3094b81e821ddfdf4e0effd064e289d8fb5e1823.json
+  data/raw/vv_cache/321acdd2237de51dbe2902ed6c26a3f8017913b6.json
+  data/raw/vv_cache/33920929f95229f09906053957f21971c15122bb.json
+  data/raw/vv_cache/36f0c22d9c6d03df4581677bdd9108f3facc79f6.json
+  data/raw/vv_cache/3a759db9a8d348a092efefbac91a731dc9cfc606.json
+  data/raw/vv_cache/403fbe52258fb215d8f964e583635583610fa9b7.json
+  data/raw/vv_cache/40acf394c95c8936aa2f8bd1a0dab43b95b83f12.json
+  data/raw/vv_cache/425b918b4da6ae117d43a2991c36e08ec5e407fb.json
+  data/raw/vv_cache/448645b3daac92db86572c2f0f4d7a85fb99c143.json
+  data/raw/vv_cache/47bd7286f72ebea42fb79d30c1e9d67fa8dbd819.json
+  data/raw/vv_cache/47e718a09c7a76e69463d9d97109e5978343915c.json
+  data/raw/vv_cache/490acdc9a77a93dbc242d99f513343f350c806c4.json
+  data/raw/vv_cache/49f05096897169745aded1443afbf6a80cec391f.json
+  data/raw/vv_cache/4f5e2983be1ca24a890196008b2e82f4af7d2af4.json
+  data/raw/vv_cache/575ff3aa6b0cc09dd7bc58e72064803c39d540da.json
+  data/raw/vv_cache/594bc7fe9e653f4bf0c9f9fa5e7246e1e8e44b20.json
+  data/raw/vv_cache/5a289cb1f87732265109f9f7c1075ebf3dc6f4bf.json
+  data/raw/vv_cache/5ed19d2ee8b8aa41f0dda4038e1166f2b8ab5bcf.json
+  data/raw/vv_cache/6a8d5d063d0621ff9543723d0f196df6b286ea9e.json
+  data/raw/vv_cache/6c1142f32035dd84c7dd016102c0b4370709a78f.json
+  data/raw/vv_cache/6c929e8db8a553d65b92dbe8774bfb5de3dbc39b.json
+  data/raw/vv_cache/6d861c412d4afcd5d24869e84d27829c88d454be.json
+  data/raw/vv_cache/6d94c5cd3bc5d4cc7c5aa1fc9e4405063a3afe12.json
+  data/raw/vv_cache/71f6f2d88e1173ae83703c3002a37ba784c02191.json
+  data/raw/vv_cache/7743db6f566652ec8b20fbbaa60c53975cb6fb31.json
+  data/raw/vv_cache/779a15a4a19775ca25f8c6438983d51ea689bc96.json
+  data/raw/vv_cache/7adfbe1f5e2c2fad0667d031538932ab8ab939d7.json
+  data/raw/vv_cache/853b4c679e415d0b9b72e4425df8db78e67d0711.json
+  data/raw/vv_cache/86ea65556819b8aed87564cf4c084759b1636e19.json
+  data/raw/vv_cache/871093bedce10c75a0207dfab9fc45e324c2ea3b.json
+  data/raw/vv_cache/87fefc16ba5f6617f171052ad9407ac6cf346c94.json
+  data/raw/vv_cache/89128744579e5c9b78807fc5d5909a0ed72af90b.json
+  data/raw/vv_cache/8bf431fe22accfcce2d8e33ad909bb915738f677.json
+  data/raw/vv_cache/90f4daa4ef6ece3b5c2a3be6064582e283ad46fe.json
+  data/raw/vv_cache/9369a300ea7b62e064e6aaa6681497bf82e5da67.json
+  data/raw/vv_cache/9b445f0df31715c2100d252372199f445c6d6aa4.json
+  data/raw/vv_cache/9e5a4a6e406debc47037f7866975ecac4b01dc48.json
+  data/raw/vv_cache/a04a0e81d5d5f1f8500b1b1d82040aa5e4d1086f.json
+  data/raw/vv_cache/a1999d0f2ee1a54afafec17be78533e49f97896b.json
+  data/raw/vv_cache/a3060a00bdd25da77fa0d5e3cbd6e01447cf0aa7.json
+  data/raw/vv_cache/a73bb0dfbe66a9592ece6b9701b9f8db5d3d706e.json
+  data/raw/vv_cache/a76e5662539607ac17548fc043db938cc2fecb9d.json
+  data/raw/vv_cache/a7745d2b1158dfa883f69053147440e8f3fe6826.json
+  data/raw/vv_cache/a821b10cc72425778268bbe7f06b94a730ee1e59.json
+  data/raw/vv_cache/a8608897f99756dfbe400b14e75ce5a08b9a6eec.json
+  data/raw/vv_cache/a86dab813780cb6417d8d3b13e3b79ea26e50557.json
+  data/raw/vv_cache/a8d329d892909811cf3bc88b5ddcd4aaa1caca99.json
+  data/raw/vv_cache/a9b72359a121be608a21c51ec289df1d96a10deb.json
+  data/raw/vv_cache/ac4201a4ab799b7c5e5134724bc9b6c3c6cbb6e1.json
+  data/raw/vv_cache/ad1e3ae04d43343f3533dd12eb4fd7a1126eeadf.json
+  data/raw/vv_cache/af8443e9de4b80af27ae0cd5dd5903b3442cf7f7.json
+  data/raw/vv_cache/b09cfe6b41a1452175bfd62195024da1183dbba3.json
+  data/raw/vv_cache/b1c0c36557fd825349f1fdcaed2803e240cc36ba.json
+  data/raw/vv_cache/b22ed633f10bb084774ffa867c1c519e2211003e.json
+  data/raw/vv_cache/b2c1799a435cc299975d2c23801046f860e0fcae.json
+  data/raw/vv_cache/b45c872b8fa0f74425f28f098c7fff112f50829f.json
+  data/raw/vv_cache/b6256bcf4dddb12c57abf927011d8dc2e02a1bdb.json
+  data/raw/vv_cache/b7183981531c4d9b870c72c3f7ddf5626f691982.json
+  data/raw/vv_cache/b9424dea0ea5989a30121b25f3bac17e0aeb073e.json
+  data/raw/vv_cache/ba044914ff02bd6e8c383c7f606763d35d5d55fe.json
+  data/raw/vv_cache/ba0bbbc6b261d0c10a71a7a046daf537cf270913.json
+  data/raw/vv_cache/ba3d33ab2b7b54960fb030fecc10553cbcc1baa3.json
+  data/raw/vv_cache/bc548184f64efd66189f73c5f56b277306ad9711.json
+  data/raw/vv_cache/bc597b6b30db23375b3f4bb9f47265dd692ebc8f.json
+  data/raw/vv_cache/bc6e18503bb9ec15238b0b16ef3f0a84acbe3365.json
+  data/raw/vv_cache/be5915abba2ab03505034476f0e4920386bb7913.json
+  data/raw/vv_cache/bf19828efde8042b496a8510c36b17c000f70293.json
+  data/raw/vv_cache/bf64571436735ecd96aa06e431fc7f6d61c850f7.json
+  data/raw/vv_cache/bfd1e0db679fde2608dbc83254db41bc0b4e225e.json
+  data/raw/vv_cache/c380ba8d7971d98d50bb5038d737ed6ad1ea0f3b.json
+  data/raw/vv_cache/c639cbe9d1fa1fe36ee3486e04369d339dc6e2ac.json
+  data/raw/vv_cache/c6447264b916ab968d404811c748ed243837894a.json
+  data/raw/vv_cache/c7596fbed64ef7b0f42ccf9d9c0b4bdd49e75833.json
+  data/raw/vv_cache/c861d6d1cc8b12a1c3f146b4963c1783ce64d4e4.json
+  data/raw/vv_cache/cca6b93d83a4c9b85e62f3a184fc0aeba7657e08.json
+  data/raw/vv_cache/cedda863dc78e900462324c5d5de95a73502eac7.json
+  data/raw/vv_cache/d4baf6f607747e137ae4d8e706b1568570577f1d.json
+  data/raw/vv_cache/d6e98440e0d9604de412bb24d1cf95b8f6091503.json
+  data/raw/vv_cache/d7caa05cbf6cf4ec5314053971b01da3b75cddf4.json
+  data/raw/vv_cache/d9949f4b77b4dc15baed030cac468180a88d6520.json
+  data/raw/vv_cache/dd8be1d5fc7df852ebe94f83329bb3dcf2b78cba.json
+  data/raw/vv_cache/de611c1ef28370e0383691b63a0f32ab76fd53ce.json
+  data/raw/vv_cache/df3c63e32fc6bf1d2e1c42e29c3f29c8352341dc.json
+  data/raw/vv_cache/e05f7da93d8d70546ba14bb0032c4a6806be47b3.json
+  data/raw/vv_cache/e1b7b19ab2d242b1594097ed7217fa49ccf77e8e.json
+  data/raw/vv_cache/e306f066302665a1aa390ecb4603367a6b35d125.json
+  data/raw/vv_cache/e40d8f045aa22eff05b75311ae78c4be3e1a555c.json
+  data/raw/vv_cache/e869eb1427706d378038fd7822e9258fbcb9affb.json
+  data/raw/vv_cache/ef3576ea2d3b1509e06fb37ee958129f751fcee7.json
+  data/raw/vv_cache/f1d228578332016d5d7348f5da5b893bdf2366d5.json
+  data/raw/vv_cache/f24899d92cafc9210292f16d3f9e5a17c07c2beb.json
+  data/raw/vv_cache/f271f7caf22695f7f1b65e9b6c3dc9d3aa154513.json
+  data/raw/vv_cache/f343f32b33bd929a13567fb5d6bb2cecb980da11.json
+  data/raw/vv_cache/f459bae3aef5ac8397bec1d21bccdb06f1df367d.json
+  data/raw/vv_cache/f4819067e3810fa6bc0451e647050905b0e2ca92.json
+  data/raw/vv_cache/f56402da40602481b0de4f4e6205dd89f7e55414.json
+  data/raw/vv_cache/f6205a9ba45dda03ebb69e6de9a3c102014714bd.json
+  data/raw/vv_cache/f691edab76255876ef296a5803a6f194d7a1c17e.json
+  data/raw/vv_cache/f71cc45574e0bd19a14ef2656e112006281bc539.json
+  data/raw/vv_cache/f74a797bddb4fa5df5bf8c4f58e1a27b2768996b.json
+  data/raw/vv_cache/fb29c34c85d62aa137e9c14eec3df3ca0517b69c.json
+  data/raw/vv_cache/fb3bc9daf03eb2ee29df9681fed28329f12e6fde.json
+  data/raw/vv_cache/fb9b9d338711ad50b7c8a42a5b01dae057c73e37.json
+  data/raw/vv_cache/ffbaf0976289d83c80b6b920a695333ff6c775f9.json
+  data/raw/vv_gene2transcripts.json
+
+6. THE AUTHOR'S OWN WORK  (MIT licence, see LICENSE)
+------------------------------------------------------------------------------
+Analysis code, documentation and manuscript files written by the author.
+
+  .gitignore
+  LEGALLY_BINDING_TERMS_OF_USE.txt
+  LICENSE
+  README.docx
+  README.md
+  analysis/01_literature_search.py
+  analysis/02_screen_and_fetch.py
+  analysis/03_extract_mentions.py
+  analysis/04_build_truthset.py
+  analysis/05_verify.py
+  analysis/10_annotate.py
+  analysis/11_gnomad_overlap.py
+  analysis/12_analyse.py
+  analysis/15_figures.py
+  analysis/16_references.py
+  analysis/17_build_review_doc.py
+  analysis/18_stratified_analysis.py
+  analysis/19_figures_ejhg.py
+  analysis/20_build_ejhg_docx.py
+  analysis/21_build_tables.py
+  analysis/22_check_manuscript.py
+  analysis/23_ranking_manifest.py
+  analysis/24_build_ndt_docx.py
+  analysis/ag_auth.py
+  analysis/p_to_c.py
+  docs/ANALYSIS_PLAN.docx
+  docs/ANALYSIS_PLAN.md
+  docs/MANUAL_DOWNLOADS.docx
+  docs/MANUAL_DOWNLOADS.md
+  docs/PLAN_FREEZE.txt
+  docs/RESULTS_NOTE_2026-09-19.docx
+  docs/RESULTS_NOTE_2026-09-19.md
+  publication/DRAFT_manuscript_v0.1.docx
+  publication/DRAFT_manuscript_v0.1.md
+  publication/DRAFT_manuscript_v1.0.docx
+  publication/DRAFT_manuscript_v1.0.md
+  publication/DRAFT_manuscript_v1.0.referenced.docx
+  publication/DRAFT_manuscript_v1.0.referenced.md
+  publication/EJHG_manuscript_v2.0.md
+  publication/EJHG_manuscript_v2.0.referenced.docx
+  publication/EJHG_manuscript_v2.0.referenced.md
+  publication/EJHG_manuscript_v2.1.md
+  publication/EJHG_manuscript_v2.1.referenced.md
+  publication/EJHG_review_copy.docx
+  publication/EJHG_submission_manuscript.docx
+  publication/JMG_manuscript_v1.0.docx
+  publication/JMG_manuscript_v1.0.md
+  publication/JMG_manuscript_v1.0.referenced.docx
+  publication/JMG_manuscript_v1.0.referenced.md
+  publication/JMG_manuscript_v1.0.referenced_submission.docx
+  publication/MEDRXIV_manuscript_v1.0.docx
+  publication/MEDRXIV_manuscript_v1.0.md
+  publication/MEDRXIV_manuscript_v1.0.referenced.docx
+  publication/MEDRXIV_manuscript_v1.0.referenced.md
+  publication/MEDRXIV_manuscript_v1.0.referenced_submission.docx
+  publication/NDT_cover_letter.docx
+  publication/NDT_cover_letter.md
+  publication/NDT_manuscript_v1.0.md
+  publication/NDT_manuscript_v1.0.referenced.md
+  publication/NDT_review_copy.docx
+  publication/NDT_submission_manuscript.docx
+  publication/NDT_supplementary_methods.docx
+  publication/NDT_supplementary_methods.md
+  publication/PKD_AlphaGenome_REVIEW_COPY.docx
+  publication/PKD_AlphaGenome_reviewer_package.zip
+  publication/format_for_submission.py
+  publication/nomenclature_statement.docx
+  publication/nomenclature_statement.md
+  publication/references.docx
+  publication/references.md
+  publication/supp_table_S1_sources.csv
+  publication/supp_table_S1_sources.docx
+  publication/supp_table_S1_sources.md
+  publication/table1_truthset_composition.csv
+  publication/table2_discrimination.csv
+  publication/tables.md
+  publication/tables_ejhg.md
+  requirements.txt
+  reviewer_package/36029107.author_supplied.txt
+  reviewer_package/ANALYSIS_PLAN.md
+  reviewer_package/LEGALLY_BINDING_TERMS_OF_USE.txt
+  reviewer_package/NDT_supplementary_methods.md
+  reviewer_package/PLAN_FREEZE.txt
+  reviewer_package/README.md
+  reviewer_package/analysis_set_membership.tsv
+  reviewer_package/coverage_matrix.csv
+  reviewer_package/excluded_indels.tsv
+  reviewer_package/figure1_discrimination.png
+  reviewer_package/figure2_avi_attribution.png
+  reviewer_package/figure3_locus_rank.png
+  reviewer_package/implementation_details.md
+  reviewer_package/nomenclature_statement.md
+  reviewer_package/noncoding_background_ranks.tsv
+  reviewer_package/per_variant.tsv
+  reviewer_package/ranking_manifest.json
+  reviewer_package/references.md
+  reviewer_package/stratified.json
+  reviewer_package/summary.json
+  reviewer_package/supp_table_S1_sources.md
+  reviewer_package/tables_ejhg.md
+  reviewer_package/truthset_verified.tsv
+  reviewer_package/verify_from_package.py
