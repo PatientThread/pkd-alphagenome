@@ -5,7 +5,11 @@
      confirmed against jmg.bmj.com. Body is 2,418 words and the abstract 299,
      which sit inside the limits of every comparable BMJ title, but CHECK BEFORE
      SUBMITTING. JMG is hybrid: the subscription track costs nothing.
-     Key learning points removed (an NDT-specific box). -->
+     Reformatted to JMG's stated spec, supplied by the author 2 Oct 2026:
+     abstract <=250 words under Background / Methods / Results / Conclusion;
+     a Key messages box of 3-5 sentences after the abstract under JMG's three
+     headings; body <=4,000 words across Introduction, Methods, Results and
+     Discussion; <=6 tables and illustrations; <=50 references. -->
 
 # Predicting splicing variants in ADPKD: a functional benchmark of AlphaGenome and SpliceAI at PKD1 and PKD2
 
@@ -25,34 +29,48 @@ Keywords: autosomal dominant polycystic kidney disease; PKD1; RNA splicing; vari
 
 ## Abstract
 
-**Background and hypothesis.** Genetic testing in autosomal dominant polycystic kidney disease
-(ADPKD) informs prognosis, trial eligibility and living-donor assessment, yet about one patient in
-ten has no causal variant found after coding-region testing. Laboratories rely on computational
-predictors to decide which non-coding variant deserves an RNA study. SpliceAI is in routine use;
-AlphaGenome and its precomputed variant impact score (AVI) are newly available, and their behaviour
-at *PKD1* and *PKD2* is unknown.
+**Background.** In autosomal dominant polycystic kidney disease (ADPKD) about one patient in ten has
+no causal variant after coding-region testing, and laboratories use computational predictors to
+decide which non-coding variant deserves an RNA study. SpliceAI is routine; AlphaGenome and its
+precomputed variant impact score (AVI) are new, and untested at *PKD1* and *PKD2*.
 
 **Methods.** From a recorded search of 391 records we curated 128 *PKD1* and *PKD2* variants tested
-experimentally in 25 published studies, each carrying a verbatim quotation from its source, checked
-mechanically, and a description validated against GRCh38. Variants were assigned to the class of
-experiment producing their evidence, because a reporter of protein output is not evidence about
-splicing. The primary analysis compared AlphaGenome's documented splicing composite with
-SpliceAI on identical variants, as a paired difference with bootstrap intervals.
+experimentally in 25 published studies, each with a verbatim source quotation and a description
+validated against GRCh38. Variants were assigned to the class of experiment producing their evidence,
+because a reporter of protein output is not evidence about splicing.
+AlphaGenome's splicing composite was compared with SpliceAI on identical variants as a paired
+difference with bootstrap intervals.
 
 **Results.** The splicing class contained 50 variants shown to alter splicing and 70 tested with no
-effect detected. AlphaGenome and SpliceAI had the same observed area under the curve, 0.85 each (95%
-confidence interval 0.77 to 0.92 and 0.76 to 0.92), with a paired difference of 0.000 (-0.033 to
-0.037). AVI was weaker (0.72) and CADD weaker still (0.57). At the usual SpliceAI threshold of 0.2,
-41 of 50 demonstrated effects were flagged, together with 17 of 70 variants in which no effect was
-detected. Neither tool separated six 5' untranslated region variants whose effects on protein output
-ranged from 42% higher to 87% lower. Which tool ranked candidates better depended on the comparison
-set used.
+effect detected. AlphaGenome and SpliceAI had the same area under the curve, 0.85 each (95%
+confidence interval 0.77 to 0.92 and 0.76 to 0.92), paired difference 0.000 (-0.033 to 0.037). AVI
+was weaker (0.72), CADD weaker still (0.57). At the SpliceAI threshold of 0.2, 41 of 50 demonstrated
+effects were flagged, with 17 of 70 in which none was detected. Neither tool separated six 5'
+untranslated region variants whose protein output ranged from 42% higher to 87% lower.
 
-**Conclusions.** AlphaGenome offers no accuracy gain over SpliceAI at these loci. Both miss about one
+**Conclusion.** AlphaGenome offers no accuracy gain over SpliceAI here, and both miss about one
 demonstrated effect in five. Predictions should prompt an RNA study, not stand as evidence of
 mechanism.
 
----
+## Key messages
+
+**What is already known on this topic**
+
+SpliceAI is used routinely to triage non-coding variants in ADPKD, but no benchmark of any
+sequence-to-function predictor existed at *PKD1* or *PKD2* against variants with published
+experimental evidence.
+
+**What this study adds**
+
+On 120 experimentally tested variants AlphaGenome and SpliceAI performed identically (area under the
+curve 0.85 each; paired difference 0.000, -0.033 to 0.037), and both missed about one demonstrated
+effect in five, including every variant acting after transcription.
+
+**How this study might affect research, practice or policy**
+
+A high prediction should trigger an RNA study rather than substitute for one, and a low prediction
+should not close a case; laboratories gain nothing at these loci by replacing SpliceAI with
+AlphaGenome.
 
 ## Introduction
 
