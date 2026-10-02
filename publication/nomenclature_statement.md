@@ -1,6 +1,8 @@
 # Gene and variant nomenclature statement
 
-Submitted separately, as requested by the journal.
+Submitted separately, as requested by the journal, in support of the manuscript
+"Predicting splicing variants in ADPKD: a functional benchmark of AlphaGenome and SpliceAI at *PKD1*
+and *PKD2*".
 
 ## Genes
 
@@ -25,8 +27,10 @@ example c.*153).
 Descriptions follow the Human Genome Variation Society recommendations. Every description in this
 manuscript, its tables and its supplementary material was validated mechanically with
 VariantValidator against the transcripts above, which also supplied the genomic coordinates used for
-scoring. All 131 source-level entries passed. No description is carried over unchecked from its
-source publication.
+scoring. All 131 source-level entries passed. Those 131 entries collapse to the 128 unique variants reported
+in the manuscript, because three variants were described independently in more than one source
+publication and each description was verified separately. No description is carried over unchecked
+from its source publication.
 
 Two conversions were necessary and are documented in the repository:
 
